@@ -1,0 +1,7102 @@
+{ 
+  "stock_profile": {
+    "ADC": {
+      "full_name": "Công ty Cổ phần Mĩ thuật và Truyền thông",
+      "exchange": "hnx"
+    },
+    "ALT": {
+      "full_name": "Công ty Cổ phần Văn hóa Tân Bình",
+      "exchange": "hnx"
+    },
+    "AMC": {
+      "full_name": "Công ty Cổ phần Khoáng sản Á Châu",
+      "exchange": "hnx"
+    },
+    "AME": {
+      "full_name": "Công ty Cổ phần Alphanam Cơ điện",
+      "exchange": "hnx"
+    },
+    "AMV": {
+      "full_name": "Công ty Cổ phần Sản xuất Kinh doanh Dược và Trang thiết bị Y tế Việt Mỹ",
+      "exchange": "hnx"
+    },
+    "API": {
+      "full_name": "Công ty Cổ phần Đầu tư Châu Á Thái Bình Dương",
+      "exchange": "hnx"
+    },
+    "APS": {
+      "full_name": "Công ty Cổ phần Chứng khoán Châu Á - Thái Bình Dương",
+      "exchange": "hnx"
+    },
+    "ARM": {
+      "full_name": "Công ty Cổ phần Xuất nhập khẩu Hàng không",
+      "exchange": "hnx"
+    },
+    "BBS": {
+      "full_name": "Công ty Cổ phần VICEM Bao bì Bút Sơn",
+      "exchange": "hnx"
+    },
+    "BCC": {
+      "full_name": "Công ty Cổ phần Xi măng Bỉm Sơn",
+      "exchange": "hnx"
+    },
+    "BDB": {
+      "full_name": "Công ty Cổ phần Sách và Thiết bị Bình Định",
+      "exchange": "hnx"
+    },
+    "BED": {
+      "full_name": "Công ty Cổ phần Sách và Thiết bị trường học Đà Nẵng",
+      "exchange": "hnx"
+    },
+    "BKC": {
+      "full_name": "Công ty Cổ phần Khoáng sản Bắc Kạn",
+      "exchange": "hnx"
+    },
+    "BLF": {
+      "full_name": "Công ty Cổ phần Thuỷ sản Bạc Liêu",
+      "exchange": "hnx"
+    },
+    "BPC": {
+      "full_name": "Công ty Cổ phần Vicem Bao bì Bỉm Sơn",
+      "exchange": "hnx"
+    },
+    "BSC": {
+      "full_name": "Công ty Cổ phần Dịch vụ Bến Thành",
+      "exchange": "hnx"
+    },
+    "BST": {
+      "full_name": "Công ty Cổ phần Sách và Thiết bị Bình Thuận",
+      "exchange": "hnx"
+    },
+    "BTS": {
+      "full_name": "Công ty Cổ phần VICEM Xi măng Bút Sơn",
+      "exchange": "hnx"
+    },
+    "BTW": {
+      "full_name": "Công ty Cổ phần Cấp nước Bến Thành",
+      "exchange": "hnx"
+    },
+    "BVS": {
+      "full_name": "Công ty Cổ phần Chứng khoán Bảo Việt",
+      "exchange": "hnx"
+    },
+    "BXH": {
+      "full_name": "Công ty Cổ phần VICEM Bao bì Hải Phòng",
+      "exchange": "hnx"
+    },
+    "CAN": {
+      "full_name": "Công ty Cổ phần Đồ hộp Hạ Long",
+      "exchange": "hnx"
+    },
+    "CAP": {
+      "full_name": "Công ty Cổ phần Lâm Nông sản Thực phẩm Yên Bái",
+      "exchange": "hnx"
+    },
+    "CCR": {
+      "full_name": "Công ty Cổ phần Cảng Cam Ranh",
+      "exchange": "hnx"
+    },
+    "CEO": {
+      "full_name": "Công ty Cổ phần Tập đoàn C.E.O",
+      "exchange": "hnx"
+    },
+    "CJC": {
+      "full_name": "Công ty Cổ phần Cơ điện Miền Trung",
+      "exchange": "hnx"
+    },
+    "CKV": {
+      "full_name": "Công ty Cổ phần CokyVina",
+      "exchange": "hnx"
+    },
+    "CMC": {
+      "full_name": "Công ty Cổ phần Đầu tư CMC",
+      "exchange": "hnx"
+    },
+    "CMS": {
+      "full_name": "Công ty Cổ phần Xây dựng và Nhân lực Việt Nam",
+      "exchange": "hnx"
+    },
+    "CPC": {
+      "full_name": "Công ty Cổ phần Thuốc sát trùng Cần Thơ",
+      "exchange": "hnx"
+    },
+    "CSC": {
+      "full_name": "Công ty Cổ phần Đầu tư và Xây dựng Thành Nam",
+      "exchange": "hnx"
+    },
+    "CTB": {
+      "full_name": "Công ty Cổ phần Chế tạo Bơm Hải Dương",
+      "exchange": "hnx"
+    },
+    "CTC": {
+      "full_name": "Công ty Cổ phần Gia Lai CTC",
+      "exchange": "hnx"
+    },
+    "CTT": {
+      "full_name": "Công ty Cổ phần Chế tạo máy Vinacomin",
+      "exchange": "hnx"
+    },
+    "CTX": {
+      "full_name": "Tổng Công ty Cổ phần Đầu tư Xây dựng và Thương mại Việt Nam",
+      "exchange": "hnx"
+    },
+    "CVN": {
+      "full_name": "Công ty Cổ phần Vinam",
+      "exchange": "hnx"
+    },
+    "CX8": {
+      "full_name": "Công ty Cổ phần Đầu tư và Xây lắp Contrexim số 8",
+      "exchange": "hnx"
+    },
+    "D11": {
+      "full_name": "Công ty Cổ phần Địa ốc 11",
+      "exchange": "hnx"
+    },
+    "DAD": {
+      "full_name": "Công ty Cổ phần Đầu tư và Phát triển Giáo dục Đà Nẵng",
+      "exchange": "hnx"
+    },
+    "DAE": {
+      "full_name": "Công ty Cổ phần Sách Giáo dục tại TP.Đà Nẵng",
+      "exchange": "hnx"
+    },
+    "DC2": {
+      "full_name": "Công ty Cổ phần Đầu tư Phát triển - Xây dựng (DIC) số 2",
+      "exchange": "hnx"
+    },
+    "DHP": {
+      "full_name": "Công ty Cổ phần Điện cơ Hải Phòng",
+      "exchange": "hnx"
+    },
+    "DHT": {
+      "full_name": "Công ty Cổ phần Dược phẩm Hà Tây",
+      "exchange": "hnx"
+    },
+    "DIH": {
+      "full_name": "Công ty Cổ phần Đầu tư Phát triển Xây dựng - Hội An",
+      "exchange": "hnx"
+    },
+    "DL1": {
+      "full_name": "Công ty Cổ phần Đầu tư Phát triển Dịch vụ Công trình Công cộng Đức Long Gia Lai",
+      "exchange": "hnx"
+    },
+    "DNC": {
+      "full_name": "Công ty Cổ phần Điện nước Lắp máy Hải Phòng",
+      "exchange": "hnx"
+    },
+    "DNP": {
+      "full_name": "Công ty Cổ phần Nhựa Đồng Nai",
+      "exchange": "hnx"
+    },
+    "DP3": {
+      "full_name": "Công ty Cổ Phần Dược Phẩm Trung Ương 3",
+      "exchange": "hnx"
+    },
+    "DPC": {
+      "full_name": "Công ty Cổ phần Nhựa Đà Nẵng",
+      "exchange": "hnx"
+    },
+    "DST": {
+      "full_name": "Công ty Cổ phần Sách và Thiết bị Giáo dục Nam Định",
+      "exchange": "hnx"
+    },
+    "DTC": {
+      "full_name": "Công ty Cổ phần Viglacera Đông Triều",
+      "exchange": "hnx"
+    },
+    "DXP": {
+      "full_name": "Công ty Cổ phần Cảng Đoạn Xá",
+      "exchange": "hnx"
+    },
+    "DZM": {
+      "full_name": "Công ty Cổ phần Chế tạo máy Dzĩ An",
+      "exchange": "hnx"
+    },
+    "EBS": {
+      "full_name": "Công ty Cổ phần Sách Giáo dục tại Thành phố Hà Nội",
+      "exchange": "hnx"
+    },
+    "ECI": {
+      "full_name": "Công ty Cổ phần Bản đồ và Tranh ảnh Giáo dục",
+      "exchange": "hnx"
+    },
+    "EID": {
+      "full_name": "Công ty Cổ phần Đầu tư và Phát triển Giáo dục Hà Nội",
+      "exchange": "hnx"
+    },
+    "FID": {
+      "full_name": "Công ty Cổ phần Đầu tư và phát triển doanh nghiệp Việt Nam",
+      "exchange": "hnx"
+    },
+    "GDW": {
+      "full_name": "Công ty Cổ phần Cấp nước Gia Định",
+      "exchange": "hnx"
+    },
+    "GLT": {
+      "full_name": "Công ty Cổ phần Kỹ thuật điện Toàn Cầu",
+      "exchange": "hnx"
+    },
+    "GMX": {
+      "full_name": "Công ty Cổ phần Gạch ngói Gốm xây dựng Mỹ Xuân",
+      "exchange": "hnx"
+    },
+    "HAD": {
+      "full_name": "Công ty Cổ phần Bia Hà Nội – Hải Dương",
+      "exchange": "hnx"
+    },
+    "HAT": {
+      "full_name": "Công ty Cổ phần Thương mại Bia Hà Nội",
+      "exchange": "hnx"
+    },
+    "HBS": {
+      "full_name": "Công ty Cổ phần Chứng khoán Hòa Bình",
+      "exchange": "hnx"
+    },
+    "HCC": {
+      "full_name": "Công ty Cổ phần Bê tông Hoà Cầm - Intimex",
+      "exchange": "hnx"
+    },
+    "HCT": {
+      "full_name": "Công ty Cổ phần Thương mại - Dịch vụ - Vận tải Xi măng Hải Phòng",
+      "exchange": "hnx"
+    },
+    "HDA": {
+      "full_name": "Công ty Cổ phần Hãng sơn Đông Á",
+      "exchange": "hnx"
+    },
+    "HEV": {
+      "full_name": "Công ty Cổ phần Sách Đại học - Dạy nghề",
+      "exchange": "hnx"
+    },
+    "HGM": {
+      "full_name": "Công ty Cổ phần Cơ khí và Khoáng sản Hà Giang",
+      "exchange": "hnx"
+    },
+    "HHC": {
+      "full_name": "Công ty Cổ phần Bánh kẹo Hải Hà",
+      "exchange": "hnx"
+    },
+    "HJS": {
+      "full_name": "Công ty Cổ phần Thuỷ điện Nậm Mu",
+      "exchange": "hnx"
+    },
+    "HLC": {
+      "full_name": "Công ty Cổ phần Than Hà Lầm - TKV",
+      "exchange": "hnx"
+    },
+    "HLD": {
+      "full_name": "Công ty Cổ phần Đầu tư và Phát triển Bất động sản HUDLAND",
+      "exchange": "hnx"
+    },
+    "HMH": {
+      "full_name": "Công ty Cổ phần Hải Minh",
+      "exchange": "hnx"
+    },
+    "HOM": {
+      "full_name": "Công ty Cổ phần Xi măng VICEM Hoàng Mai",
+      "exchange": "hnx"
+    },
+    "HTC": {
+      "full_name": "Công ty Cổ phần Thương mại Hóc Môn",
+      "exchange": "hnx"
+    },
+    "HTP": {
+      "full_name": "Công ty Cổ phần In sách giáo khoa Hoà Phát",
+      "exchange": "hnx"
+    },
+    "HUT": {
+      "full_name": "Công ty Cổ phần Tasco",
+      "exchange": "hnx"
+    },
+    "HVT": {
+      "full_name": "Công ty Cổ phần Hóa chất Việt Trì",
+      "exchange": "hnx"
+    },
+    "ICG": {
+      "full_name": "Công ty Cổ phần Xây dựng Sông Hồng",
+      "exchange": "hnx"
+    },
+    "IDJ": {
+      "full_name": "Công ty Cổ phần Đầu tư IDJ Việt Nam",
+      "exchange": "hnx"
+    },
+    "IDV": {
+      "full_name": "Công ty Cổ phần Phát triển Hạ tầng Vĩnh Phúc",
+      "exchange": "hnx"
+    },
+    "INC": {
+      "full_name": "Công ty Cổ phần Tư vấn Đầu tư IDICO",
+      "exchange": "hnx"
+    },
+    "INN": {
+      "full_name": "Công ty Cổ phần Bao bì và In Nông nghiệp",
+      "exchange": "hnx"
+    },
+    "ITQ": {
+      "full_name": "Công ty Cổ phần Tập đoàn Thiên Quang",
+      "exchange": "hnx"
+    },
+    "IVS": {
+      "full_name": "Công ty Cổ phần Chứng khoán Đầu tư Việt Nam",
+      "exchange": "hnx"
+    },
+    "KKC": {
+      "full_name": "Công ty Cổ phần Sản xuất và Kinh doanh Kim khí",
+      "exchange": "hnx"
+    },
+    "KLF": {
+      "full_name": "Công ty Cổ phần Liên doanh Đầu tư Quốc tế KLF",
+      "exchange": "hnx"
+    },
+    "KMT": {
+      "full_name": "Công ty Cổ phần Kim khí Miền Trung",
+      "exchange": "hnx"
+    },
+    "KSD": {
+      "full_name": "Công ty Cổ phần Đầu tư DNA",
+      "exchange": "hnx"
+    },
+    "KSQ": {
+      "full_name": "Công ty Cổ phần Khoáng sản Quang Anh",
+      "exchange": "hnx"
+    },
+    "KST": {
+      "full_name": "Công ty Cổ phần KASATI",
+      "exchange": "hnx"
+    },
+    "KTS": {
+      "full_name": "Công ty Cổ phần Đường Kon Tum",
+      "exchange": "hnx"
+    },
+    "KTT": {
+      "full_name": "Công ty Cổ phần Đầu tư Thiết bị và Xây lắp Điện Thiên Trường",
+      "exchange": "hnx"
+    },
+    "L14": {
+      "full_name": "Công ty Cổ phần Licogi 14",
+      "exchange": "hnx"
+    },
+    "L18": {
+      "full_name": "Công ty Cổ phần Đầu tư và Xây dựng số 18",
+      "exchange": "hnx"
+    },
+    "L43": {
+      "full_name": "Công ty Cổ phần Lilama 45.3",
+      "exchange": "hnx"
+    },
+    "L61": {
+      "full_name": "Công ty Cổ phần Lilama 69-1",
+      "exchange": "hnx"
+    },
+    "L62": {
+      "full_name": "Công ty Cổ phần Lilama 69.2",
+      "exchange": "hnx"
+    },
+    "LAS": {
+      "full_name": "Công ty Cổ phần Supe Phốt phát và Hóa chất Lâm Thao",
+      "exchange": "hnx"
+    },
+    "LBE": {
+      "full_name": "Công ty Cổ phần Sách và Thiết bị Trường học Long An",
+      "exchange": "hnx"
+    },
+    "LCD": {
+      "full_name": "Công ty Cổ phần Lắp máy - Thí nghiệm cơ điện",
+      "exchange": "hnx"
+    },
+    "LDP": {
+      "full_name": "Công ty Cổ phần Dược Lâm Đồng - Ladophar",
+      "exchange": "hnx"
+    },
+    "LHC": {
+      "full_name": "Công ty Cổ phần Đầu tư và Xây dựng Thủy lợi Lâm Đồng",
+      "exchange": "hnx"
+    },
+    "LIG": {
+      "full_name": "Công ty Cổ phần Licogi 13",
+      "exchange": "hnx"
+    },
+    "MAC": {
+      "full_name": "Công ty Cổ phần Cung ứng và Dịch vụ Kỹ thuật Hàng hải",
+      "exchange": "hnx"
+    },
+    "MAS": {
+      "full_name": "Công ty cổ phần Dịch vụ Hàng Không Sân Bay Đà Nẵng",
+      "exchange": "hnx"
+    },
+    "MCC": {
+      "full_name": "Công ty Cổ phần Gạch ngói cao cấp",
+      "exchange": "hnx"
+    },
+    "MCF": {
+      "full_name": "Công ty Cổ phần Xây lắp Cơ khí và Lương thực Thực phẩm",
+      "exchange": "hnx"
+    },
+    "MCO": {
+      "full_name": "Công ty Cổ phần Đầu tư và Xây dựng BDC Việt Nam",
+      "exchange": "hnx"
+    },
+    "MDC": {
+      "full_name": "Công ty Cổ phần Than Mông Dương - Vinacomin",
+      "exchange": "hnx"
+    },
+    "MED": {
+      "full_name": "Công ty Cổ phần Dược Trung ương Mediplantex",
+      "exchange": "hnx"
+    },
+    "MHL": {
+      "full_name": "Công ty Cổ phần Minh Hữu Liên",
+      "exchange": "hnx"
+    },
+    "MIM": {
+      "full_name": "Công ty Cổ phần Khoáng sản và Cơ khí",
+      "exchange": "hnx"
+    },
+    "MKV": {
+      "full_name": "Công ty Cổ phần Dược Thú Y Cai Lậy",
+      "exchange": "hnx"
+    },
+    "NAG": {
+      "full_name": "Công ty Cổ phần Nagakawa Việt Nam",
+      "exchange": "hnx"
+    },
+    "NBC": {
+      "full_name": "Công ty Cổ phần Than Núi Béo - Vinacomin",
+      "exchange": "hnx"
+    },
+    "NBP": {
+      "full_name": "Công ty Cổ phần Nhiệt Điện Ninh Bình",
+      "exchange": "hnx"
+    },
+    "NBW": {
+      "full_name": "Công ty Cổ phần Cấp nước Nhà Bè",
+      "exchange": "hnx"
+    },
+    "NDN": {
+      "full_name": "Công ty Cổ phần Đầu tư Phát triển Nhà Đà Nẵng",
+      "exchange": "hnx"
+    },
+    "NDX": {
+      "full_name": "Công ty Cổ phần Xây lắp Phát triển Nhà Đà Nẵng",
+      "exchange": "hnx"
+    },
+    "NET": {
+      "full_name": "Công ty Cổ phần Bột giặt Net",
+      "exchange": "hnx"
+    },
+    "NFC": {
+      "full_name": "Công ty Cổ phần Phân lân Ninh Bình",
+      "exchange": "hnx"
+    },
+    "NHC": {
+      "full_name": "Công ty Cổ phần Gạch ngói Nhị Hiệp",
+      "exchange": "hnx"
+    },
+    "NST": {
+      "full_name": "Công ty Cổ phần Ngân Sơn",
+      "exchange": "hnx"
+    },
+    "NTP": {
+      "full_name": "Công ty Cổ phần Nhựa Thiếu niên Tiền Phong",
+      "exchange": "hnx"
+    },
+    "NVB": {
+      "full_name": "Ngân hàng Thương mại Cổ phần Quốc Dân",
+      "exchange": "hnx"
+    },
+    "OCH": {
+      "full_name": "Công ty Cổ phần Khách sạn và Dịch vụ Đại Dương",
+      "exchange": "hnx"
+    },
+    "ONE": {
+      "full_name": "Công ty Cổ phần Truyền thông số 1",
+      "exchange": "hnx"
+    },
+    "PBP": {
+      "full_name": "Công ty Cổ phần Bao bì Dầu khí Việt Nam",
+      "exchange": "hnx"
+    },
+    "PCE": {
+      "full_name": "Công ty Cổ phần Phân bón và hóa chất dầu khí Miền Trung",
+      "exchange": "hnx"
+    },
+    "PCG": {
+      "full_name": "Công ty Cổ phần Đầu tư Phát triển Gas Đô thị",
+      "exchange": "hnx"
+    },
+    "PCT": {
+      "full_name": "Công ty Cổ phần Vận tải Dầu khí Cửu Long",
+      "exchange": "hnx"
+    },
+    "PDB": {
+      "full_name": "Công ty Cổ phần Pacific Dinco",
+      "exchange": "hnx"
+    },
+    "PEN": {
+      "full_name": "Công ty Cổ phần Xây lắp III Petrolimex",
+      "exchange": "hnx"
+    },
+    "PGS": {
+      "full_name": "Công ty Cổ phần Kinh doanh Khí hoá lỏng miền Nam",
+      "exchange": "hnx"
+    },
+    "PGT": {
+      "full_name": "Công ty Cổ phần Taxi Gas Sài Gòn Petrolimex",
+      "exchange": "hnx"
+    },
+    "PIC": {
+      "full_name": "Công ty Cổ phần Đầu tư Điện lực 3",
+      "exchange": "hnx"
+    },
+    "PJC": {
+      "full_name": "Công ty Cổ phần Thương mại và Vận tải Petrolimex Hà Nội",
+      "exchange": "hnx"
+    },
+    "PLC": {
+      "full_name": "Tổng Công ty Hoá dầu Petrolimex - Công ty Cổ phần",
+      "exchange": "hnx"
+    },
+    "PMB": {
+      "full_name": "Công ty Cổ phần Phân bón và Hóa chất Dầu khí Miền Bắc",
+      "exchange": "hnx"
+    },
+    "PMC": {
+      "full_name": "Công ty Cổ phần Dược phẩm Dược liệu Pharmedic",
+      "exchange": "hnx"
+    },
+    "PMP": {
+      "full_name": "Công ty Cổ phần Bao bì Đạm Phú Mỹ",
+      "exchange": "hnx"
+    },
+    "PMS": {
+      "full_name": "Công ty Cổ phần Cơ khí Xăng dầu",
+      "exchange": "hnx"
+    },
+    "POT": {
+      "full_name": "Công ty Cổ phần Thiết bị Bưu điện",
+      "exchange": "hnx"
+    },
+    "PPE": {
+      "full_name": "Công ty Cổ phần Tư vấn Điện lực Dầu khí Việt Nam",
+      "exchange": "hnx"
+    },
+    "PPP": {
+      "full_name": "Công ty Cổ phần Dược phẩm Phong Phú",
+      "exchange": "hnx"
+    },
+    "PPS": {
+      "full_name": "Công ty Cổ phần Dịch vụ Kỹ thuật Điện lực Dầu khí Việt Nam",
+      "exchange": "hnx"
+    },
+    "PRC": {
+      "full_name": "Công ty Cổ phần Portserco",
+      "exchange": "hnx"
+    },
+    "PSC": {
+      "full_name": "Công ty Cổ phần Vận tải và Dịch vụ Petrolimex Sài Gòn",
+      "exchange": "hnx"
+    },
+    "PSD": {
+      "full_name": "Công ty Cổ phần Dịch vụ Phân phối Tổng hợp Dầu khí",
+      "exchange": "hnx"
+    },
+    "PSE": {
+      "full_name": "Công ty Cổ phần Phân bón và hóa chất dầu khí Đông Nam Bộ",
+      "exchange": "hnx"
+    },
+    "PSI": {
+      "full_name": "Công ty Cổ phần Chứng khoán Dầu khí",
+      "exchange": "hnx"
+    },
+    "PSW": {
+      "full_name": "Công ty Cổ phần Phân bón và hóa chất dầu khí Tây Nam Bộ",
+      "exchange": "hnx"
+    },
+    "PTD": {
+      "full_name": "Công ty Cổ phần Thiết kế - Xây dựng - Thương mại Phúc Thịnh",
+      "exchange": "hnx"
+    },
+    "PTI": {
+      "full_name": "Tổng Công ty Cổ phần Bảo hiểm Bưu điện",
+      "exchange": "hnx"
+    },
+    "PTS": {
+      "full_name": "Công ty Cổ phần Vận tải và Dịch vụ Petrolimex Hải Phòng",
+      "exchange": "hnx"
+    },
+    "PV2": {
+      "full_name": "Công ty Cổ phần Đầu tư PV2",
+      "exchange": "hnx"
+    },
+    "PVB": {
+      "full_name": "Công ty Cổ phần Bọc ống Dầu khí Việt Nam",
+      "exchange": "hnx"
+    },
+    "PVC": {
+      "full_name": "Tổng Công ty Dung dịch Khoan và Hoá phẩm Dầu khí - Công ty Cổ phần",
+      "exchange": "hnx"
+    },
+    "PVG": {
+      "full_name": "Công ty Cổ phần Kinh doanh Khí hóa lỏng Miền Bắc",
+      "exchange": "hnx"
+    },
+    "PVI": {
+      "full_name": "Công ty Cổ phần PVI",
+      "exchange": "hnx"
+    },
+    "PVS": {
+      "full_name": "Tổng Công ty Cổ phần Dịch vụ Kỹ thuật Dầu khí Việt Nam",
+      "exchange": "hnx"
+    },
+    "QHD": {
+      "full_name": "Công ty Cổ phần Que hàn điện Việt Đức",
+      "exchange": "hnx"
+    },
+    "QST": {
+      "full_name": "Công ty Cổ phần Sách và Thiết bị trường học Quảng Ninh",
+      "exchange": "hnx"
+    },
+    "QTC": {
+      "full_name": "Công ty Cổ phần Công trình Giao thông Vận tải Quảng Nam",
+      "exchange": "hnx"
+    },
+    "RCL": {
+      "full_name": "Công ty Cổ phần Địa ốc Chợ Lớn",
+      "exchange": "hnx"
+    },
+    "S55": {
+      "full_name": "Công ty Cổ phần Sông Đà 505",
+      "exchange": "hnx"
+    },
+    "S99": {
+      "full_name": "Công ty Cổ phần SCI",
+      "exchange": "hnx"
+    },
+    "SAF": {
+      "full_name": "Công ty Cổ phần Lương thực Thực phẩm SAFOCO",
+      "exchange": "hnx"
+    },
+    "SCI": {
+      "full_name": "Công ty Cổ phần Xây dựng và Đầu tư Sông Đà 9",
+      "exchange": "hnx"
+    },
+    "SD5": {
+      "full_name": "Công ty Cổ phần Sông Đà 5",
+      "exchange": "hnx"
+    },
+    "SD6": {
+      "full_name": "Công ty Cổ phần Sông Đà 6",
+      "exchange": "hnx"
+    },
+    "SD9": {
+      "full_name": "Công ty Cổ phần Sông Đà 9",
+      "exchange": "hnx"
+    },
+    "SDA": {
+      "full_name": "Công ty Cổ phần SIMCO Sông Đà",
+      "exchange": "hnx"
+    },
+    "SDC": {
+      "full_name": "Công ty Cổ phần Tư vấn Sông Đà",
+      "exchange": "hnx"
+    },
+    "SDG": {
+      "full_name": "Công ty Cổ phần Sadico Cần Thơ",
+      "exchange": "hnx"
+    },
+    "SDN": {
+      "full_name": "Công ty Cổ phần Sơn Đồng Nai",
+      "exchange": "hnx"
+    },
+    "SDT": {
+      "full_name": "Công ty Cổ phần Sông Đà 10",
+      "exchange": "hnx"
+    },
+    "SDU": {
+      "full_name": "Công ty Cổ phần Đầu tư Xây dựng và Phát triển Đô thị Sông Đà",
+      "exchange": "hnx"
+    },
+    "SEB": {
+      "full_name": "Công ty Cổ phần Đầu tư và Phát triển Điện Miền Trung",
+      "exchange": "hnx"
+    },
+    "SED": {
+      "full_name": "Công ty Cổ phần Đầu tư và Phát triển Giáo dục Phương Nam",
+      "exchange": "hnx"
+    },
+    "SFN": {
+      "full_name": "Công ty Cổ phần Dệt lưới Sài Gòn",
+      "exchange": "hnx"
+    },
+    "SGC": {
+      "full_name": "Công ty Cổ phần Xuất nhập khẩu Sa Giang",
+      "exchange": "hnx"
+    },
+    "SGD": {
+      "full_name": "Công ty Cổ phần Sách Giáo dục tại TP.HCM",
+      "exchange": "hnx"
+    },
+    "SGH": {
+      "full_name": "Công ty Cổ phần Khách sạn Sài Gòn",
+      "exchange": "hnx"
+    },
+    "SHN": {
+      "full_name": "Công ty Cổ phần Đầu tư Tổng hợp Hà Nội",
+      "exchange": "hnx"
+    },
+    "SHS": {
+      "full_name": "Công ty Cổ phần Chứng khoán Sài Gòn Hà Nội",
+      "exchange": "hnx"
+    },
+    "SJ1": {
+      "full_name": "Công ty Cổ phần Nông nghiệp Hùng Hậu",
+      "exchange": "hnx"
+    },
+    "SJE": {
+      "full_name": "Công ty Cổ phần Sông Đà 11",
+      "exchange": "hnx"
+    },
+    "SLS": {
+      "full_name": "Công ty Cổ phần Mía đường Sơn La",
+      "exchange": "hnx"
+    },
+    "SMN": {
+      "full_name": "Công ty Cổ phần Sách và thiết bị giáo dục Miền Nam",
+      "exchange": "hnx"
+    },
+    "SMT": {
+      "full_name": "Công ty Cổ phần Vật liệu Điện và Viễn thông Sam Cường",
+      "exchange": "hnx"
+    },
+    "SPC": {
+      "full_name": "Công ty Cổ phần Bảo vệ Thực vật Sài Gòn",
+      "exchange": "hnx"
+    },
+    "SPI": {
+      "full_name": "Công ty Cổ phần Đá Spilít",
+      "exchange": "hnx"
+    },
+    "SRA": {
+      "full_name": "Công ty Cổ phần SARA Việt Nam",
+      "exchange": "hnx"
+    },
+    "SSM": {
+      "full_name": "Công ty Cổ phần Chế tạo kết cấu thép VNECO.SSM",
+      "exchange": "hnx"
+    },
+    "STC": {
+      "full_name": "Công ty Cổ phần Sách và Thiết bị trường học Tp. Hồ Chí Minh",
+      "exchange": "hnx"
+    },
+    "STP": {
+      "full_name": "Công ty Cổ phần Công nghiệp Thương mại Sông Đà",
+      "exchange": "hnx"
+    },
+    "SVN": {
+      "full_name": "Công ty Cổ phần SOLAVINA",
+      "exchange": "hnx"
+    },
+    "TA9": {
+      "full_name": "Công ty Cổ phần Xây lắp Thành An 96",
+      "exchange": "hnx"
+    },
+    "TBX": {
+      "full_name": "Công ty Cổ phần Xi măng Thái Bình",
+      "exchange": "hnx"
+    },
+    "TC6": {
+      "full_name": "Công ty Cổ phần Than Cọc Sáu – Vinacomin",
+      "exchange": "hnx"
+    },
+    "TDN": {
+      "full_name": "Công ty Cổ phần Than Đèo Nai - Vinacomin",
+      "exchange": "hnx"
+    },
+    "TET": {
+      "full_name": "Công ty Cổ phần Vải sợi May mặc Miền Bắc",
+      "exchange": "hnx"
+    },
+    "THB": {
+      "full_name": "Công ty Cổ phần Bia Thanh Hóa",
+      "exchange": "hnx"
+    },
+    "THS": {
+      "full_name": "Công ty Cổ phần Thanh Hoa Sông Đà",
+      "exchange": "hnx"
+    },
+    "THT": {
+      "full_name": "Công ty Cổ phần Than Hà Tu - Vinacomin",
+      "exchange": "hnx"
+    },
+    "TIG": {
+      "full_name": "Công ty Cổ phần Tập đoàn Đầu tư Thăng Long",
+      "exchange": "hnx"
+    },
+    "TJC": {
+      "full_name": "Công ty Cổ phần Dịch vụ Vận tải và Thương mại",
+      "exchange": "hnx"
+    },
+    "TKC": {
+      "full_name": "Công ty Cổ phần Xây dựng và Kinh doanh Địa ốc Tân Kỷ",
+      "exchange": "hnx"
+    },
+    "TKU": {
+      "full_name": "Công ty Cổ phần Công nghiệp Tung Kuang",
+      "exchange": "hnx"
+    },
+    "TMC": {
+      "full_name": "Công ty Cổ phần Thương mại Xuất nhập khẩu Thủ Đức",
+      "exchange": "hnx"
+    },
+    "TMX": {
+      "full_name": "Công ty Cổ phần VICEM Thương mại Xi măng",
+      "exchange": "hnx"
+    },
+    "TNG": {
+      "full_name": "Công ty Cổ phần Đầu tư và Thương mại TNG",
+      "exchange": "hnx"
+    },
+    "TPH": {
+      "full_name": "Công ty Cổ phần In Sách giáo khoa tại TP.Hà Nội",
+      "exchange": "hnx"
+    },
+    "TPP": {
+      "full_name": "Công ty Cổ phần Nhựa Tân Phú",
+      "exchange": "hnx"
+    },
+    "TSB": {
+      "full_name": "Công ty Cổ phần Ắc quy Tia Sáng",
+      "exchange": "hnx"
+    },
+    "TTC": {
+      "full_name": "Công ty Cổ phần Gạch men Thanh Thanh",
+      "exchange": "hnx"
+    },
+    "TTZ": {
+      "full_name": "Công ty Cổ phần Đầu tư Xây dựng và Công nghệ Tiến Trung",
+      "exchange": "hnx"
+    },
+    "TV3": {
+      "full_name": "Công ty Cổ phần Tư vấn Xây dựng Điện 3",
+      "exchange": "hnx"
+    },
+    "TV4": {
+      "full_name": "Công ty Cổ phần Tư vấn Xây dựng Điện 4",
+      "exchange": "hnx"
+    },
+    "TVC": {
+      "full_name": "Công ty Cổ phần Quản lý Đầu tư Trí Việt",
+      "exchange": "hnx"
+    },
+    "TVD": {
+      "full_name": "Công ty Cổ phần Than Vàng Danh - Vinacomin",
+      "exchange": "hnx"
+    },
+    "TXM": {
+      "full_name": "Công ty Cổ phần VICEM Thạch cao Xi Măng",
+      "exchange": "hnx"
+    },
+    "UNI": {
+      "full_name": "Công ty Cổ phần Viễn Liên",
+      "exchange": "hnx"
+    },
+    "V12": {
+      "full_name": "Công ty Cổ phần Xây dựng số 12",
+      "exchange": "hnx"
+    },
+    "V21": {
+      "full_name": "Công ty Cổ phần Vinaconex 21",
+      "exchange": "hnx"
+    },
+    "VBC": {
+      "full_name": "Công ty Cổ phần Nhựa – Bao bì Vinh",
+      "exchange": "hnx"
+    },
+    "VC1": {
+      "full_name": "Công ty Cổ phần Xây dựng số 1",
+      "exchange": "hnx"
+    },
+    "VC2": {
+      "full_name": "Công ty Cổ phần Xây dựng số 2",
+      "exchange": "hnx"
+    },
+    "VC3": {
+      "full_name": "Công ty Cổ phần Xây dựng số 3",
+      "exchange": "hnx"
+    },
+    "VC6": {
+      "full_name": "Công ty Cổ phần Vinaconex 6",
+      "exchange": "hnx"
+    },
+    "VC7": {
+      "full_name": "Công ty Cổ Phần Xây dựng số 7",
+      "exchange": "hnx"
+    },
+    "VC9": {
+      "full_name": "Công ty Cổ phần Xây dựng số 9",
+      "exchange": "hnx"
+    },
+    "VCC": {
+      "full_name": "Công ty Cổ phần Vinaconex 25",
+      "exchange": "hnx"
+    },
+    "VCM": {
+      "full_name": "Công ty Cổ phần Nhân lực và Thương mại Vinaconex",
+      "exchange": "hnx"
+    },
+    "VCS": {
+      "full_name": "Công ty Cổ phần VICOSTONE",
+      "exchange": "hnx"
+    },
+    "VDL": {
+      "full_name": "Công ty Cổ phần Thực phẩm Lâm Đồng",
+      "exchange": "hnx"
+    },
+    "VE1": {
+      "full_name": "Công ty Cổ phần Xây dựng điện VNECO1",
+      "exchange": "hnx"
+    },
+    "VE2": {
+      "full_name": "Công ty Cổ phần Xây dựng Điện VNECO 2",
+      "exchange": "hnx"
+    },
+    "VE3": {
+      "full_name": "Công ty Cổ phần Xây dựng điện VNECO 3",
+      "exchange": "hnx"
+    },
+    "VE4": {
+      "full_name": "Công ty Cổ phần Xây dựng điện VNECO4",
+      "exchange": "hnx"
+    },
+    "VE8": {
+      "full_name": "Công ty Cổ phần Xây dựng Điện Vneco 8",
+      "exchange": "hnx"
+    },
+    "VGP": {
+      "full_name": "Công ty Cổ phần Cảng Rau Quả",
+      "exchange": "hnx"
+    },
+    "VGS": {
+      "full_name": "Công ty Cổ phần Ống thép Việt Đức VG PIPE",
+      "exchange": "hnx"
+    },
+    "VHL": {
+      "full_name": "Công ty Cổ phần Viglacera Hạ Long",
+      "exchange": "hnx"
+    },
+    "VIG": {
+      "full_name": "Công ty Cổ phần Chứng khoán Thương mại và Công nghiệp Việt Nam",
+      "exchange": "hnx"
+    },
+    "VIT": {
+      "full_name": "Công ty Cổ phần Viglacera Tiên Sơn",
+      "exchange": "hnx"
+    },
+    "VLA": {
+      "full_name": "Công ty Cổ phần Đầu tư và Phát triển Công nghệ Văn Lang",
+      "exchange": "hnx"
+    },
+    "VMC": {
+      "full_name": "Công ty Cổ phần VIMECO",
+      "exchange": "hnx"
+    },
+    "VMS": {
+      "full_name": "Công ty Cổ phần Phát triển Hàng Hải",
+      "exchange": "hnx"
+    },
+    "VNC": {
+      "full_name": "Công ty Cổ phần Tập đoàn Vinacontrol",
+      "exchange": "hnx"
+    },
+    "VNF": {
+      "full_name": "Công ty Cổ phần Vinafreight",
+      "exchange": "hnx"
+    },
+    "VNR": {
+      "full_name": "Tổng Công ty Cổ phần Tái bảo hiểm Quốc gia Việt Nam",
+      "exchange": "hnx"
+    },
+    "VNT": {
+      "full_name": "Công ty Cổ phần Giao nhận Vận tải Ngoại Thương",
+      "exchange": "hnx"
+    },
+    "VTC": {
+      "full_name": "Công ty Cổ phần Viễn Thông VTC",
+      "exchange": "hnx"
+    },
+    "VTH": {
+      "full_name": "Công ty Cổ phần Dây cáp điện Việt Thái",
+      "exchange": "hnx"
+    },
+    "VTJ": {
+      "full_name": "Công ty Cổ phần Thương mại và Đầu tư VINATABA",
+      "exchange": "hnx"
+    },
+    "VTV": {
+      "full_name": "Công ty Cổ phần  VICEM Vật tư Vận tải Xi măng",
+      "exchange": "hnx"
+    },
+    "WCS": {
+      "full_name": "Công ty Cổ phần Bến xe Miền Tây",
+      "exchange": "hnx"
+    },
+    "WSS": {
+      "full_name": "Công ty Cổ phần Chứng khoán Phố Wall",
+      "exchange": "hnx"
+    },
+    "ACB": {
+      "full_name": "Ngân hàng Thương mại Cổ phần Á Châu",
+      "exchange": "hsx"
+    },
+    "BID": {
+      "full_name": "Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam",
+      "exchange": "hsx"
+    },
+    "BVH": {
+      "full_name": "Tập đoàn Bảo Việt",
+      "exchange": "hsx"
+    },
+    "CTG": {
+      "full_name": "Ngân hàng TMCP Công thương Việt Nam",
+      "exchange": "hsx"
+    },
+    "FPT": {
+      "full_name": "Công ty Cổ phần FPT",
+      "exchange": "hsx"
+    },
+    "GAS": {
+      "full_name": "Tổng Công ty Khí Việt Nam - Công ty Cổ phần",
+      "exchange": "hsx"
+    },
+    "HDB": {
+      "full_name": "Ngân hàng Thương mại Cổ phần Phát Triển TPHCM",
+      "exchange": "hsx"
+    },
+    "HPG": {
+      "full_name": "Công ty Cổ phần Tập đoàn Hòa Phát",
+      "exchange": "hsx"
+    },
+    "MBB": {
+      "full_name": "Ngân hàng Thương mại Cổ phần Quân đội",
+      "exchange": "hsx"
+    },
+    "MSN": {
+      "full_name": "Công ty Cổ phần Tập đoàn Masan",
+      "exchange": "hsx"
+    },
+    "MWG": {
+      "full_name": "Công ty Cổ phần Đầu tư Thế Giới Di Động",
+      "exchange": "hsx"
+    },
+    "SHB": {
+      "full_name": "Ngân hàng Thương mại Cổ phần Sài Gòn – Hà Nội",
+      "exchange": "hsx"
+    },
+    "SSI": {
+      "full_name": "Công ty Cổ phần Chứng khoán Sài Gòn",
+      "exchange": "hsx"
+    },
+    "STB": {
+      "full_name": "Ngân hàng Thương mại Cổ phần Sài Gòn Thương Tín",
+      "exchange": "hsx"
+    },
+    "TCB": {
+      "full_name": "Ngân hàng Thương mại Cổ phần Kỹ thương Việt Nam",
+      "exchange": "hsx"
+    },
+    "TPB": {
+      "full_name": "Ngân hàng Thương mại Cổ phần Tiên Phong",
+      "exchange": "hsx"
+    },
+    "VCB": {
+      "full_name": "Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam",
+      "exchange": "hsx"
+    },
+    "VIB": {
+      "full_name": "Ngân hàng Thương mại Cổ phần Quốc tế Việt Nam",
+      "exchange": "hsx"
+    },
+    "VIC": {
+      "full_name": "Tập đoàn Vingroup - Công ty Cổ phần",
+      "exchange": "hsx"
+    },
+    "VNM": {
+      "full_name": "Công ty Cổ phần Sữa Việt Nam",
+      "exchange": "hsx"
+    },
+    "VPB": {
+      "full_name": "Ngân hàng Thương mại Cổ phần Việt Nam Thịnh Vượng",
+      "exchange": "hsx"
+    },
+    "AAA": {
+      "full_name": "Công ty Cổ phần Nhựa và Môi trường xanh An Phát",
+      "exchange": "hsx"
+    },
+    "ANV": {
+      "full_name": "Công ty Cổ phần Nam Việt",
+      "exchange": "hsx"
+    },
+    "ASM": {
+      "full_name": "Công ty Cổ phần Tập đoàn Sao Mai",
+      "exchange": "hsx"
+    },
+    "BCG": {
+      "full_name": "Công ty Cổ phần Bamboo Capital",
+      "exchange": "hsx"
+    },
+    "BMP": {
+      "full_name": "Công ty Cổ phần Nhựa Bình Minh",
+      "exchange": "hsx"
+    },
+    "CII": {
+      "full_name": "Công ty Cổ phần Đầu tư Hạ tầng Kỹ thuật TP.HCM",
+      "exchange": "hsx"
+    },
+    "CMG": {
+      "full_name": "Công ty Cổ phần Tập đoàn Công nghệ CMC",
+      "exchange": "hsx"
+    },
+    "CTD": {
+      "full_name": "Công ty Cổ phần Xây dựng Cotec",
+      "exchange": "hsx"
+    },
+    "CTR": {
+      "full_name": "Công ty Cổ phần Công trình Viettel",
+      "exchange": "hsx"
+    },
+    "DBC": {
+      "full_name": "Công ty Cổ phần Tập đoàn Dabaco Việt Nam",
+      "exchange": "hsx"
+    },
+    "DCM": {
+      "full_name": "Công ty Cổ phần Phân bón Dầu Khí Cà Mau",
+      "exchange": "hsx"
+    },
+    "DGC": {
+      "full_name": "Công ty Cổ phần Bột giặt và Hóa chất Đức Giang",
+      "exchange": "hsx"
+    },
+    "DGW": {
+      "full_name": "Công ty Cổ phần Thế Giới Số",
+      "exchange": "hsx"
+    },
+    "DHC": {
+      "full_name": "Công ty Cổ phần Đông Hải Bến Tre",
+      "exchange": "hsx"
+    },
+    "DIG": {
+      "full_name": "Tổng Công ty Cổ phần Đầu tư Phát triển Xây dựng",
+      "exchange": "hsx"
+    },
+    "DPM": {
+      "full_name": "Tổng Công ty Phân bón và Hóa chất Dầu khí",
+      "exchange": "hsx"
+    },
+    "DXG": {
+      "full_name": "Công ty Cổ phần Dịch vụ và Xây dựng Địa ốc Đất Xanh",
+      "exchange": "hsx"
+    },
+    "EIB": {
+      "full_name": "Ngân hàng Thương mại Cổ phần Xuất nhập khẩu Việt Nam",
+      "exchange": "hsx"
+    },
+    "GMD": {
+      "full_name": "Công ty Cổ phần Gemadept",
+      "exchange": "hsx"
+    },
+    "HAG": {
+      "full_name": "Công ty Cổ phần Hoàng Anh Gia Lai",
+      "exchange": "hsx"
+    },
+    "HCM": {
+      "full_name": "Công ty Cổ phần Chứng khoán Thành phố Hồ Chí Minh",
+      "exchange": "hsx"
+    },
+    "HDC": {
+      "full_name": "Công ty Cổ phần Phát triển Nhà Bà Rịa Vũng Tàu",
+      "exchange": "hsx"
+    },
+    "HDG": {
+      "full_name": "Công ty Cổ phần Tập đoàn Hà Đô",
+      "exchange": "hsx"
+    },
+    "HSG": {
+      "full_name": "Công ty Cổ phần Tập đoàn Hoa Sen",
+      "exchange": "hsx"
+    },
+    "HT1": {
+      "full_name": "Công ty Cổ phần Xi măng Hà Tiên 1",
+      "exchange": "hsx"
+    },
+    "IMP": {
+      "full_name": "Công ty Cổ phần Dược phẩm IMEXPHARM",
+      "exchange": "hsx"
+    },
+    "KBC": {
+      "full_name": "Tổng Công ty Phát triển Đô thị Kinh Bắc",
+      "exchange": "hsx"
+    },
+    "KDC": {
+      "full_name": "Công ty Cổ phần Kinh Đô",
+      "exchange": "hsx"
+    },
+    "KDH": {
+      "full_name": "Công ty Cổ phần Đầu tư và Kinh doanh nhà Khang Điền",
+      "exchange": "hsx"
+    },
+    "MSB": {
+      "full_name": "Ngân hàng Thương mại Cổ phần Hàng Hải",
+      "exchange": "hsx"
+    },
+    "NKG": {
+      "full_name": "Công ty Cổ phần Thép Nam Kim",
+      "exchange": "hsx"
+    },
+    "NLG": {
+      "full_name": "Công ty cổ phần Đầu tư Nam Long",
+      "exchange": "hsx"
+    },
+    "NT2": {
+      "full_name": "Công ty Cổ phần Điện lực Dầu khí Nhơn Trạch 2",
+      "exchange": "hsx"
+    },
+    "OCB": {
+      "full_name": "Ngân hàng Thương mại Cổ phần Phương Đông",
+      "exchange": "hsx"
+    },
+    "PAN": {
+      "full_name": "Công ty Cổ phần Tập đoàn PAN",
+      "exchange": "hsx"
+    },
+    "PDR": {
+      "full_name": "Công ty Cổ phần Phát triển Bất động sản Phát Đạt",
+      "exchange": "hsx"
+    },
+    "PHR": {
+      "full_name": "Công ty Cổ phần Cao su Phước Hòa",
+      "exchange": "hsx"
+    },
+    "PNJ": {
+      "full_name": "Công ty Cổ phần Vàng bạc Đá quý Phú Nhuận",
+      "exchange": "hsx"
+    },
+    "PPC": {
+      "full_name": "Công ty Cổ phần Nhiệt điện Phả Lại",
+      "exchange": "hsx"
+    },
+    "PTB": {
+      "full_name": "Công ty Cổ phần Phú Tài",
+      "exchange": "hsx"
+    },
+    "PVD": {
+      "full_name": "Tổng Công ty Cổ phần Khoan và Dịch vụ khoan Dầu khí",
+      "exchange": "hsx"
+    },
+    "PVT": {
+      "full_name": "Tổng Công ty Cổ phần Vận tải Dầu khí",
+      "exchange": "hsx"
+    },
+    "REE": {
+      "full_name": "Công ty Cổ phần Cơ điện Lạnh",
+      "exchange": "hsx"
+    },
+    "SAM": {
+      "full_name": "Công ty Cổ phần Đầu tư và Phát triển SACOM",
+      "exchange": "hsx"
+    },
+    "SBT": {
+      "full_name": "Công ty Cổ phần Mía đường Thành Thành Công Tây Ninh",
+      "exchange": "hsx"
+    },
+    "SJS": {
+      "full_name": "Công ty Cổ phần Đầu tư Phát triển Đô thị và Khu công nghiệp Sông Đà",
+      "exchange": "hsx"
+    },
+    "TMS": {
+      "full_name": "Công ty Cổ phần Transimex-Saigon",
+      "exchange": "hsx"
+    },
+    "VCG": {
+      "full_name": "Tổng Công ty Cổ phần Xuất nhập khẩu và Xây dựng Việt Nam",
+      "exchange": "hsx"
+    },
+    "VGC": {
+      "full_name": "Tổng Công ty Viglacera - Công ty Cổ phần",
+      "exchange": "hsx"
+    },
+    "VHC": {
+      "full_name": "Công ty Cổ phần Vĩnh Hoàn",
+      "exchange": "hsx"
+    },
+    "VIX": {
+      "full_name": "Công ty Cổ phần Chứng khoán IB",
+      "exchange": "hsx"
+    },
+    "VND": {
+      "full_name": "Công ty Cổ phần Chứng khoán VNDIRECT",
+      "exchange": "hsx"
+    },
+    "VSH": {
+      "full_name": "Công ty Cổ phần Thủy điện Vĩnh Sơn - Sông Hinh",
+      "exchange": "hsx"
+    },
+    "AAM": {
+      "full_name": "Công ty Cổ Phần Thủy Sản Mê Kông",
+      "exchange": "hsx"
+    },
+    "ABT": {
+      "full_name": "Công ty Cổ phần Xuất nhập khẩu Thủy sản Bến Tre",
+      "exchange": "hsx"
+    },
+    "ACC": {
+      "full_name": "Công ty Cổ phần Bê tông Becamex",
+      "exchange": "hsx"
+    },
+    "ACL": {
+      "full_name": "Công ty Cổ phần Xuất nhập khẩu Thủy sản Cửu Long An Giang",
+      "exchange": "hsx"
+    },
+    "ADP": {
+      "full_name": "Công ty Cổ phần Sơn Á Đông",
+      "exchange": "hsx"
+    },
+    "AGM": {
+      "full_name": "Công ty Cổ phần Xuất nhập khẩu An Giang",
+      "exchange": "hsx"
+    },
+    "AGR": {
+      "full_name": "Công ty Cổ phần Chứng khoán Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam",
+      "exchange": "hsx"
+    },
+    "APC": {
+      "full_name": "Công ty Cổ phần Chiếu xạ An Phú",
+      "exchange": "hsx"
+    },
+    "APG": {
+      "full_name": "Công ty Cổ phần Chứng khoán An Phát",
+      "exchange": "hsx"
+    },
+    "ASP": {
+      "full_name": "Công ty Cổ phần Tập đoàn Dầu khí An Pha",
+      "exchange": "hsx"
+    },
+    "BBC": {
+      "full_name": "Công ty Cổ phần Bibica",
+      "exchange": "hsx"
+    },
+    "BCE": {
+      "full_name": "Công ty Cổ phần Xây dựng và Giao thông Bình Dương",
+      "exchange": "hsx"
+    },
+    "BFC": {
+      "full_name": "Công ty Cổ phần Phân bón Bình Điền",
+      "exchange": "hsx"
+    },
+    "BHN": {
+      "full_name": "Tổng Công ty Cổ phần Bia Rượu Nước giải khát Hà Nội",
+      "exchange": "hsx"
+    },
+    "BIC": {
+      "full_name": "Tổng Công ty Cổ phần Bảo hiểm Ngân hàng Đầu tư và Phát triển Việt Nam",
+      "exchange": "hsx"
+    },
+    "BMC": {
+      "full_name": "Công ty Cổ phần Khoáng sản Bình Định",
+      "exchange": "hsx"
+    },
+    "BMI": {
+      "full_name": "Tổng Công ty Cổ phần Bảo Minh",
+      "exchange": "hsx"
+    },
+    "BRC": {
+      "full_name": "Công ty Cổ phần Cao su Bến Thành",
+      "exchange": "hsx"
+    },
+    "BSI": {
+      "full_name": "Công ty Cổ phần Chứng khoán Ngân hàng Đầu tư và Phát triển Việt Nam",
+      "exchange": "hsx"
+    },
+    "BTP": {
+      "full_name": "Công ty Cổ phần Nhiệt điện Bà Rịa",
+      "exchange": "hsx"
+    },
+    "BTT": {
+      "full_name": "Công ty Cổ phần Thương mại – Dịch vụ Bến Thành",
+      "exchange": "hsx"
+    },
+    "C32": {
+      "full_name": "Công ty Cổ phần Đầu tư Xây dựng 3-2",
+      "exchange": "hsx"
+    },
+    "C47": {
+      "full_name": "Công ty Cổ phần Xây dựng 47",
+      "exchange": "hsx"
+    },
+    "CAV": {
+      "full_name": "Công ty Cổ phần Dây cáp điện Việt Nam",
+      "exchange": "hsx"
+    },
+    "CCI": {
+      "full_name": "Công ty Cổ phần Đầu tư Phát triển Công nghiệp Thương mại Củ Chi",
+      "exchange": "hsx"
+    },
+    "CCL": {
+      "full_name": "Công ty Cổ phần Đầu tư và Phát triển Đô thị Dầu khí Cửu Long",
+      "exchange": "hsx"
+    },
+    "CDC": {
+      "full_name": "Công ty Cổ phần Chương Dương",
+      "exchange": "hsx"
+    },
+    "CHP": {
+      "full_name": "Công ty Cổ phần Thủy điện Miền Trung",
+      "exchange": "hsx"
+    },
+    "CIG": {
+      "full_name": "Công ty Cổ phần COMA 18",
+      "exchange": "hsx"
+    },
+    "CLC": {
+      "full_name": "Công ty Cổ phần Cát Lợi",
+      "exchange": "hsx"
+    },
+    "CLL": {
+      "full_name": "Công ty Cổ phần Cảng Cát Lái",
+      "exchange": "hsx"
+    },
+    "CLW": {
+      "full_name": "Công ty Cổ phần Cấp nước Chợ Lớn",
+      "exchange": "hsx"
+    },
+    "CMV": {
+      "full_name": "Công ty Cổ phần Thương nghiệp Cà Mau",
+      "exchange": "hsx"
+    },
+    "CMX": {
+      "full_name": "Công ty Cổ phần Chế biến Thủy sản và Xuất nhập khẩu Cà Mau",
+      "exchange": "hsx"
+    },
+    "CNG": {
+      "full_name": "Công ty Cổ phần CNG Việt Nam",
+      "exchange": "hsx"
+    },
+    "COM": {
+      "full_name": "Công ty Cổ phần Vật tư Xăng dầu",
+      "exchange": "hsx"
+    },
+    "CSM": {
+      "full_name": "Công ty Cổ phần Công nghiệp Cao su Miền Nam",
+      "exchange": "hsx"
+    },
+    "CSV": {
+      "full_name": "Công ty Cổ phần Hóa chất Cơ bản miền Nam",
+      "exchange": "hsx"
+    },
+    "CTI": {
+      "full_name": "Công ty Cổ phần Đầu tư Phát triển Cường Thuận IDICO",
+      "exchange": "hsx"
+    },
+    "CTS": {
+      "full_name": "Công ty Cổ phần Chứng khoán Ngân hàng Công thương Việt Nam",
+      "exchange": "hsx"
+    },
+    "CVT": {
+      "full_name": "Công ty Cổ phần CMC",
+      "exchange": "hsx"
+    },
+    "D2D": {
+      "full_name": "Công ty Cổ phần Phát triển Đô thị Công nghiệp số 2",
+      "exchange": "hsx"
+    },
+    "DAG": {
+      "full_name": "Công ty Cổ phần Tập đoàn Nhựa Đông Á",
+      "exchange": "hsx"
+    },
+    "DAT": {
+      "full_name": "Công ty cổ phần Đầu tư Du lịch và Phát triển Thủy sản",
+      "exchange": "hsx"
+    },
+    "DBT": {
+      "full_name": "Công ty Cổ phần Dược phẩm Bến Tre",
+      "exchange": "hsx"
+    },
+    "DC4": {
+      "full_name": "Công ty Cổ phần DIC số 4",
+      "exchange": "hsx"
+    },
+    "DCL": {
+      "full_name": "Công ty Cổ phần Dược phẩm Cửu Long",
+      "exchange": "hsx"
+    },
+    "DHA": {
+      "full_name": "Công ty Cổ phần Hóa An",
+      "exchange": "hsx"
+    },
+    "DHG": {
+      "full_name": "Công ty Cổ phần Dược Hậu Giang",
+      "exchange": "hsx"
+    },
+    "DHM": {
+      "full_name": "Công ty Cổ phần Thương mại và Khai thác Khoáng sản Dương Hiếu",
+      "exchange": "hsx"
+    },
+    "DLG": {
+      "full_name": "Công ty Cổ phần Tập đoàn Đức Long Gia Lai",
+      "exchange": "hsx"
+    },
+    "DMC": {
+      "full_name": "Công ty Cổ phần Xuất nhập khẩu Y tế DOMESCO",
+      "exchange": "hsx"
+    },
+    "DPR": {
+      "full_name": "Công ty Cổ phần Cao su Đồng Phú",
+      "exchange": "hsx"
+    },
+    "DQC": {
+      "full_name": "Công ty Cổ phần Bóng đèn Điện Quang",
+      "exchange": "hsx"
+    },
+    "DRC": {
+      "full_name": "Công ty Cổ phần Cao su Đà Nẵng",
+      "exchange": "hsx"
+    },
+    "DRH": {
+      "full_name": "Công ty Cổ phần Đầu tư Căn Nhà Mơ Ước",
+      "exchange": "hsx"
+    },
+    "DRL": {
+      "full_name": "Công ty Cổ phần Thủy điện – Điện lực 3",
+      "exchange": "hsx"
+    },
+    "DSN": {
+      "full_name": "Công ty Cổ phần Công viên nước Đầm Sen",
+      "exchange": "hsx"
+    },
+    "DTA": {
+      "full_name": "Công ty Cổ phần Đệ Tam",
+      "exchange": "hsx"
+    },
+    "DTL": {
+      "full_name": "Công ty Cổ phần Đại Thiên Lộc",
+      "exchange": "hsx"
+    },
+    "DTT": {
+      "full_name": "Công ty Cổ phần Kỹ nghệ Đô Thành",
+      "exchange": "hsx"
+    },
+    "DVP": {
+      "full_name": "Công ty Cổ phần Đầu tư và Phát triển Cảng Đình Vũ",
+      "exchange": "hsx"
+    },
+    "DXV": {
+      "full_name": "Công ty Cổ phần VICEM Vật liệu Xây dựng Đà Nẵng",
+      "exchange": "hsx"
+    },
+    "E1VFVN30": {
+      "full_name": "Quỹ ETF VFMVN30",
+      "exchange": "hsx"
+    },
+    "ELC": {
+      "full_name": "Công ty Cổ phần Đầu tư Phát triển Công nghệ điện tử - Viễn thông",
+      "exchange": "hsx"
+    },
+    "EVE": {
+      "full_name": "Công ty Cổ phần Everpia",
+      "exchange": "hsx"
+    },
+    "FCM": {
+      "full_name": "Công ty Cổ phần Khoáng sản FECON",
+      "exchange": "hsx"
+    },
+    "FCN": {
+      "full_name": "Công ty Cổ phần Kỹ thuật nền móng và Công trình ngầm FECON",
+      "exchange": "hsx"
+    },
+    "FDC": {
+      "full_name": "Công ty Cổ phần Ngoại thương và Phát triển Đầu tư Thành phố Hồ Chí Minh",
+      "exchange": "hsx"
+    },
+    "FIT": {
+      "full_name": "Công ty Cổ phần Đầu tư F.I.T",
+      "exchange": "hsx"
+    },
+    "FMC": {
+      "full_name": "Công ty Cổ phần Thực phẩm Sao Ta",
+      "exchange": "hsx"
+    },
+    "GDT": {
+      "full_name": "Công ty Cổ phần Chế biến Gỗ Đức Thành",
+      "exchange": "hsx"
+    },
+    "GIL": {
+      "full_name": "Công ty Cổ phần Sản xuất Kinh doanh Xuất nhập khẩu Bình Thạnh",
+      "exchange": "hsx"
+    },
+    "GMC": {
+      "full_name": "Công ty Cổ phần Sản xuất Thương mại May Sài Gòn",
+      "exchange": "hsx"
+    },
+    "GSP": {
+      "full_name": "Công ty Cổ phần Vận tải Sản phẩm Khí Quốc tế",
+      "exchange": "hsx"
+    },
+    "GTA": {
+      "full_name": "Công ty Cổ phần Chế biến Gỗ Thuận An",
+      "exchange": "hsx"
+    },
+    "HAH": {
+      "full_name": "Công ty Cổ phần Vận tải và Xếp dỡ Hải An",
+      "exchange": "hsx"
+    },
+    "HAP": {
+      "full_name": "Công ty Cổ phần Tập Đoàn Hapaco",
+      "exchange": "hsx"
+    },
+    "HAR": {
+      "full_name": "Công ty Cổ phần Đầu tư Thương mại Bất động sản An Dương Thảo Điền",
+      "exchange": "hsx"
+    },
+    "HAS": {
+      "full_name": "Công ty Cổ phần Hacisco",
+      "exchange": "hsx"
+    },
+    "HAX": {
+      "full_name": "Công ty Cổ phần Dịch vụ Ô tô Hàng Xanh",
+      "exchange": "hsx"
+    },
+    "HBC": {
+      "full_name": "Công ty Cổ phần Xây dựng và Kinh doanh Địa ốc Hòa Bình",
+      "exchange": "hsx"
+    },
+    "HHS": {
+      "full_name": "Công ty Cổ phần Đầu tư Dịch vụ Hoàng Huy",
+      "exchange": "hsx"
+    },
+    "HMC": {
+      "full_name": "Công ty Cổ phần Kim khí Thành phố Hồ Chí Minh",
+      "exchange": "hsx"
+    },
+    "HNG": {
+      "full_name": "Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+      "exchange": "hsx"
+    },
+    "HQC": {
+      "full_name": "Công ty Cổ phần Tư vấn - Thương mại - Dịch vụ Địa ốc Hoàng Quân",
+      "exchange": "hsx"
+    },
+    "HRC": {
+      "full_name": "Công ty Cổ phần Cao su Hòa Bình",
+      "exchange": "hsx"
+    },
+    "HTI": {
+      "full_name": "Công ty Cổ phần Đầu tư Phát triển Hạ tầng IDICO",
+      "exchange": "hsx"
+    },
+    "HTL": {
+      "full_name": "Công ty Cổ phần Kỹ thuật và Ô tô Trường Long",
+      "exchange": "hsx"
+    },
+    "HTV": {
+      "full_name": "Công ty Cổ phần Vận tải Hà Tiên",
+      "exchange": "hsx"
+    },
+    "HU1": {
+      "full_name": "Công ty Cổ phần Đầu tư và Xây dựng HUD1",
+      "exchange": "hsx"
+    },
+    "HVN": {
+      "full_name": "Tổng Công ty Hàng không Việt Nam",
+      "exchange": "hsx"
+    },
+    "HVX": {
+      "full_name": "Công ty Cổ phần Xi măng Vicem Hải Vân",
+      "exchange": "hsx"
+    },
+    "IDI": {
+      "full_name": "Công ty Cổ phần Đầu tư và Phát triển Đa Quốc Gia I.D.I",
+      "exchange": "hsx"
+    },
+    "IJC": {
+      "full_name": "Công ty Cổ phần Phát triển Hạ tầng Kỹ thuật",
+      "exchange": "hsx"
+    },
+    "ITA": {
+      "full_name": "Công ty Cổ phần Đầu tư và Công nghiệp Tân Tạo",
+      "exchange": "hsx"
+    },
+    "ITC": {
+      "full_name": "Công ty Cổ phần Đầu tư – Kinh doanh nhà",
+      "exchange": "hsx"
+    },
+    "ITD": {
+      "full_name": "Công ty Cổ phần Công nghệ Tiên Phong",
+      "exchange": "hsx"
+    },
+    "JVC": {
+      "full_name": "Công ty Cổ phần Thiết bị Y tế Việt Nhật",
+      "exchange": "hsx"
+    },
+    "KHP": {
+      "full_name": "Công ty Cổ phần Điện lực Khánh Hòa",
+      "exchange": "hsx"
+    },
+    "KMR": {
+      "full_name": "Công ty Cổ phần Mirae",
+      "exchange": "hsx"
+    },
+    "KSB": {
+      "full_name": "Công ty Cổ phần Khoáng sản và Xây dựng Bình Dương",
+      "exchange": "hsx"
+    },
+    "L10": {
+      "full_name": "Công ty Cổ phần Lilama 10",
+      "exchange": "hsx"
+    },
+    "LAF": {
+      "full_name": "Công ty Cổ phần Chế biến Hàng Xuất khẩu Long An",
+      "exchange": "hsx"
+    },
+    "LBM": {
+      "full_name": "Công ty Cổ phần Khoáng sản và Vật liệu xây dựng Lâm Đồng",
+      "exchange": "hsx"
+    },
+    "LCG": {
+      "full_name": "Công ty Cổ phần LICOGI 16",
+      "exchange": "hsx"
+    },
+    "LDG": {
+      "full_name": "Công ty Cổ phần Địa ốc Long Điền",
+      "exchange": "hsx"
+    },
+    "LGC": {
+      "full_name": "Công ty Cổ phần Đầu tư Cầu đường CII",
+      "exchange": "hsx"
+    },
+    "LGL": {
+      "full_name": "Công ty Cổ phần Đầu tư và Phát triển Đô thị Long Giang",
+      "exchange": "hsx"
+    },
+    "LHG": {
+      "full_name": "Công ty Cổ phần Long Hậu",
+      "exchange": "hsx"
+    },
+    "LIX": {
+      "full_name": "Công ty Cổ phần Bột giặt Lix",
+      "exchange": "hsx"
+    },
+    "LM8": {
+      "full_name": "Công ty Cổ phần Lilama 18",
+      "exchange": "hsx"
+    },
+    "LSS": {
+      "full_name": "Công ty Cổ phần Mía đường Lam Sơn",
+      "exchange": "hsx"
+    },
+    "MCP": {
+      "full_name": "Công ty Cổ phần In và Bao bì Mỹ Châu",
+      "exchange": "hsx"
+    },
+    "MDG": {
+      "full_name": "Công ty Cổ phần Miền Đông",
+      "exchange": "hsx"
+    },
+    "MHC": {
+      "full_name": "Công ty Cổ phần MHC",
+      "exchange": "hsx"
+    },
+    "NAF": {
+      "full_name": "Công ty Cổ phần Nafoods Group",
+      "exchange": "hsx"
+    },
+    "NAV": {
+      "full_name": "Công ty Cổ phần Nam Việt",
+      "exchange": "hsx"
+    },
+    "NBB": {
+      "full_name": "Công ty Cổ phần Đầu tư Năm Bảy Bảy",
+      "exchange": "hsx"
+    },
+    "NCT": {
+      "full_name": "Công ty Cổ phần Dịch vụ Hàng hóa Nội Bài",
+      "exchange": "hsx"
+    },
+    "NHA": {
+      "full_name": "Tổng Công ty Đầu tư Phát triển Nhà và Đô thị Nam Hà Nội",
+      "exchange": "hsx"
+    },
+    "NNC": {
+      "full_name": "Công ty Cổ phần Đá Núi Nhỏ",
+      "exchange": "hsx"
+    },
+    "NSC": {
+      "full_name": "Công ty Cổ phần Giống cây trồng Trung Ương",
+      "exchange": "hsx"
+    },
+    "NTL": {
+      "full_name": "Công ty Cổ phần Phát triển Đô thị Từ Liêm",
+      "exchange": "hsx"
+    },
+    "NVT": {
+      "full_name": "Công ty Cổ phần Bất động sản Du lịch Ninh Vân Bay",
+      "exchange": "hsx"
+    },
+    "OGC": {
+      "full_name": "Công ty Cổ phần Tập đoàn Đại Dương",
+      "exchange": "hsx"
+    },
+    "OPC": {
+      "full_name": "Công ty Cổ phần Dược Phẩm OPC",
+      "exchange": "hsx"
+    },
+    "ORS": {
+      "full_name": "Công ty Cổ phần Chứng khoán Phương Đông",
+      "exchange": "hsx"
+    },
+    "PAC": {
+      "full_name": "Công ty Cổ phần Pin Ắc quy Miền Nam",
+      "exchange": "hsx"
+    },
+    "PDN": {
+      "full_name": "Công ty Cổ phần Cảng Đồng Nai",
+      "exchange": "hsx"
+    },
+    "PET": {
+      "full_name": "Tổng Công ty Cổ phần Dịch vụ Tổng hợp Dầu khí",
+      "exchange": "hsx"
+    },
+    "PGC": {
+      "full_name": "Công ty Cổ phần Gas Petrolimex",
+      "exchange": "hsx"
+    },
+    "PGD": {
+      "full_name": "Công ty Cổ phần Phân phối khí thấp áp dầu khí Việt Nam",
+      "exchange": "hsx"
+    },
+    "PGI": {
+      "full_name": "Tổng Công ty Cổ phần Bảo hiểm Petrolimex",
+      "exchange": "hsx"
+    },
+    "PHC": {
+      "full_name": "Công ty Cổ phần Xây dựng Phục Hưng Holdings",
+      "exchange": "hsx"
+    },
+    "PIT": {
+      "full_name": "Công ty Cổ phần Xuất nhập khẩu Petrolimex",
+      "exchange": "hsx"
+    },
+    "PJT": {
+      "full_name": "Công ty Cổ phần Vận tải Xăng dầu đường thủy Petrolimex",
+      "exchange": "hsx"
+    },
+    "PNC": {
+      "full_name": "Công ty Cổ phần Văn hóa Phương Nam",
+      "exchange": "hsx"
+    },
+    "POM": {
+      "full_name": "Công ty Cổ phần Thép Pomina",
+      "exchange": "hsx"
+    },
+    "PTC": {
+      "full_name": "Công ty Cổ phần Đầu tư và Xây dựng Bưu điện",
+      "exchange": "hsx"
+    },
+    "PTL": {
+      "full_name": "Công ty Cổ phần Đầu tư Hạ tầng và Đô thị Dầu khí",
+      "exchange": "hsx"
+    },
+    "QBS": {
+      "full_name": "Công ty Cổ phần Xuất nhập khẩu Quảng Bình",
+      "exchange": "hsx"
+    },
+    "QCG": {
+      "full_name": "Công ty Cổ phần Quốc Cường Gia Lai",
+      "exchange": "hsx"
+    },
+    "RAL": {
+      "full_name": "Công ty Cổ phần Bóng đèn Phích nước Rạng Đông",
+      "exchange": "hsx"
+    },
+    "RDP": {
+      "full_name": "Công ty Cổ phần Nhựa Rạng Đông",
+      "exchange": "hsx"
+    },
+    "SAV": {
+      "full_name": "Công ty Cổ phần Hợp tác Kinh tế và Xuất nhập khẩu Savimex",
+      "exchange": "hsx"
+    },
+    "SBA": {
+      "full_name": "Công ty Cổ phần Sông Ba",
+      "exchange": "hsx"
+    },
+    "SC5": {
+      "full_name": "Công ty Cổ phần Xây dựng số 5",
+      "exchange": "hsx"
+    },
+    "SCD": {
+      "full_name": "Công ty Cổ phần Nước giải khát Chương Dương",
+      "exchange": "hsx"
+    },
+    "SCR": {
+      "full_name": "Công ty Cổ phần Địa Ốc Sài Gòn Thương Tín",
+      "exchange": "hsx"
+    },
+    "SFC": {
+      "full_name": "Công ty Cổ phần Nhiên liệu Sài Gòn",
+      "exchange": "hsx"
+    },
+    "SFG": {
+      "full_name": "Công ty Cổ phần Phân bón Miền Nam",
+      "exchange": "hsx"
+    },
+    "SFI": {
+      "full_name": "Công ty Cổ phần Đại lý Vận tải Safi",
+      "exchange": "hsx"
+    },
+    "SGR": {
+      "full_name": "Công ty Cổ phần Địa ốc Sài Gòn",
+      "exchange": "hsx"
+    },
+    "SGT": {
+      "full_name": "Công ty Cổ phần Công nghệ Viễn thông Sài Gòn",
+      "exchange": "hsx"
+    },
+    "SHA": {
+      "full_name": "Công ty Cổ phần Sơn Hà Sài Gòn",
+      "exchange": "hsx"
+    },
+    "SHI": {
+      "full_name": "Công ty Cổ phần Quốc tế Sơn Hà",
+      "exchange": "hsx"
+    },
+    "SHP": {
+      "full_name": "Công ty Cổ phần Thủy điện Miền Nam",
+      "exchange": "hsx"
+    },
+    "SJD": {
+      "full_name": "Công ty Cổ phần Thủy điện Cần Đơn",
+      "exchange": "hsx"
+    },
+    "SKG": {
+      "full_name": "Công ty Cổ phần Tàu Cao tốc Superdong - Kiên Giang",
+      "exchange": "hsx"
+    },
+    "SMA": {
+      "full_name": "Công ty Cổ phần Thiết bị Phụ tùng Sài Gòn",
+      "exchange": "hsx"
+    },
+    "SMB": {
+      "full_name": "Công ty Cổ phần Bia Sài Gòn - Miền Trung",
+      "exchange": "hsx"
+    },
+    "SMC": {
+      "full_name": "Công ty Cổ phần Đầu tư Thương mại SMC",
+      "exchange": "hsx"
+    },
+    "SPM": {
+      "full_name": "Công ty Cổ phần S.P.M",
+      "exchange": "hsx"
+    },
+    "SRC": {
+      "full_name": "Công ty Cổ phần Cao su Sao Vàng",
+      "exchange": "hsx"
+    },
+    "SRF": {
+      "full_name": "Công ty Cổ phần Kỹ nghệ lạnh",
+      "exchange": "hsx"
+    },
+    "SSC": {
+      "full_name": "Công ty Cổ phần Giống cây trồng Miền Nam",
+      "exchange": "hsx"
+    },
+    "ST8": {
+      "full_name": "Công ty Cổ phần Siêu Thanh",
+      "exchange": "hsx"
+    },
+    "STG": {
+      "full_name": "Công ty Cổ phần Kho Vận Miền Nam",
+      "exchange": "hsx"
+    },
+    "STK": {
+      "full_name": "Công ty Cổ phần Sợi Thế Kỷ",
+      "exchange": "hsx"
+    },
+    "SVC": {
+      "full_name": "Công ty Cổ phần Dịch vụ tổng hợp Sài Gòn",
+      "exchange": "hsx"
+    },
+    "SVI": {
+      "full_name": "Công ty Cổ phần Bao bì Biên Hòa",
+      "exchange": "hsx"
+    },
+    "SVT": {
+      "full_name": "Công ty Cổ phần Công nghệ Sài Gòn Viễn Đông",
+      "exchange": "hsx"
+    },
+    "SZL": {
+      "full_name": "Công ty Cổ phần Sonadezi Long Thành",
+      "exchange": "hsx"
+    },
+    "TBC": {
+      "full_name": "Công ty Cổ phần Thuỷ điện Thác Bà",
+      "exchange": "hsx"
+    },
+    "TCL": {
+      "full_name": "Công ty Cổ phần Đại lý Giao nhận Vận tải Xếp dỡ Tân Cảng",
+      "exchange": "hsx"
+    },
+    "TCM": {
+      "full_name": "Công ty Cổ phần Dệt may - Đầu tư - Thương mại Thành Công",
+      "exchange": "hsx"
+    },
+    "TCO": {
+      "full_name": "Công ty Cổ phần Vận tải Đa phương thức Duyên Hải",
+      "exchange": "hsx"
+    },
+    "TCR": {
+      "full_name": "Công ty Cổ phần Công nghiệp Gốm sứ TAICERA",
+      "exchange": "hsx"
+    },
+    "TCT": {
+      "full_name": "Công ty Cổ phần Cáp treo Núi Bà Tây Ninh",
+      "exchange": "hsx"
+    },
+    "TDC": {
+      "full_name": "Công ty Cổ phần Kinh doanh và Phát triển Bình Dương",
+      "exchange": "hsx"
+    },
+    "TDH": {
+      "full_name": "Công ty Cổ phần Phát triển Nhà Thủ Đức",
+      "exchange": "hsx"
+    },
+    "TDW": {
+      "full_name": "Công ty Cổ phần Cấp nước Thủ Đức",
+      "exchange": "hsx"
+    },
+    "THG": {
+      "full_name": "Công ty Cổ phần Đầu tư và Xây dựng Tiền Giang",
+      "exchange": "hsx"
+    },
+    "TIP": {
+      "full_name": "Công ty Cổ phần Phát triển Khu công nghiệp Tín Nghĩa",
+      "exchange": "hsx"
+    },
+    "TIX": {
+      "full_name": "Công ty Cổ phần Sản xuất Kinh doanh Xuất nhập khẩu Dịch vụ và Đầu tư Tân Bình",
+      "exchange": "hsx"
+    },
+    "TLG": {
+      "full_name": "Công ty Cổ phần Tập đoàn Thiên Long",
+      "exchange": "hsx"
+    },
+    "TLH": {
+      "full_name": "Công ty Cổ phần Tập đoàn Thép Tiến Lên",
+      "exchange": "hsx"
+    },
+    "TMP": {
+      "full_name": "Công ty Cổ phần Thủy điện Thác Mơ",
+      "exchange": "hsx"
+    },
+    "TMT": {
+      "full_name": "Công ty Cổ phần Ô tô TMT",
+      "exchange": "hsx"
+    },
+    "TNA": {
+      "full_name": "Công ty Cổ phần Thương mại Xuất nhập khẩu Thiên Nam",
+      "exchange": "hsx"
+    },
+    "TNC": {
+      "full_name": "Công ty Cổ phần Cao su Thống Nhất",
+      "exchange": "hsx"
+    },
+    "TNT": {
+      "full_name": "Công ty Cổ phần Tài Nguyên",
+      "exchange": "hsx"
+    },
+    "TPC": {
+      "full_name": "Công ty Cổ phần Nhựa Tân Đại Hưng",
+      "exchange": "hsx"
+    },
+    "TRA": {
+      "full_name": "Công ty Cổ phần Traphaco",
+      "exchange": "hsx"
+    },
+    "TRC": {
+      "full_name": "Công ty Cổ phần Cao su Tây Ninh",
+      "exchange": "hsx"
+    },
+    "TSC": {
+      "full_name": "Công ty Cổ phần Vật tư Kỹ thuật Nông nghiệp Cần Thơ",
+      "exchange": "hsx"
+    },
+    "TTB": {
+      "full_name": "Công ty Cổ phần Tập đoàn Tiến Bộ",
+      "exchange": "hsx"
+    },
+    "TTF": {
+      "full_name": "Công ty Cổ phần Tập đoàn Kỹ nghệ Gỗ Trường Thành",
+      "exchange": "hsx"
+    },
+    "TV2": {
+      "full_name": "Công ty Cổ phần Tư vấn Xây dựng Điện 2",
+      "exchange": "hsx"
+    },
+    "TVB": {
+      "full_name": "Công ty Cổ phần Chứng khoán Trí Việt",
+      "exchange": "hsx"
+    },
+    "TVS": {
+      "full_name": "Công ty Cổ phần Chứng khoán Thiên Việt",
+      "exchange": "hsx"
+    },
+    "TYA": {
+      "full_name": "Công ty Cổ phần Dây và Cáp điện Taya Việt Nam",
+      "exchange": "hsx"
+    },
+    "UIC": {
+      "full_name": "Công ty Cổ phần Đầu tư Phát triển Nhà và Đô thị IDICO",
+      "exchange": "hsx"
+    },
+    "VAF": {
+      "full_name": "Công ty Cổ phần Phân lân nung chảy Văn Điển",
+      "exchange": "hsx"
+    },
+    "VCA": {
+      "full_name": "Công ty Cổ phần Thép Biên Hòa",
+      "exchange": "hsx"
+    },
+    "VCF": {
+      "full_name": "Công ty Cổ phần Vinacafé Biên Hòa",
+      "exchange": "hsx"
+    },
+    "VDS": {
+      "full_name": "Công ty Cổ phần Chứng khoán Rồng Việt",
+      "exchange": "hsx"
+    },
+    "VFG": {
+      "full_name": "Công ty Cổ phần Khử trùng Việt Nam",
+      "exchange": "hsx"
+    },
+    "VID": {
+      "full_name": "Công ty Cổ phần Đầu tư Phát triển Thương mại Viễn Đông",
+      "exchange": "hsx"
+    },
+    "VIP": {
+      "full_name": "Công ty Cổ phần Vận tải Xăng dầu VIPCO",
+      "exchange": "hsx"
+    },
+    "VMD": {
+      "full_name": "Công ty Cổ phần Y Dược phẩm Vimedimex",
+      "exchange": "hsx"
+    },
+    "VNE": {
+      "full_name": "Tổng Công ty Cổ phần Xây dựng điện Việt Nam",
+      "exchange": "hsx"
+    },
+    "VNG": {
+      "full_name": "Công ty Cổ phần Du Lịch Thành Thành Công",
+      "exchange": "hsx"
+    },
+    "VNL": {
+      "full_name": "Công ty Cổ phần Logistics Vinalink",
+      "exchange": "hsx"
+    },
+    "VNS": {
+      "full_name": "Công ty Cổ phần Ánh Dương Việt Nam",
+      "exchange": "hsx"
+    },
+    "VOS": {
+      "full_name": "Công ty Cổ phần Vận tải Biển Việt Nam",
+      "exchange": "hsx"
+    },
+    "VPH": {
+      "full_name": "Công ty Cổ phần Vạn Phát Hưng",
+      "exchange": "hsx"
+    },
+    "VPS": {
+      "full_name": "Công ty Cổ phần Thuốc sát trùng Việt Nam",
+      "exchange": "hsx"
+    },
+    "VRC": {
+      "full_name": "Công ty Cổ phần Xây lắp và Địa ốc Vũng Tàu",
+      "exchange": "hsx"
+    },
+    "VSC": {
+      "full_name": "Công ty Cổ phần Container Việt Nam",
+      "exchange": "hsx"
+    },
+    "VSI": {
+      "full_name": "Công ty Cổ phần Đầu tư và Xây dựng Cấp thoát nước",
+      "exchange": "hsx"
+    },
+    "VTB": {
+      "full_name": "Công ty Cổ phần Viettronics Tân Bình",
+      "exchange": "hsx"
+    },
+    "VTO": {
+      "full_name": "Công ty Cổ phần Vận tải Xăng dầu VITACO",
+      "exchange": "hsx"
+    },
+    "ABB": {
+      "full_name": "Ngân hàng Thương mại Cổ phần An Bình",
+      "exchange": "upcom"
+    },
+    "ABI": {
+      "full_name": "Công ty Cổ phần Bảo hiểm Ngân hàng Nông Nghiệp",
+      "exchange": "upcom"
+    },
+    "ACE": {
+      "full_name": "Công ty Cổ phần Bê tông ly tâm An Giang",
+      "exchange": "upcom"
+    },
+    "ACM": {
+      "full_name": "Công ty Cổ phần Tập đoàn Khoáng sản Á Cường",
+      "exchange": "upcom"
+    },
+    "AGF": {
+      "full_name": "Công ty Cổ phần Xuất nhập khẩu Thủy sản An Giang",
+      "exchange": "upcom"
+    },
+    "AGP": {
+      "full_name": "Công ty Cổ phần Dược phẩm AGIMEXPHARM",
+      "exchange": "upcom"
+    },
+    "AGX": {
+      "full_name": "Công ty Cổ phần Thực phẩm Nông sản Xuất khẩu Sài Gòn",
+      "exchange": "upcom"
+    },
+    "ALV": {
+      "full_name": "Công ty Cổ phần Khoáng sản Vinas A Lưới",
+      "exchange": "upcom"
+    },
+    "AMD": {
+      "full_name": "Công ty Cổ phần Đầu tư AMD GROUP",
+      "exchange": "upcom"
+    },
+    "APF": {
+      "full_name": "Công ty Cổ phần Nông sản Thực phẩm Quảng Ngãi",
+      "exchange": "upcom"
+    },
+    "APP": {
+      "full_name": "Công ty Cổ phần Phát triển Phụ gia và Sản phẩm dầu mỏ",
+      "exchange": "upcom"
+    },
+    "ASA": {
+      "full_name": "Công ty Cổ phần Liên doanh SANA WMT",
+      "exchange": "upcom"
+    },
+    "ATA": {
+      "full_name": "Công ty Cổ phần NTACO",
+      "exchange": "upcom"
+    },
+    "AVF": {
+      "full_name": "Công ty Cổ phần Việt An",
+      "exchange": "upcom"
+    },
+    "B82": {
+      "full_name": "Công ty Cổ phần 482",
+      "exchange": "upcom"
+    },
+    "BBT": {
+      "full_name": "Công ty Cổ phần Bông Bạch Tuyết",
+      "exchange": "upcom"
+    },
+    "BCP": {
+      "full_name": "Công ty Cổ phần Dược Becamex",
+      "exchange": "upcom"
+    },
+    "BDW": {
+      "full_name": "Công ty Cổ phần Cấp thoát nước Bình Định",
+      "exchange": "upcom"
+    },
+    "BHC": {
+      "full_name": "Công ty Cổ phần Bê tông Biên Hòa",
+      "exchange": "upcom"
+    },
+    "BHP": {
+      "full_name": "Công ty Cổ phần Bia Hà Nội - Hải Phòng",
+      "exchange": "upcom"
+    },
+    "BII": {
+      "full_name": "Công ty Cổ phần Đầu tư và Phát triển Công nghiệp Bảo Thư",
+      "exchange": "upcom"
+    },
+    "BMJ": {
+      "full_name": "Công ty Cổ phần Khoáng sản Becamex",
+      "exchange": "upcom"
+    },
+    "BRS": {
+      "full_name": "Công ty Cổ phần Dịch vụ Đô thị Bà Rịa",
+      "exchange": "upcom"
+    },
+    "BT6": {
+      "full_name": "Công ty Cổ phần Beton 6",
+      "exchange": "upcom"
+    },
+    "BTG": {
+      "full_name": "Công ty Cổ phần Bao bì Tiền Giang",
+      "exchange": "upcom"
+    },
+    "BTH": {
+      "full_name": "Công ty Cổ phần Chế tạo Biến thế và Vật liệu Điện Hà Nội",
+      "exchange": "upcom"
+    },
+    "BVB": {
+      "full_name": "Ngân hàng Thương mại Cổ phần Bản Việt",
+      "exchange": "upcom"
+    },
+    "BVG": {
+      "full_name": "Công ty Cổ phần Thép Bắc Việt",
+      "exchange": "upcom"
+    },
+    "BVN": {
+      "full_name": "Công ty Cổ phần Bông Việt Nam",
+      "exchange": "upcom"
+    },
+    "BWA": {
+      "full_name": "Công ty Cổ phần Cấp thoát nước và Xây dựng Bảo Lộc",
+      "exchange": "upcom"
+    },
+    "C21": {
+      "full_name": "Công ty Cổ phần Thế kỷ 21",
+      "exchange": "upcom"
+    },
+    "C92": {
+      "full_name": "Công ty Cổ phần Xây dựng và Đầu tư 492",
+      "exchange": "upcom"
+    },
+    "CAD": {
+      "full_name": "Công ty Cổ phần Chế biến & Xuất khẩu Thủy sản Cadovimex",
+      "exchange": "upcom"
+    },
+    "CCM": {
+      "full_name": "Công ty Cổ phần Khoáng sản và Xi măng Cần Thơ",
+      "exchange": "upcom"
+    },
+    "CDO": {
+      "full_name": "Công ty Cổ phần Tư vấn Thiết kế và Phát triển Đô thị",
+      "exchange": "upcom"
+    },
+    "CH5": {
+      "full_name": "Công ty Cổ phần Xây dựng số 5 Hà Nội",
+      "exchange": "upcom"
+    },
+    "CI5": {
+      "full_name": "Công ty Cổ phần Đầu tư Xây dựng số 5",
+      "exchange": "upcom"
+    },
+    "CID": {
+      "full_name": "Công ty Cổ phần Xây dựng và Phát triển Cơ sở Hạ tầng",
+      "exchange": "upcom"
+    },
+    "CKD": {
+      "full_name": "Công ty Cổ phần Cơ khí Đông Anh Licogi",
+      "exchange": "upcom"
+    },
+    "CLG": {
+      "full_name": "Công ty Cổ phần Đầu tư và Phát triển Nhà đất Cotec",
+      "exchange": "upcom"
+    },
+    "CMI": {
+      "full_name": "Công ty Cổ phần CMISTONE Việt Nam",
+      "exchange": "upcom"
+    },
+    "CMT": {
+      "full_name": "Công ty Cổ phần Công nghệ mạng và Truyền thông",
+      "exchange": "upcom"
+    },
+    "CNC": {
+      "full_name": "Công ty Cổ phần Công nghệ cao Traphaco",
+      "exchange": "upcom"
+    },
+    "CNT": {
+      "full_name": "Công ty Cổ phần Xây dựng và Kinh Doanh Vật tư",
+      "exchange": "upcom"
+    },
+    "CPI": {
+      "full_name": "Công ty Cổ phần Đầu tư Cảng Cái Lân",
+      "exchange": "upcom"
+    },
+    "CT3": {
+      "full_name": "Công ty Cổ phần Đầu tư và Xây dựng công trình 3",
+      "exchange": "upcom"
+    },
+    "CT6": {
+      "full_name": "Công ty Cổ phần Công trình 6",
+      "exchange": "upcom"
+    },
+    "CTA": {
+      "full_name": "Công ty Cổ phần Vinavico",
+      "exchange": "upcom"
+    },
+    "CTN": {
+      "full_name": "Công ty Cổ phần Xây dựng Công trình ngầm",
+      "exchange": "upcom"
+    },
+    "CYC": {
+      "full_name": "Công ty Cổ phần Gạch men Chang Yih",
+      "exchange": "upcom"
+    },
+    "DAC": {
+      "full_name": "Công ty Cổ phần Viglacera Đông Anh",
+      "exchange": "upcom"
+    },
+    "DAS": {
+      "full_name": "Công ty Cổ phần Máy - Thiết bị Dầu khí Đà Nẵng",
+      "exchange": "upcom"
+    },
+    "DBM": {
+      "full_name": "Công ty Cổ phần Dược – Vật tư Y tế Đăk Lăk",
+      "exchange": "upcom"
+    },
+    "DCS": {
+      "full_name": "Công ty Cổ phần Tập đoàn Đại Châu",
+      "exchange": "upcom"
+    },
+    "DCT": {
+      "full_name": "Công ty Cổ phần Tấm lợp Vật liệu xây dựng Đồng Nai",
+      "exchange": "upcom"
+    },
+    "DDM": {
+      "full_name": "Công ty Cổ phần Hàng hải Đông Đô",
+      "exchange": "upcom"
+    },
+    "DDN": {
+      "full_name": "Công ty Cổ phần Dược - Thiết bị y tế Đà Nẵng",
+      "exchange": "upcom"
+    },
+    "DDV": {
+      "full_name": "Công ty Cổ phần DAP - Vinachem",
+      "exchange": "upcom"
+    },
+    "DGT": {
+      "full_name": "Công ty Cổ phần Công trình Giao thông Đồng Nai",
+      "exchange": "upcom"
+    },
+    "DIC": {
+      "full_name": "Công ty Cổ phần Đầu tư và Thương mại DIC",
+      "exchange": "upcom"
+    },
+    "DID": {
+      "full_name": "Công ty Cổ phần DIC – Đồng Tiến",
+      "exchange": "upcom"
+    },
+    "DLD": {
+      "full_name": "Công ty Cổ phần Du lịch Đắk Lắk",
+      "exchange": "upcom"
+    },
+    "DLR": {
+      "full_name": "Công ty Cổ phần Địa ốc Đà Lạt",
+      "exchange": "upcom"
+    },
+    "DNL": {
+      "full_name": "Công ty Cổ phần Logistics Cảng Đà Nẵng",
+      "exchange": "upcom"
+    },
+    "DNM": {
+      "full_name": "Tổng Công ty Cổ phần Y tế Danameco",
+      "exchange": "upcom"
+    },
+    "DNT": {
+      "full_name": "Công ty Cổ phần Du lịch Đồng Nai",
+      "exchange": "upcom"
+    },
+    "DPP": {
+      "full_name": "Công ty Cổ phần Dược Đồng Nai",
+      "exchange": "upcom"
+    },
+    "DPS": {
+      "full_name": "Công ty Cổ phần Đầu tư Phát triển Sóc Sơn",
+      "exchange": "upcom"
+    },
+    "DTV": {
+      "full_name": "Công ty Cổ phần Phát triển điện Nông thôn Trà Vinh",
+      "exchange": "upcom"
+    },
+    "DVC": {
+      "full_name": "Công ty Cổ phần Thương mại dịch vụ Tổng Hợp Cảng Hải Phòng",
+      "exchange": "upcom"
+    },
+    "DXL": {
+      "full_name": "Công ty Cổ phần Du lịch và Xuất nhập khẩu Lạng Sơn",
+      "exchange": "upcom"
+    },
+    "EFI": {
+      "full_name": "Công ty Cổ phần Đầu tư Tài chính Giáo dục",
+      "exchange": "upcom"
+    },
+    "FBA": {
+      "full_name": "Công ty Cổ phần Tập đoàn Quốc tế FBA",
+      "exchange": "upcom"
+    },
+    "FLC": {
+      "full_name": "Công ty Cổ phần Tập đoàn FLC",
+      "exchange": "upcom"
+    },
+    "FRC": {
+      "full_name": "Công ty Cổ phần Lâm đặc sản xuất khẩu Quảng Nam",
+      "exchange": "upcom"
+    },
+    "G20": {
+      "full_name": "Công ty Cổ phần Đầu tư Dệt may G.Home",
+      "exchange": "upcom"
+    },
+    "GER": {
+      "full_name": "Công ty Cổ phần Thể thao Ngôi sao Geru",
+      "exchange": "upcom"
+    },
+    "GGG": {
+      "full_name": "Công ty Cổ phần Ô tô Giải Phóng",
+      "exchange": "upcom"
+    },
+    "GHC": {
+      "full_name": "Công ty Cổ phần Thủy điện Gia Lai",
+      "exchange": "upcom"
+    },
+    "GSM": {
+      "full_name": "Công ty Cổ phần Thủy điện Hương Sơn",
+      "exchange": "upcom"
+    },
+    "GTT": {
+      "full_name": "Công ty Cổ phần Thuận Thảo",
+      "exchange": "upcom"
+    },
+    "H11": {
+      "full_name": "Công ty Cổ phần Xây dựng HUD101",
+      "exchange": "upcom"
+    },
+    "HAI": {
+      "full_name": "Công ty Cổ phần Nông dược H.A.I",
+      "exchange": "upcom"
+    },
+    "HBD": {
+      "full_name": "Công ty Cổ phần Bao bì PP Bình Dương",
+      "exchange": "upcom"
+    },
+    "HCI": {
+      "full_name": "Công ty Cổ phần Đầu tư - Xây dựng Hà Nội",
+      "exchange": "upcom"
+    },
+    "HDM": {
+      "full_name": "Công ty Cổ phần Dệt - May Huế",
+      "exchange": "upcom"
+    },
+    "HDO": {
+      "full_name": "Công ty Cổ phần Hưng Đạo Container",
+      "exchange": "upcom"
+    },
+    "HFC": {
+      "full_name": "Công ty Cổ phần Xăng dầu Chất đốt Hà Nội",
+      "exchange": "upcom"
+    },
+    "HFX": {
+      "full_name": "Công ty Cổ phần Sản xuất - Xuất nhập khẩu Thanh Hà",
+      "exchange": "upcom"
+    },
+    "HHG": {
+      "full_name": "Công ty Cổ phần Hoàng Hà",
+      "exchange": "upcom"
+    },
+    "HIG": {
+      "full_name": "Công ty Cổ phần Tập Đoàn HIPT",
+      "exchange": "upcom"
+    },
+    "HJC": {
+      "full_name": "Công ty Cổ phần Hòa Việt",
+      "exchange": "upcom"
+    },
+    "HKB": {
+      "full_name": "Công ty Cổ phần Nông nghiệp và Thực phẩm Hà Nội - Kinh Bắc",
+      "exchange": "upcom"
+    },
+    "HLA": {
+      "full_name": "Công ty Cổ phần Hữu Liên Á Châu",
+      "exchange": "upcom"
+    },
+    "HLY": {
+      "full_name": "Công ty Cổ phần Viglacera Hạ Long I",
+      "exchange": "upcom"
+    },
+    "HMG": {
+      "full_name": "Công ty Cổ phần Kim Khí Hà Nội",
+      "exchange": "upcom"
+    },
+    "HNM": {
+      "full_name": "Công ty Cổ phần Sữa Hà Nội",
+      "exchange": "upcom"
+    },
+    "HOT": {
+      "full_name": "Công ty Cổ phần Du lịch - Dịch vụ Hội An",
+      "exchange": "upcom"
+    },
+    "HPB": {
+      "full_name": "Công ty Cổ phần Bao bì PP",
+      "exchange": "upcom"
+    },
+    "HPD": {
+      "full_name": "Công ty Cổ phần Thủy điện Đăk Đoa",
+      "exchange": "upcom"
+    },
+    "HPP": {
+      "full_name": "Công ty Cổ phần Sơn Hải Phòng",
+      "exchange": "upcom"
+    },
+    "HPT": {
+      "full_name": "Công ty Cổ phần Dịch vụ Công nghệ Tin học HPT",
+      "exchange": "upcom"
+    },
+    "HSI": {
+      "full_name": "Công ty Cổ phần Vật tư Tổng hợp và Phân bón Hóa sinh",
+      "exchange": "upcom"
+    },
+    "HTG": {
+      "full_name": "Tổng Công ty Cổ phần Dệt may Hòa Thọ",
+      "exchange": "upcom"
+    },
+    "HU3": {
+      "full_name": "Công ty Cổ phần Đầu tư và Xây dựng HUD3",
+      "exchange": "upcom"
+    },
+    "HU4": {
+      "full_name": "Công ty Cổ phần Đầu tư và Xây dựng HUD4",
+      "exchange": "upcom"
+    },
+    "HVA": {
+      "full_name": "Công ty Cổ phần Nông nghiệp xanh Hưng Việt",
+      "exchange": "upcom"
+    },
+    "HVG": {
+      "full_name": "Công ty Cổ phần Hùng Vương",
+      "exchange": "upcom"
+    },
+    "ICF": {
+      "full_name": "Công ty Cổ phần Đầu tư Thương mại Thủy sản",
+      "exchange": "upcom"
+    },
+    "ICI": {
+      "full_name": "Công ty Cổ phần Đầu tư và Xây dựng Công nghiệp",
+      "exchange": "upcom"
+    },
+    "IFS": {
+      "full_name": "Công ty Cổ phần Thực phẩm Quốc tế",
+      "exchange": "upcom"
+    },
+    "IHK": {
+      "full_name": "Công ty Cổ phần In Hàng Không",
+      "exchange": "upcom"
+    },
+    "ILC": {
+      "full_name": "Công ty Cổ phần Hợp tác lao động với nước ngoài",
+      "exchange": "upcom"
+    },
+    "IME": {
+      "full_name": "Công ty Cổ phần Cơ khí và Xây lắp Công nghiệp",
+      "exchange": "upcom"
+    },
+    "IN4": {
+      "full_name": "Công ty Cổ phần In số 4",
+      "exchange": "upcom"
+    },
+    "ISG": {
+      "full_name": "Công ty Cổ phần Vận tải biển và Hợp tác lao động Quốc Tế",
+      "exchange": "upcom"
+    },
+    "ISH": {
+      "full_name": "Công ty Cổ phần Thủy điện Srok Phu Miêng IDICO",
+      "exchange": "upcom"
+    },
+    "KAC": {
+      "full_name": "Công ty Cổ phần Đầu tư Địa ốc Khang An",
+      "exchange": "upcom"
+    },
+    "KCE": {
+      "full_name": "Công ty Cổ phần Bê tông Ly tâm Điện lực Khánh Hòa",
+      "exchange": "upcom"
+    },
+    "KHL": {
+      "full_name": "Công ty Cổ phần Khoáng sản và Vật liệu Xây dựng Hưng Long",
+      "exchange": "upcom"
+    },
+    "KLB": {
+      "full_name": "Ngân hàng Thương mại Cổ phần Kiên Long",
+      "exchange": "upcom"
+    },
+    "KSH": {
+      "full_name": "Công ty Cổ phần Đầu tư và Phát triển KSH",
+      "exchange": "upcom"
+    },
+    "KTL": {
+      "full_name": "Công ty Cổ phần Kim khí Thăng Long",
+      "exchange": "upcom"
+    },
+    "KVC": {
+      "full_name": "Công ty Cổ phần Sản xuất Xuất nhập khẩu Inox Kim Vĩ",
+      "exchange": "upcom"
+    },
+    "L35": {
+      "full_name": "Công ty Cổ phần Cơ khí Lắp máy Lilama",
+      "exchange": "upcom"
+    },
+    "L44": {
+      "full_name": "Công ty Cổ phần Lilama 45.4",
+      "exchange": "upcom"
+    },
+    "LAI": {
+      "full_name": "Công ty Cổ phần Đầu tư Xây dựng Long An IDICO",
+      "exchange": "upcom"
+    },
+    "LCC": {
+      "full_name": "Công ty Cổ phần Xi măng Lạng Sơn",
+      "exchange": "upcom"
+    },
+    "LCM": {
+      "full_name": "Công ty Cổ phần Khai thác và Chế biến Khoáng sản Lào Cai",
+      "exchange": "upcom"
+    },
+    "LCS": {
+      "full_name": "Công ty Cổ phần Licogi 16.6",
+      "exchange": "upcom"
+    },
+    "LKW": {
+      "full_name": "Công ty Cổ phần Cấp nước Long Khánh",
+      "exchange": "upcom"
+    },
+    "LM3": {
+      "full_name": "Công ty Cổ phần Lilama 3",
+      "exchange": "upcom"
+    },
+    "LM7": {
+      "full_name": "Công ty Cổ phần Lilama 7",
+      "exchange": "upcom"
+    },
+    "LO5": {
+      "full_name": "Công ty Cổ phần Lilama 5",
+      "exchange": "upcom"
+    },
+    "LTC": {
+      "full_name": "Công ty Cổ phần Điện nhẹ Viễn Thông",
+      "exchange": "upcom"
+    },
+    "LUT": {
+      "full_name": "Công ty Cổ phần Đầu tư Xây dựng Lương Tài",
+      "exchange": "upcom"
+    },
+    "MCG": {
+      "full_name": "Công ty Cổ phần Cơ điện và Xây dựng Việt Nam",
+      "exchange": "upcom"
+    },
+    "MDF": {
+      "full_name": "Công ty Cổ phần Gỗ MDF VRG - Quảng Trị",
+      "exchange": "upcom"
+    },
+    "MEC": {
+      "full_name": "Công ty Cổ phần Cơ khí - Lắp máy Sông Đà",
+      "exchange": "upcom"
+    },
+    "MEF": {
+      "full_name": "Công ty Cổ phần MEINFA",
+      "exchange": "upcom"
+    },
+    "MFS": {
+      "full_name": "Công ty Cổ phần Dịch vụ kỹ thuật Mobifone",
+      "exchange": "upcom"
+    },
+    "MIC": {
+      "full_name": "Công ty Cổ phần Kỹ nghệ Khoáng sản Quảng Nam",
+      "exchange": "upcom"
+    },
+    "MKP": {
+      "full_name": "Công ty Cổ phần Hóa - Dược phẩm Mekophar",
+      "exchange": "upcom"
+    },
+    "MPC": {
+      "full_name": "Công ty Cổ phần Tập đoàn Thủy sản Minh Phú",
+      "exchange": "upcom"
+    },
+    "MSR": {
+      "full_name": "Công ty Cổ phần Tài Nguyên Ma San",
+      "exchange": "upcom"
+    },
+    "MTC": {
+      "full_name": "Công ty Cổ phần Dịch vụ Du lịch Mỹ Trà",
+      "exchange": "upcom"
+    },
+    "MTG": {
+      "full_name": "Công ty Cổ phần MT Gas",
+      "exchange": "upcom"
+    },
+    "MTH": {
+      "full_name": "Công ty Cổ phần Môi trường Đô thị Hà Đông",
+      "exchange": "upcom"
+    },
+    "MTP": {
+      "full_name": "Công ty Cổ phần Dược Trung ương Medipharco - Tenamyd",
+      "exchange": "upcom"
+    },
+    "NAB": {
+      "full_name": "Ngân hàng Thương mại Cổ phần Nam Á",
+      "exchange": "upcom"
+    },
+    "NCS": {
+      "full_name": "Công ty Cổ phần Suất ăn Hàng không Nội Bài",
+      "exchange": "upcom"
+    },
+    "ND2": {
+      "full_name": "Công ty Cổ phần Đầu tư và Phát triển điện Miền Bắc 2",
+      "exchange": "upcom"
+    },
+    "NDC": {
+      "full_name": "Công ty Cổ phần Nam Dược",
+      "exchange": "upcom"
+    },
+    "NDF": {
+      "full_name": "Công ty Cổ phần Chế biến thực phẩm nông sản xuất khẩu Nam Định",
+      "exchange": "upcom"
+    },
+    "NGC": {
+      "full_name": "Công ty Cổ phần Chế biến Thủy sản Xuất khẩu Ngô Quyền",
+      "exchange": "upcom"
+    },
+    "NHP": {
+      "full_name": "Công ty Cổ phần Sản xuất Xuất nhập khẩu NHP",
+      "exchange": "upcom"
+    },
+    "NNT": {
+      "full_name": "Công ty Cổ phần Cấp nước Ninh Thuận",
+      "exchange": "upcom"
+    },
+    "NOS": {
+      "full_name": "Công ty Cổ phần Vận tải Biển Bắc",
+      "exchange": "upcom"
+    },
+    "NQB": {
+      "full_name": "Công ty Cổ phần Cấp nước Quảng Bình",
+      "exchange": "upcom"
+    },
+    "NTB": {
+      "full_name": "Công ty Cổ phần Đầu tư Xây dựng và Khai thác Công trình giao thông 584",
+      "exchange": "upcom"
+    },
+    "NTC": {
+      "full_name": "Công ty Cổ phần Khu Công nghiệp Nam Tân Uyên",
+      "exchange": "upcom"
+    },
+    "NTW": {
+      "full_name": "Công ty Cổ phần Cấp nước Nhơn Trạch",
+      "exchange": "upcom"
+    },
+    "PDC": {
+      "full_name": "Công ty Cổ phần Du lịch Dầu khí Phương Đông",
+      "exchange": "upcom"
+    },
+    "PEC": {
+      "full_name": "Công ty Cổ phần Cơ khí Điện lực",
+      "exchange": "upcom"
+    },
+    "PFL": {
+      "full_name": "Công ty Cổ phần Dầu khí Đông Đô",
+      "exchange": "upcom"
+    },
+    "PGB": {
+      "full_name": "Ngân hàng Thương mại Cổ phần Xăng dầu Petrolimex",
+      "exchange": "upcom"
+    },
+    "PHH": {
+      "full_name": "Công ty Cổ phần Hồng Hà Việt Nam",
+      "exchange": "upcom"
+    },
+    "PHP": {
+      "full_name": "Công ty Cổ phần Cảng Hải Phòng",
+      "exchange": "upcom"
+    },
+    "PHS": {
+      "full_name": "Công ty Cổ phần Chứng khoán Phú Hưng",
+      "exchange": "upcom"
+    },
+    "PID": {
+      "full_name": "Công ty Cổ phần Trang trí nội thất Dầu khí",
+      "exchange": "upcom"
+    },
+    "PIV": {
+      "full_name": "Công ty Cổ phần PIV",
+      "exchange": "upcom"
+    },
+    "PJS": {
+      "full_name": "Công ty Cổ phần Cấp nước Phú Hòa Tân",
+      "exchange": "upcom"
+    },
+    "PMJ": {
+      "full_name": "Công ty cổ phần Vật tư Bưu điện",
+      "exchange": "upcom"
+    },
+    "PMT": {
+      "full_name": "Công ty Cổ phần Vật liệu Bưu điện",
+      "exchange": "upcom"
+    },
+    "POV": {
+      "full_name": "Công ty Cổ phần Xăng dầu Dầu khí Vũng Áng",
+      "exchange": "upcom"
+    },
+    "PPI": {
+      "full_name": "Công ty Cổ phần Đầu tư và Phát triển dự án hạ tầng Thái Bình Dương",
+      "exchange": "upcom"
+    },
+    "PRO": {
+      "full_name": "Công ty Cổ phần Procimex Việt Nam",
+      "exchange": "upcom"
+    },
+    "PSB": {
+      "full_name": "Công ty Cổ phần Đầu tư Dầu khí Sao Mai Bến Đình",
+      "exchange": "upcom"
+    },
+    "PSG": {
+      "full_name": "Công ty Cổ phần Đầu tư và Xây lắp Dầu khí Sài Gòn",
+      "exchange": "upcom"
+    },
+    "PSL": {
+      "full_name": "Công ty Cổ phần Chăn nuôi Phú Sơn",
+      "exchange": "upcom"
+    },
+    "PSP": {
+      "full_name": "Công ty Cổ phần Cảng Dịch vụ Dầu khí Đình Vũ",
+      "exchange": "upcom"
+    },
+    "PTE": {
+      "full_name": "Công ty Cổ phần Xi măng Phú Thọ",
+      "exchange": "upcom"
+    },
+    "PTG": {
+      "full_name": "Công ty Cổ phần May Xuất Khẩu Phan Thiết",
+      "exchange": "upcom"
+    },
+    "PTH": {
+      "full_name": "Công ty Cổ phần Vận tải và Dịch vụ Petrolimex Hà Tây",
+      "exchange": "upcom"
+    },
+    "PTP": {
+      "full_name": "Công ty Cổ phần Dịch vụ Viễn Thông và In Bưu điện",
+      "exchange": "upcom"
+    },
+    "PTT": {
+      "full_name": "Công ty Cổ phần Vận tải Dầu khí Đông Dương",
+      "exchange": "upcom"
+    },
+    "PVA": {
+      "full_name": "Công ty Cổ phần Tổng Công ty Xây lắp Dầu khí Nghệ An",
+      "exchange": "upcom"
+    },
+    "PVE": {
+      "full_name": "Tổng Công ty Tư vấn Thiết kế Dầu khí- CTCP",
+      "exchange": "upcom"
+    },
+    "PVL": {
+      "full_name": "Công ty Cổ phần Địa ốc Dầu khí",
+      "exchange": "upcom"
+    },
+    "PVR": {
+      "full_name": "Công ty Cổ phần Kinh doanh Dịch vụ Cao cấp Dầu khí Việt Nam",
+      "exchange": "upcom"
+    },
+    "PVV": {
+      "full_name": "Công ty Cổ phần Đầu tư Xây dựng Vinaconex - PVC",
+      "exchange": "upcom"
+    },
+    "PVX": {
+      "full_name": "Tổng Công ty Cổ phần Xây lắp Dầu khí Việt Nam",
+      "exchange": "upcom"
+    },
+    "PX1": {
+      "full_name": "Công ty Cổ phần Xi măng Sông Lam 2",
+      "exchange": "upcom"
+    },
+    "PXA": {
+      "full_name": "Công ty Cổ phần Đầu tư và Thương mại Dầu khí Nghệ An",
+      "exchange": "upcom"
+    },
+    "PXI": {
+      "full_name": "Công ty Cổ phần Xây dựng Công nghiệp và Dân dụng Dầu khí",
+      "exchange": "upcom"
+    },
+    "PXL": {
+      "full_name": "Công ty Cổ phần Đầu tư Xây dựng thương mại dầu khí IDICO",
+      "exchange": "upcom"
+    },
+    "PXM": {
+      "full_name": "Công ty Cổ phần Xây lắp Dầu khí Miền Trung",
+      "exchange": "upcom"
+    },
+    "PXS": {
+      "full_name": "Công ty Cổ phần Kết cấu Kim loại và Lắp máy Dầu khí",
+      "exchange": "upcom"
+    },
+    "PXT": {
+      "full_name": "Công ty Cổ phần Xây lắp Đường ống Bể chứa Dầu khí",
+      "exchange": "upcom"
+    },
+    "QCC": {
+      "full_name": "Công ty Cổ phần Xây lắp và Phát triển Dịch vụ Bưu điện Quảng Nam",
+      "exchange": "upcom"
+    },
+    "QNC": {
+      "full_name": "Công ty Cổ phần Xi măng và Xây dựng Quảng Ninh",
+      "exchange": "upcom"
+    },
+    "QPH": {
+      "full_name": "Công ty Cổ phần Thủy điện Quế Phong",
+      "exchange": "upcom"
+    },
+    "RCC": {
+      "full_name": "Công ty Cổ phần Tổng Công ty Công trình Đường sắt",
+      "exchange": "upcom"
+    },
+    "RCD": {
+      "full_name": "Công ty Cổ phần Xây dựng - Địa ốc Cao su",
+      "exchange": "upcom"
+    },
+    "RIC": {
+      "full_name": "Công ty Cổ phần Quốc Tế Hoàng Gia",
+      "exchange": "upcom"
+    },
+    "S12": {
+      "full_name": "Công ty Cổ phần Sông Đà 12",
+      "exchange": "upcom"
+    },
+    "S27": {
+      "full_name": "Công ty Cổ phần Sông Đà 27",
+      "exchange": "upcom"
+    },
+    "S74": {
+      "full_name": "Công ty Cổ phần Sông Đà 7.04",
+      "exchange": "upcom"
+    },
+    "S96": {
+      "full_name": "Công ty Cổ phần Sông Đà 9.06",
+      "exchange": "upcom"
+    },
+    "SAP": {
+      "full_name": "Công ty Cổ phần In sách giáo khoa tại TP.Hồ Chí Minh",
+      "exchange": "upcom"
+    },
+    "SAS": {
+      "full_name": "Công ty Cổ phần Dịch vụ Hàng không Sân bay Tân Sơn Nhất",
+      "exchange": "upcom"
+    },
+    "SBS": {
+      "full_name": "Công ty Cổ phần Chứng khoán Ngân hàng Sài Gòn Thương Tín",
+      "exchange": "upcom"
+    },
+    "SCC": {
+      "full_name": "Công ty Cổ phần Xi măng Sông Đà",
+      "exchange": "upcom"
+    },
+    "SCJ": {
+      "full_name": "Công ty Cổ phần Xi măng Sài Sơn",
+      "exchange": "upcom"
+    },
+    "SCL": {
+      "full_name": "Công ty Cổ phần Sông Đà Cao Cường",
+      "exchange": "upcom"
+    },
+    "SCO": {
+      "full_name": "Công ty Cổ phần Công nghiệp Thủy sản",
+      "exchange": "upcom"
+    },
+    "SD1": {
+      "full_name": "Công ty Cổ phần Sông Đà 1",
+      "exchange": "upcom"
+    },
+    "SD2": {
+      "full_name": "Công ty Cổ phần Sông Đà 2",
+      "exchange": "upcom"
+    },
+    "SD3": {
+      "full_name": "Công ty Cổ phần Sông Đà 3",
+      "exchange": "upcom"
+    },
+    "SD4": {
+      "full_name": "Công ty Cổ phần Sông Đà 4",
+      "exchange": "upcom"
+    },
+    "SD7": {
+      "full_name": "Công ty Cổ phần Sông Đà 7",
+      "exchange": "upcom"
+    },
+    "SD8": {
+      "full_name": "Công ty Cổ phần Sông Đà 8",
+      "exchange": "upcom"
+    },
+    "SDB": {
+      "full_name": "Công ty Cổ phần Sông Đà 207",
+      "exchange": "upcom"
+    },
+    "SDD": {
+      "full_name": "Công ty Cổ phần Đầu tư và Xây lắp Sông Đà",
+      "exchange": "upcom"
+    },
+    "SDJ": {
+      "full_name": "Công ty Cổ phần Sông Đà 25",
+      "exchange": "upcom"
+    },
+    "SDK": {
+      "full_name": "Công ty Cổ phần Cơ khí Luyện Kim",
+      "exchange": "upcom"
+    },
+    "SDP": {
+      "full_name": "Công ty Cổ phần Đầu tư và Thương mại Dầu khí Sông Đà",
+      "exchange": "upcom"
+    },
+    "SDV": {
+      "full_name": "Công ty Cổ phần Dịch vụ Sonadezi",
+      "exchange": "upcom"
+    },
+    "SDX": {
+      "full_name": "Công ty Cổ phần Phòng cháy chữa cháy và Đầu tư Xây dựng Sông Đà",
+      "exchange": "upcom"
+    },
+    "SDY": {
+      "full_name": "Công ty Cổ phần Xi măng Sông Đà Yaly",
+      "exchange": "upcom"
+    },
+    "SGB": {
+      "full_name": "Ngân hàng Sài Gòn Công thương",
+      "exchange": "upcom"
+    },
+    "SGS": {
+      "full_name": "Công ty Cổ phần Vận tải biển Sài Gòn",
+      "exchange": "upcom"
+    },
+    "SHC": {
+      "full_name": "Công ty Cổ phần Hàng hải Sài Gòn",
+      "exchange": "upcom"
+    },
+    "SHG": {
+      "full_name": "Tổng Công ty Cổ phần Sông Hồng",
+      "exchange": "upcom"
+    },
+    "SII": {
+      "full_name": "Công ty Cổ phần Hạ tầng Nước Sài Gòn",
+      "exchange": "upcom"
+    },
+    "SJC": {
+      "full_name": "Công ty Cổ phần Sông Đà 1.01",
+      "exchange": "upcom"
+    },
+    "SJM": {
+      "full_name": "Công ty Cổ phần Sông Đà 19",
+      "exchange": "upcom"
+    },
+    "SNC": {
+      "full_name": "Công ty Cổ phần Xuất nhập khẩu Thủy sản Năm Căn",
+      "exchange": "upcom"
+    },
+    "SPD": {
+      "full_name": "Công ty Cổ phần Xuất nhập khẩu Thủy sản Miền Trung",
+      "exchange": "upcom"
+    },
+    "SPH": {
+      "full_name": "Công ty Cổ phần Xuất Nhập khẩu Thủy sản Hà Nội",
+      "exchange": "upcom"
+    },
+    "SQC": {
+      "full_name": "Công ty Cổ phần Khoáng sản Sài Gòn - Quy Nhơn",
+      "exchange": "upcom"
+    },
+    "SRB": {
+      "full_name": "Công ty Cổ phần Tập đoàn Sara",
+      "exchange": "upcom"
+    },
+    "SSF": {
+      "full_name": "Công ty Cổ phần Giày Sài Gòn",
+      "exchange": "upcom"
+    },
+    "SSG": {
+      "full_name": "Công ty Cổ phần Vận tải Biển Hải Âu",
+      "exchange": "upcom"
+    },
+    "SSN": {
+      "full_name": "Công ty Cổ phần Xuât nhập khẩu Thủy sản Sài Gòn",
+      "exchange": "upcom"
+    },
+    "STL": {
+      "full_name": "Công ty Cổ phần Sông Đà – Thăng Long",
+      "exchange": "upcom"
+    },
+    "STS": {
+      "full_name": "Công ty Cổ phần Dịch vụ vận tải Sài Gòn",
+      "exchange": "upcom"
+    },
+    "STT": {
+      "full_name": "Công ty Cổ phần Vận chuyển Sài Gòn Tourist",
+      "exchange": "upcom"
+    },
+    "SWC": {
+      "full_name": "Tổng Công ty Cổ phần Đường Sông Miền Nam",
+      "exchange": "upcom"
+    },
+    "TBD": {
+      "full_name": "Tổng công ty Thiết bị điện Đông Anh",
+      "exchange": "upcom"
+    },
+    "TBT": {
+      "full_name": "Công ty Cổ phần Xây dựng Công trình Giao thông Bến Tre",
+      "exchange": "upcom"
+    },
+    "TDS": {
+      "full_name": "Công ty Cổ phần Thép Thủ Đức",
+      "exchange": "upcom"
+    },
+    "TGP": {
+      "full_name": "Công ty Cổ phần Trường Phú",
+      "exchange": "upcom"
+    },
+    "TH1": {
+      "full_name": "Công ty Cổ phần Xuất nhập khẩu Tổng hợp I Việt Nam",
+      "exchange": "upcom"
+    },
+    "TIE": {
+      "full_name": "Công ty Cổ phần TIE",
+      "exchange": "upcom"
+    },
+    "TIS": {
+      "full_name": "Công ty Cổ phần Gang thép Thái Nguyên",
+      "exchange": "upcom"
+    },
+    "TL4": {
+      "full_name": "Tổng Công ty Xây dựng Thủy lợi 4 - Công ty Cổ phần",
+      "exchange": "upcom"
+    },
+    "TLT": {
+      "full_name": "Công ty Cổ phần Viglacera Thăng Long",
+      "exchange": "upcom"
+    },
+    "TMW": {
+      "full_name": "Công ty Cổ phần Tổng hợp Gỗ Tân Mai",
+      "exchange": "upcom"
+    },
+    "TNB": {
+      "full_name": "Công ty Cổ phần Thép Nhà Bè",
+      "exchange": "upcom"
+    },
+    "TNM": {
+      "full_name": "Công ty Cổ phần Xuất nhập khẩu và Xây dựng Công trình",
+      "exchange": "upcom"
+    },
+    "TOP": {
+      "full_name": "Công ty Cổ phần Phân phối Top One",
+      "exchange": "upcom"
+    },
+    "TRS": {
+      "full_name": "Công ty Cổ phần Vận tải và Dịch vụ Hàng Hải",
+      "exchange": "upcom"
+    },
+    "TS4": {
+      "full_name": "Công ty Cổ phần Thủy sản số 4",
+      "exchange": "upcom"
+    },
+    "TST": {
+      "full_name": "Công ty Cổ phần Dịch vụ Kỹ thuật Viễn thông",
+      "exchange": "upcom"
+    },
+    "TTG": {
+      "full_name": "Công ty Cổ phần May Thanh Trì",
+      "exchange": "upcom"
+    },
+    "TTP": {
+      "full_name": "Công ty Cổ phần Bao bì Nhựa Tân Tiến",
+      "exchange": "upcom"
+    },
+    "TV1": {
+      "full_name": "Công ty Cổ phần Tư vấn và Xây dựng Điện 1",
+      "exchange": "upcom"
+    },
+    "TVG": {
+      "full_name": "Công ty Cổ phần Tư vấn Đầu tư và Xây dựng Giao thông Vận tải",
+      "exchange": "upcom"
+    },
+    "UDC": {
+      "full_name": "Công ty Cổ phần Xây dựng và Phát triển đô thị Tỉnh Bà Rịa - Vũng Tàu",
+      "exchange": "upcom"
+    },
+    "UDJ": {
+      "full_name": "Công ty Cổ phần Phát triển Đô thị",
+      "exchange": "upcom"
+    },
+    "UEM": {
+      "full_name": "Công ty Cổ phần Cơ điện Uông Bí - Vinacomin",
+      "exchange": "upcom"
+    },
+    "UPC": {
+      "full_name": "CTCP Phát triển Công viên Cây xanh và Đô thị Vũng Tàu",
+      "exchange": "upcom"
+    },
+    "V11": {
+      "full_name": "Công ty Cổ phần Xây dựng số 11",
+      "exchange": "upcom"
+    },
+    "V15": {
+      "full_name": "Công ty Cổ phần Xây dựng số 15",
+      "exchange": "upcom"
+    },
+    "VAB": {
+      "full_name": "Ngân hàng Thương mại Cổ phần Việt Á",
+      "exchange": "upcom"
+    },
+    "VBH": {
+      "full_name": "Công ty Cổ phần Điện tử Bình Hoà",
+      "exchange": "upcom"
+    },
+    "VC5": {
+      "full_name": "Công ty Cổ phần xây dựng số 5",
+      "exchange": "upcom"
+    },
+    "VCR": {
+      "full_name": "Công ty Cổ phần Đầu tư và Phát triển Du lịch Vinaconex",
+      "exchange": "upcom"
+    },
+    "VCT": {
+      "full_name": "Công ty Cổ phần Tư vấn Xây dựng Vinaconex",
+      "exchange": "upcom"
+    },
+    "VCX": {
+      "full_name": "Công ty Cổ phần Xi măng Yên Bình",
+      "exchange": "upcom"
+    },
+    "VDN": {
+      "full_name": "Công ty Cổ phần Vinatex Đà Nẵng",
+      "exchange": "upcom"
+    },
+    "VDT": {
+      "full_name": "Công ty Cổ phần Lưới thép Bình Tây",
+      "exchange": "upcom"
+    },
+    "VE9": {
+      "full_name": "Công ty Cổ phần Đầu tư và Xây dựng VNECO 9",
+      "exchange": "upcom"
+    },
+    "VES": {
+      "full_name": "Công ty Cổ phần Đầu tư và Xây dựng Điện MÊ CA VNECO",
+      "exchange": "upcom"
+    },
+    "VFC": {
+      "full_name": "Công ty Cổ phần VINAFCO",
+      "exchange": "upcom"
+    },
+    "VFR": {
+      "full_name": "Công ty Cổ phần Vận tải và Thuê tàu",
+      "exchange": "upcom"
+    },
+    "VGG": {
+      "full_name": "Tổng CTCP May Việt Tiến",
+      "exchange": "upcom"
+    },
+    "VHF": {
+      "full_name": "Công ty Cổ phần Xây dựng và Chế biến lương thực Vĩnh Hà",
+      "exchange": "upcom"
+    },
+    "VHG": {
+      "full_name": "Công ty Cổ phần Đầu tư Cao su Quảng Nam",
+      "exchange": "upcom"
+    },
+    "VHH": {
+      "full_name": "Công ty Cổ phần Đầu tư Kinh doanh nhà Thành Đạt",
+      "exchange": "upcom"
+    },
+    "VIE": {
+      "full_name": "Công ty Cổ phần Công nghệ Viễn thông VI TE CO",
+      "exchange": "upcom"
+    },
+    "VIN": {
+      "full_name": "Công ty Cổ phần Giao nhận Kho vận Ngoại thương Việt Nam",
+      "exchange": "upcom"
+    },
+    "VIR": {
+      "full_name": "Công ty Cổ phần Du lịch Quốc tế Vũng Tàu",
+      "exchange": "upcom"
+    },
+    "VKC": {
+      "full_name": "Công ty Cổ phần Cáp nhựa Vĩnh Khánh",
+      "exchange": "upcom"
+    },
+    "VKP": {
+      "full_name": "Công ty Cổ phần Nhựa Tân Hóa",
+      "exchange": "upcom"
+    },
+    "VLC": {
+      "full_name": "Tổng Công ty Chăn nuôi Việt Nam - Công ty Cổ phần",
+      "exchange": "upcom"
+    },
+    "VLF": {
+      "full_name": "Công ty Cổ phần Lương thực Thực phẩm Vĩnh Long",
+      "exchange": "upcom"
+    },
+    "VLG": {
+      "full_name": "Công ty Cổ phần Vinalines Logistics Việt Nam",
+      "exchange": "upcom"
+    },
+    "VMA": {
+      "full_name": "Công ty Cổ phần Công nghiệp ô tô vinacomin",
+      "exchange": "upcom"
+    },
+    "VMG": {
+      "full_name": "Công ty Cổ phần Thương mại và Dịch vụ Dầu khí Vũng Tàu",
+      "exchange": "upcom"
+    },
+    "VNA": {
+      "full_name": "Công ty Cổ phần Vận tải biển Vinaship",
+      "exchange": "upcom"
+    },
+    "VNH": {
+      "full_name": "Công ty Cổ phần Thủy hải sản Việt Nhật",
+      "exchange": "upcom"
+    },
+    "VNI": {
+      "full_name": "Công ty Cổ phần Đầu tư Bất động sản Việt Nam",
+      "exchange": "upcom"
+    },
+    "VNP": {
+      "full_name": "Công ty Cổ phần Nhựa Việt Nam",
+      "exchange": "upcom"
+    },
+    "VNX": {
+      "full_name": "Công ty Cổ phần Quảng cáo và Hội chợ Thương mại Vinexad",
+      "exchange": "upcom"
+    },
+    "VPC": {
+      "full_name": "Công ty Cổ phần Đầu tư và Phát triển Năng lượng Việt Nam",
+      "exchange": "upcom"
+    },
+    "VQC": {
+      "full_name": "Công ty Cổ phần Giám định Vinaconmin",
+      "exchange": "upcom"
+    },
+    "VRG": {
+      "full_name": "Công ty Cổ phần Phát triển Đô thị và Khu Công nghiệp Cao Su Việt Nam",
+      "exchange": "upcom"
+    },
+    "VSG": {
+      "full_name": "Công ty Cổ phần Container Phía Nam",
+      "exchange": "upcom"
+    },
+    "VST": {
+      "full_name": "Công ty Cổ phần Vận tải và Thuê Tàu biển Việt Nam",
+      "exchange": "upcom"
+    },
+    "VTA": {
+      "full_name": "Công ty Cổ phần VITALY",
+      "exchange": "upcom"
+    },
+    "VTE": {
+      "full_name": "Công ty Cổ phần Viễn thông Điện tử VINACAP",
+      "exchange": "upcom"
+    },
+    "VTI": {
+      "full_name": "Công ty Cổ phần Sản xuất - Xuất nhập khẩu Dệt may",
+      "exchange": "upcom"
+    },
+    "VTK": {
+      "full_name": "Công ty Cổ phần Tư vấn Thiết kế Viettel",
+      "exchange": "upcom"
+    },
+    "VTL": {
+      "full_name": "Công ty Cổ phần Vang Thăng Long",
+      "exchange": "upcom"
+    },
+    "VTM": {
+      "full_name": "Công ty Cổ phần Vận tải và Đưa đón thợ mỏ - Vinacomin",
+      "exchange": "upcom"
+    },
+    "VTS": {
+      "full_name": "Công ty Cổ phần Viglacera Từ Sơn",
+      "exchange": "upcom"
+    },
+    "VTX": {
+      "full_name": "Công ty Cổ phần Vận tải Đa phương thức",
+      "exchange": "upcom"
+    },
+    "VXB": {
+      "full_name": "Công ty Cổ phần Vật liệu xây dựng Bến Tre",
+      "exchange": "upcom"
+    },
+    "WSB": {
+      "full_name": "Công ty Cổ phần Bia Sài Gòn - Miền Tây",
+      "exchange": "upcom"
+    },
+    "WTC": {
+      "full_name": "Công ty Cổ phần Vận tải thủy TKV",
+      "exchange": "upcom"
+    },
+    "XMC": {
+      "full_name": "Công ty Cổ phần Bê tông và Xây dựng Vinaconex Xuân Mai",
+      "exchange": "upcom"
+    },
+    "XMD": {
+      "full_name": "Công ty Cổ phần Xuân Mai - Đạo Tú",
+      "exchange": "upcom"
+    },
+    "XPH": {
+      "full_name": "Công ty Cổ phần Xà phòng Hà Nội",
+      "exchange": "upcom"
+    },
+    "YBC": {
+      "full_name": "Công ty Cổ phần Xi măng và Khoáng sản Yên Bái",
+      "exchange": "upcom"
+    },
+    "AAV": {
+      "full_name": "CTCP AAV Group",
+      "exchange": "hnx"
+    },
+    "ATS": {
+      "full_name": "CTCP Tập đoàn Dược phẩm Atesco",
+      "exchange": "hnx"
+    },
+    "BAB": {
+      "full_name": "Ngân hàng TMCP Bắc Á",
+      "exchange": "hnx"
+    },
+    "BAX": {
+      "full_name": "CTCP Thống Nhất",
+      "exchange": "hnx"
+    },
+    "BCF": {
+      "full_name": "CTCP Thực phẩm Bích Chi",
+      "exchange": "hnx"
+    },
+    "BNA": {
+      "full_name": "CTCP Đầu tư sản xuất Bảo Ngọc",
+      "exchange": "hnx"
+    },
+    "C69": {
+      "full_name": "CTCP Xây dựng 1369",
+      "exchange": "hnx"
+    },
+    "CAG": {
+      "full_name": "CTCP Cảng An Giang",
+      "exchange": "hnx"
+    },
+    "CDN": {
+      "full_name": "CTCP Cảng Đà Nẵng",
+      "exchange": "hnx"
+    },
+    "CET": {
+      "full_name": "CTCP HTC Holding",
+      "exchange": "hnx"
+    },
+    "CIA": {
+      "full_name": "CTCP Dịch vụ Sân bay Quốc tế Cam Ranh",
+      "exchange": "hnx"
+    },
+    "CLH": {
+      "full_name": "CTCP Xi măng La Hiên VVMI",
+      "exchange": "hnx"
+    },
+    "CLM": {
+      "full_name": "CTCP Xuất nhập khẩu Than - Vinacomin",
+      "exchange": "hnx"
+    },
+    "CTP": {
+      "full_name": "CTCP Minh khang Capital Trading Public",
+      "exchange": "hnx"
+    },
+    "DDG": {
+      "full_name": "CTCP Đầu tư Công nghiệp Xuất nhập khẩu Đông Dương",
+      "exchange": "hnx"
+    },
+    "DS3": {
+      "full_name": "CTCP DS3",
+      "exchange": "hnx"
+    },
+    "DTD": {
+      "full_name": "CTCP Đầu tư Phát triển Thành Đạt",
+      "exchange": "hnx"
+    },
+    "DTG": {
+      "full_name": "CTCP Dược phẩm Tipharco",
+      "exchange": "hnx"
+    },
+    "DTK": {
+      "full_name": "Tổng công ty Điện lực TKV - CTCP",
+      "exchange": "hnx"
+    },
+    "DVG": {
+      "full_name": "CTCP Đại Việt Group DVG",
+      "exchange": "hnx"
+    },
+    "DVM": {
+      "full_name": "CTCP Dược liệu Việt Nam",
+      "exchange": "hnx"
+    },
+    "EVS": {
+      "full_name": "CTCP Chứng khoán Everest",
+      "exchange": "hnx"
+    },
+    "GIC": {
+      "full_name": "CTCP Đầu tư dịch vụ và Phát triển xanh",
+      "exchange": "hnx"
+    },
+    "GKM": {
+      "full_name": "CTCP Khang Minh Group",
+      "exchange": "hnx"
+    },
+    "GMA": {
+      "full_name": "CTCP G-AUTOMOBILE",
+      "exchange": "hnx"
+    },
+    "HKT": {
+      "full_name": "CTCP Đầu tư EGO Việt Nam",
+      "exchange": "hnx"
+    },
+    "HMR": {
+      "full_name": "CTCP Đá Hoàng Mai",
+      "exchange": "hnx"
+    },
+    "IDC": {
+      "full_name": "Tổng công ty IDICO - CTCP",
+      "exchange": "hnx"
+    },
+    "IPA": {
+      "full_name": "CTCP Tập đoàn Đầu tư I.P.A",
+      "exchange": "hnx"
+    },
+    "KDM": {
+      "full_name": "CTCP Tập đoàn GCL",
+      "exchange": "hnx"
+    },
+    "KHS": {
+      "full_name": "CTCP Kiên Hùng",
+      "exchange": "hnx"
+    },
+    "KSF": {
+      "full_name": "CTCP Tập đoàn Real Tech",
+      "exchange": "hnx"
+    },
+    "KSV": {
+      "full_name": "Tổng Công ty Khoáng sản TKV - CTCP",
+      "exchange": "hnx"
+    },
+    "L40": {
+      "full_name": "CTCP Đầu tư và Xây dựng 40",
+      "exchange": "hnx"
+    },
+    "MBG": {
+      "full_name": "CTCP Tập đoàn MBG",
+      "exchange": "hnx"
+    },
+    "MBS": {
+      "full_name": "CTCP Chứng khoán MB",
+      "exchange": "hnx"
+    },
+    "MEL": {
+      "full_name": "CTCP Thép Mê Lin",
+      "exchange": "hnx"
+    },
+    "MST": {
+      "full_name": "CTCP Đầu tư MST",
+      "exchange": "hnx"
+    },
+    "MVB": {
+      "full_name": "Tổng Công ty Công nghiệp mỏ Việt Bắc TKV - CTCP",
+      "exchange": "hnx"
+    },
+    "NAP": {
+      "full_name": "CTCP Cảng Nghệ Tĩnh",
+      "exchange": "hnx"
+    },
+    "NRC": {
+      "full_name": "CTCP Tập đoàn Danh Khôi",
+      "exchange": "hnx"
+    },
+    "NSH": {
+      "full_name": "CTCP Tập đoàn Nhôm Sông Hồng Shalumi",
+      "exchange": "hnx"
+    },
+    "NTH": {
+      "full_name": "CTCP Thủy điện Nước trong",
+      "exchange": "hnx"
+    },
+    "PCH": {
+      "full_name": "CTCP Nhựa Picomat",
+      "exchange": "hnx"
+    },
+    "PGN": {
+      "full_name": "CTCP Phụ Gia Nhựa",
+      "exchange": "hnx"
+    },
+    "PHN": {
+      "full_name": "CTCP Pin Hà Nội",
+      "exchange": "hnx"
+    },
+    "PIA": {
+      "full_name": "CTCP Tin học Viễn thông Petrolimex",
+      "exchange": "hnx"
+    },
+    "PPT": {
+      "full_name": "CTCP Petro Times",
+      "exchange": "hnx"
+    },
+    "PPY": {
+      "full_name": "CTCP Xăng dầu Dầu khí Phú Yên",
+      "exchange": "hnx"
+    },
+    "PRE": {
+      "full_name": "Tổng CTCP Tái Bảo hiểm PVI",
+      "exchange": "hnx"
+    },
+    "SCG": {
+      "full_name": "CTCP Tập đoàn Xây dựng SCG",
+      "exchange": "hnx"
+    },
+    "SHE": {
+      "full_name": "CTCP Phát triển năng lượng Sơn Hà",
+      "exchange": "hnx"
+    },
+    "SZB": {
+      "full_name": "CTCP Sonadezi Long Bình",
+      "exchange": "hnx"
+    },
+    "TAR": {
+      "full_name": "CTCP Nông nghiệp Công nghệ cao Trung An",
+      "exchange": "hnx"
+    },
+    "TDT": {
+      "full_name": "CTCP Đầu tư và Phát triển TDT",
+      "exchange": "hnx"
+    },
+    "TFC": {
+      "full_name": "CTCP Trang",
+      "exchange": "hnx"
+    },
+    "THD": {
+      "full_name": "CTCP Thaiholdings",
+      "exchange": "hnx"
+    },
+    "TKG": {
+      "full_name": "CTCP Sản xuất và Thương mại Tùng Khánh",
+      "exchange": "hnx"
+    },
+    "TMB": {
+      "full_name": "CTCP Kinh doanh Than Miền Bắc - Vinacomin",
+      "exchange": "hnx"
+    },
+    "TOT": {
+      "full_name": "CTCP Transimex Logistics",
+      "exchange": "hnx"
+    },
+    "TTH": {
+      "full_name": "CTCP Thương mại và Dịch vụ Tiến Thành",
+      "exchange": "hnx"
+    },
+    "TTL": {
+      "full_name": "Tổng Công ty Thăng Long - CTCP",
+      "exchange": "hnx"
+    },
+    "TTT": {
+      "full_name": "CTCP Du lịch - Thương mại Tây Ninh",
+      "exchange": "hnx"
+    },
+    "VFS": {
+      "full_name": "CTCP Chứng khoán Nhất Việt",
+      "exchange": "hnx"
+    },
+    "VHE": {
+      "full_name": "CTCP Dược liệu và Thực phẩm Việt Nam",
+      "exchange": "hnx"
+    },
+    "VIF": {
+      "full_name": "Tổng Công ty Lâm nghiệp Việt Nam - CTCP",
+      "exchange": "hnx"
+    },
+    "VSA": {
+      "full_name": "CTCP Đại lý Hàng hải Việt Nam",
+      "exchange": "hnx"
+    },
+    "VSM": {
+      "full_name": "CTCP Container miền Trung",
+      "exchange": "hnx"
+    },
+    "VTZ": {
+      "full_name": "CTCP Sản xuất và Thương mại Nhựa Việt Thành",
+      "exchange": "hnx"
+    },
+    "X20": {
+      "full_name": "CTCP X20",
+      "exchange": "hnx"
+    },
+    "BCM": {
+      "full_name": "Tổng Công ty Đầu tư và phát triển Công nghiệp - CTCP",
+      "exchange": "hsx"
+    },
+    "GVR": {
+      "full_name": "Tập đoàn Công nghiệp Cao su Việt Nam",
+      "exchange": "hsx"
+    },
+    "PLX": {
+      "full_name": "Tập đoàn Xăng dầu Việt Nam",
+      "exchange": "hsx"
+    },
+    "POW": {
+      "full_name": "Tổng Công ty Điện lực Dầu khí Việt Nam - CTCP",
+      "exchange": "hsx"
+    },
+    "SAB": {
+      "full_name": "Tổng CTCP Bia - Rượu - Nước giải khát Sài Gòn",
+      "exchange": "hsx"
+    },
+    "SSB": {
+      "full_name": "Ngân hàng TMCP Đông Nam Á",
+      "exchange": "hsx"
+    },
+    "VHM": {
+      "full_name": "CTCP Vinhomes",
+      "exchange": "hsx"
+    },
+    "VJC": {
+      "full_name": "CTCP Hàng không VIETJET",
+      "exchange": "hsx"
+    },
+    "VRE": {
+      "full_name": "CTCP Vincom Retail",
+      "exchange": "hsx"
+    },
+    "AGG": {
+      "full_name": "CTCP Đầu tư và Phát triển Bất động sản An Gia",
+      "exchange": "hsx"
+    },
+    "BWE": {
+      "full_name": "CTCP - Tổng Công Ty Nước - Môi Trường Bình Dương",
+      "exchange": "hsx"
+    },
+    "CRE": {
+      "full_name": "CTCP Bất động sản Thế Kỷ",
+      "exchange": "hsx"
+    },
+    "DXS": {
+      "full_name": "CTCP Dịch vụ Bất động sản Đất Xanh",
+      "exchange": "hsx"
+    },
+    "FRT": {
+      "full_name": "CTCP Bán lẻ Kỹ thuật số FPT",
+      "exchange": "hsx"
+    },
+    "FTS": {
+      "full_name": "CTCP Chứng khoán FPT",
+      "exchange": "hsx"
+    },
+    "GEG": {
+      "full_name": "CTCP Điện Gia Lai",
+      "exchange": "hsx"
+    },
+    "GEX": {
+      "full_name": "CTCP Tập đoàn GELEX",
+      "exchange": "hsx"
+    },
+    "HHV": {
+      "full_name": "CTCP Đầu tư Hạ tầng giao thông Đèo Cả",
+      "exchange": "hsx"
+    },
+    "KOS": {
+      "full_name": "CTCP Kosy",
+      "exchange": "hsx"
+    },
+    "LPB": {
+      "full_name": "Ngân hàng TMCP Bưu điện Liên Việt",
+      "exchange": "hsx"
+    },
+    "PC1": {
+      "full_name": "CTCP Tập đoàn PC1",
+      "exchange": "hsx"
+    },
+    "SCS": {
+      "full_name": "CTCP Dịch vụ Hàng hóa Sài Gòn",
+      "exchange": "hsx"
+    },
+    "SZC": {
+      "full_name": "CTCP Sonadezi Châu Đức",
+      "exchange": "hsx"
+    },
+    "TCH": {
+      "full_name": "CTCP Đầu tư Dịch vụ Tài chính Hoàng Huy",
+      "exchange": "hsx"
+    },
+    "VCI": {
+      "full_name": "CTCP Chứng Khoán Vietcap",
+      "exchange": "hsx"
+    },
+    "VPI": {
+      "full_name": "CTCP Đầu tư Văn Phú - Invest",
+      "exchange": "hsx"
+    },
+    "AAT": {
+      "full_name": "CTCP Tập đoàn Tiên Sơn Thanh Hóa",
+      "exchange": "hsx"
+    },
+    "ABR": {
+      "full_name": "CTCP Đầu tư Nhãn Hiệu Việt",
+      "exchange": "hsx"
+    },
+    "ABS": {
+      "full_name": "CTCP Dịch vụ Nông nghiệp Bình Thuận",
+      "exchange": "hsx"
+    },
+    "ACG": {
+      "full_name": "CTCP Gỗ An Cường",
+      "exchange": "hsx"
+    },
+    "ADG": {
+      "full_name": "CTCP Clever Group",
+      "exchange": "hsx"
+    },
+    "ADS": {
+      "full_name": "CTCP Damsan",
+      "exchange": "hsx"
+    },
+    "APH": {
+      "full_name": "CTCP Tập đoàn An Phát Holdings",
+      "exchange": "hsx"
+    },
+    "ASG": {
+      "full_name": "CTCP Tập đoàn ASG",
+      "exchange": "hsx"
+    },
+    "AST": {
+      "full_name": "CTCP Dịch vụ Hàng không Taseco",
+      "exchange": "hsx"
+    },
+    "BAF": {
+      "full_name": "CTCP Nông nghiệp BAF Việt Nam",
+      "exchange": "hsx"
+    },
+    "BKG": {
+      "full_name": "CTCP Đầu tư BKG Việt Nam",
+      "exchange": "hsx"
+    },
+    "CACB2208": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CFPT2210": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CFPT2213": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CFPT2214": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CFPT2303": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CFPT2304": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CFPT2305": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CHDB2301": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CHDB2302": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CHDB2303": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CHDB2304": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CHDB2305": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CHDB2306": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CHPG2226": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CHPG2227": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CHPG2302": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CHPG2306": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CHPG2307": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CHPG2308": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CHPG2309": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CHPG2310": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CHPG2311": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CHPG2312": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CHPG2313": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CHPG2314": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CHPG2315": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CHPG2316": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CHPG2317": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CHPG2318": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CHPG2319": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CHPG2320": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CHPG2321": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CHPG2322": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CKG": {
+      "full_name": "CTCP Tập đoàn Tư vấn đầu tư và Xây dựng Kiên Giang",
+      "exchange": "hsx"
+    },
+    "CMBB2211": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CMBB2214": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CMBB2215": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CMBB2304": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CMBB2305": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CMBB2306": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CMSN2215": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CMSN2301": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CMSN2302": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CMSN2303": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CMSN2304": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CMSN2305": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CMSN2306": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CMSN2307": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CMWG2214": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CMWG2215": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CMWG2302": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CMWG2303": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CMWG2304": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CMWG2305": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CNVL2301": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CNVL2302": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CNVL2303": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CNVL2304": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CNVL2305": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CPDR2301": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CPDR2302": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CPDR2303": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CPDR2304": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CPDR2305": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CPOW2301": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CPOW2302": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CPOW2303": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CPOW2304": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CPOW2305": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CPOW2306": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CPOW2307": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CPOW2308": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CPOW2309": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CRC": {
+      "full_name": "CTCP Create Capital Việt Nam",
+      "exchange": "hsx"
+    },
+    "CSTB2224": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CSTB2225": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CSTB2303": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CSTB2304": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CSTB2305": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CSTB2306": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CSTB2307": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CSTB2308": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CSTB2309": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CSTB2310": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CSTB2311": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CSTB2312": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CSTB2313": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CSTB2314": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CSTB2315": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CSTB2316": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CSTB2317": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CSTB2318": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CSTB2319": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CTCB2212": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CTCB2215": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CTCB2216": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CTCB2302": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CTF": {
+      "full_name": "CTCP City Auto",
+      "exchange": "hsx"
+    },
+    "CTPB2302": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CTPB2303": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVHM2216": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVHM2219": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVHM2220": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVHM2301": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVHM2302": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVHM2303": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVHM2304": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVHM2305": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVHM2306": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVHM2307": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVIB2201": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVIB2302": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVIC2301": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVIC2302": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVIC2303": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVIC2304": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVIC2305": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVIC2306": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVNM2212": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVNM2301": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVNM2302": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVNM2303": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVNM2304": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVNM2305": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVNM2306": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVPB2212": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVPB2214": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVPB2301": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVPB2303": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVPB2304": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVPB2305": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVPB2306": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVRE2216": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVRE2220": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVRE2221": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVRE2302": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVRE2303": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVRE2304": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVRE2305": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVRE2306": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVRE2307": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "CVRE2308": {
+      "full_name": null,
+      "exchange": "hsx"
+    },
+    "DAH": {
+      "full_name": "CTCP Tập đoàn Khách sạn Đông Á",
+      "exchange": "hsx"
+    },
+    "DBD": {
+      "full_name": "CTCP Dược - Trang thiết bị y tế Bình Định",
+      "exchange": "hsx"
+    },
+    "DPG": {
+      "full_name": "CTCP Tập đoàn Đạt Phương",
+      "exchange": "hsx"
+    },
+    "EVF": {
+      "full_name": "Công ty Tài chính Cổ phần Điện lực",
+      "exchange": "hsx"
+    },
+    "EVG": {
+      "full_name": "CTCP Tập đoàn Everland",
+      "exchange": "hsx"
+    },
+    "FIR": {
+      "full_name": "CTCP Địa ốc First Real",
+      "exchange": "hsx"
+    },
+    "FUCTVGF3": {
+      "full_name": "Quỹ Đầu Tư Tăng Trưởng Thiên Việt 3",
+      "exchange": "hsx"
+    },
+    "FUCTVGF4": {
+      "full_name": "Quỹ Đầu Tư Tăng Trưởng Thiên Việt 4",
+      "exchange": "hsx"
+    },
+    "FUCVREIT": {
+      "full_name": "Quỹ đầu tư bất động sản Techcom Việt Nam",
+      "exchange": "hsx"
+    },
+    "FUEBFVND": {
+      "full_name": "Quỹ ETF BVFVN DIAMOND",
+      "exchange": "hsx"
+    },
+    "FUEDCMID": {
+      "full_name": "Quỹ ETF DCVFM VNMIDCAP",
+      "exchange": "hsx"
+    },
+    "FUEFCV50": {
+      "full_name": "Quỹ ETF FPT CAPITAL VNX50",
+      "exchange": "hsx"
+    },
+    "FUEIP100": {
+      "full_name": "Quỹ ETF IPAAM VN100",
+      "exchange": "hsx"
+    },
+    "FUEKIV30": {
+      "full_name": "Quỹ ETF KIM Growth VN30",
+      "exchange": "hsx"
+    },
+    "FUEKIVFS": {
+      "full_name": "Quỹ ETF KIM Growth VNFINSELECT",
+      "exchange": "hsx"
+    },
+    "FUEMAV30": {
+      "full_name": "Quỹ ETF MAFM VN30",
+      "exchange": "hsx"
+    },
+    "FUEMAVND": {
+      "full_name": "Quỹ ETF MAFM VNDIAMOND",
+      "exchange": "hsx"
+    },
+    "FUESSV30": {
+      "full_name": "Quỹ ETF SSIAM VN30",
+      "exchange": "hsx"
+    },
+    "FUESSV50": {
+      "full_name": "Quỹ ETF SSIAM VNX50",
+      "exchange": "hsx"
+    },
+    "FUESSVFL": {
+      "full_name": "Quỹ ETF Ssiam Vnfin Lead",
+      "exchange": "hsx"
+    },
+    "FUEVFVND": {
+      "full_name": "Quỹ ETF DCVFMVN DIAMOND",
+      "exchange": "hsx"
+    },
+    "FUEVN100": {
+      "full_name": "Quỹ ETF VINACAPITALVN100",
+      "exchange": "hsx"
+    },
+    "GMH": {
+      "full_name": "CTCP Minh Hưng Quảng Trị",
+      "exchange": "hsx"
+    },
+    "HCD": {
+      "full_name": "CTCP Đầu tư Sản xuất và Thương mại HCD",
+      "exchange": "hsx"
+    },
+    "HHP": {
+      "full_name": "CTCP HHP Global",
+      "exchange": "hsx"
+    },
+    "HID": {
+      "full_name": "CTCP Halcom Việt Nam",
+      "exchange": "hsx"
+    },
+    "HII": {
+      "full_name": "CTCP An Tiến Industries",
+      "exchange": "hsx"
+    },
+    "HPX": {
+      "full_name": "CTCP Đầu tư Hải Phát",
+      "exchange": "hsx"
+    },
+    "HSL": {
+      "full_name": "CTCP Đầu tư Phát triển Thực phẩm Hồng Hà",
+      "exchange": "hsx"
+    },
+    "HTN": {
+      "full_name": "CTCP Hưng Thịnh Incons",
+      "exchange": "hsx"
+    },
+    "HUB": {
+      "full_name": "CTCP Xây lắp Thừa Thiên Huế",
+      "exchange": "hsx"
+    },
+    "HVH": {
+      "full_name": "CTCP Đầu tư và Công nghệ HVC",
+      "exchange": "hsx"
+    },
+    "IBC": {
+      "full_name": "CTCP Đầu tư Apax Holdings",
+      "exchange": "hsx"
+    },
+    "ICT": {
+      "full_name": "CTCP Viễn thông - Tin học Bưu điện",
+      "exchange": "hsx"
+    },
+    "ILB": {
+      "full_name": "CTCP ICD Tân Cảng - Long Bình",
+      "exchange": "hsx"
+    },
+    "KHG": {
+      "full_name": "CTCP Tập đoàn Khải Hoàn Land",
+      "exchange": "hsx"
+    },
+    "KPF": {
+      "full_name": "CTCP Đầu tư tài sản Koji",
+      "exchange": "hsx"
+    },
+    "LEC": {
+      "full_name": "CTCP Bất động sản điện lực Miền Trung",
+      "exchange": "hsx"
+    },
+    "MIG": {
+      "full_name": "Tổng CTCP Bảo hiểm Quân Đội",
+      "exchange": "hsx"
+    },
+    "MSH": {
+      "full_name": "CTCP May Sông Hồng",
+      "exchange": "hsx"
+    },
+    "NHH": {
+      "full_name": "CTCP Nhựa Hà Nội",
+      "exchange": "hsx"
+    },
+    "NHT": {
+      "full_name": "CTCP Sản xuất và Thương mại Nam Hoa",
+      "exchange": "hsx"
+    },
+    "NO1": {
+      "full_name": "CTCP Tập đoàn 911",
+      "exchange": "hsx"
+    },
+    "NVL": {
+      "full_name": "CTCP Tập đoàn Đầu tư Địa ốc No Va",
+      "exchange": "hsx"
+    },
+    "PGV": {
+      "full_name": "Tổng Công ty Phát điện 3 - CTCP",
+      "exchange": "hsx"
+    },
+    "PLP": {
+      "full_name": "CTCP Sản xuất và Công nghệ Nhựa Pha Lê",
+      "exchange": "hsx"
+    },
+    "PMG": {
+      "full_name": "CTCP Đầu tư và Sản xuất Petro Miền Trung",
+      "exchange": "hsx"
+    },
+    "PSH": {
+      "full_name": "CTCP Thương mại Đầu tư Dầu khí Nam Sông Hậu",
+      "exchange": "hsx"
+    },
+    "PVP": {
+      "full_name": "CTCP Vận tải Dầu khí Thái Bình Dương",
+      "exchange": "hsx"
+    },
+    "S4A": {
+      "full_name": "CTCP Thủy điện Sê San 4A",
+      "exchange": "hsx"
+    },
+    "SBV": {
+      "full_name": "CTCP Siam Brothers Việt Nam",
+      "exchange": "hsx"
+    },
+    "SGN": {
+      "full_name": "CTCP Phục vụ mặt đất Sài Gòn",
+      "exchange": "hsx"
+    },
+    "SIP": {
+      "full_name": "CTCP Đầu tư Sài Gòn VRG",
+      "exchange": "hsx"
+    },
+    "SJF": {
+      "full_name": "CTCP Đầu tư Sao Thái Dương",
+      "exchange": "hsx"
+    },
+    "SVD": {
+      "full_name": "CTCP Đầu tư và Thương mại Vũ Đăng",
+      "exchange": "hsx"
+    },
+    "TCD": {
+      "full_name": "CTCP Đầu tư Phát triển Công nghiệp và Vận tải",
+      "exchange": "hsx"
+    },
+    "TDG": {
+      "full_name": "CTCP Đầu tư TDG Global",
+      "exchange": "hsx"
+    },
+    "TDM": {
+      "full_name": "CTCP Nước Thủ Dầu Một",
+      "exchange": "hsx"
+    },
+    "TDP": {
+      "full_name": "CTCP Thuận Đức",
+      "exchange": "hsx"
+    },
+    "TEG": {
+      "full_name": "CTCP Năng lượng và Bất động sản Trường Thành",
+      "exchange": "hsx"
+    },
+    "TGG": {
+      "full_name": "CTCP The Golden Group",
+      "exchange": "hsx"
+    },
+    "TLD": {
+      "full_name": "CTCP Đầu tư Xây dựng và Phát triển Đô thị Thăng Long",
+      "exchange": "hsx"
+    },
+    "TN1": {
+      "full_name": "CTCP Thương mại Dịch vụ TNS Holdings",
+      "exchange": "hsx"
+    },
+    "TNH": {
+      "full_name": "CTCP Bệnh viện Quốc tế Thái Nguyên",
+      "exchange": "hsx"
+    },
+    "TNI": {
+      "full_name": "CTCP Tập đoàn Thành Nam",
+      "exchange": "hsx"
+    },
+    "TTA": {
+      "full_name": "CTCP Đầu tư Xây dựng và Phát triển Trường Thành",
+      "exchange": "hsx"
+    },
+    "TTE": {
+      "full_name": "CTCP Đầu tư Năng lượng Trường Thịnh",
+      "exchange": "hsx"
+    },
+    "TVT": {
+      "full_name": "Tổng Công ty Việt Thắng - CTCP",
+      "exchange": "hsx"
+    },
+    "VDP": {
+      "full_name": "CTCP Dược phẩm Trung ương VIDIPHA",
+      "exchange": "hsx"
+    },
+    "VPD": {
+      "full_name": "CTCP Phát triển Điện lực Việt Nam",
+      "exchange": "hsx"
+    },
+    "VPG": {
+      "full_name": "CTCP Đầu tư Thương mại Xuất nhập khẩu Việt Phát",
+      "exchange": "hsx"
+    },
+    "YBM": {
+      "full_name": "CTCP Khoáng sản công nghiệp Yên Bái",
+      "exchange": "hsx"
+    },
+    "YEG": {
+      "full_name": "CTCP Tập đoàn Yeah1",
+      "exchange": "hsx"
+    },
+    "A32": {
+      "full_name": "CTCP 32",
+      "exchange": "upcom"
+    },
+    "AAS": {
+      "full_name": "CTCP chứng khoán SmartInvest",
+      "exchange": "upcom"
+    },
+    "ABC": {
+      "full_name": "CTCP Truyền thông VMG",
+      "exchange": "upcom"
+    },
+    "ABW": {
+      "full_name": "CTCP Chứng khoán An Bình",
+      "exchange": "upcom"
+    },
+    "ACS": {
+      "full_name": "CTCP Xây lắp Thương mại 2",
+      "exchange": "upcom"
+    },
+    "ACV": {
+      "full_name": "Tổng Công ty Cảng hàng không Việt Nam - CTCP",
+      "exchange": "upcom"
+    },
+    "AFX": {
+      "full_name": "CTCP Xuất nhập khẩu Nông sản Thực phẩm An Giang",
+      "exchange": "upcom"
+    },
+    "AG1": {
+      "full_name": "CTCP 28.1",
+      "exchange": "upcom"
+    },
+    "AGE": {
+      "full_name": "CTCP Môi trường Đô thị An Giang",
+      "exchange": "upcom"
+    },
+    "AIC": {
+      "full_name": "Tổng CTCP Bảo hiểm Hàng Không",
+      "exchange": "upcom"
+    },
+    "AMP": {
+      "full_name": "CTCP Armephaco",
+      "exchange": "upcom"
+    },
+    "AMS": {
+      "full_name": "CTCP Cơ khí Xây dựng AMECC",
+      "exchange": "upcom"
+    },
+    "ANT": {
+      "full_name": "CTCP Rau quả thực phẩm An Giang",
+      "exchange": "upcom"
+    },
+    "APL": {
+      "full_name": "CTCP Cơ khí và thiết bị áp lực - VVMI",
+      "exchange": "upcom"
+    },
+    "APT": {
+      "full_name": "CTCP Kinh doanh Thủy Hải Sản Sài Gòn",
+      "exchange": "upcom"
+    },
+    "ATB": {
+      "full_name": "CTCP An Thịnh",
+      "exchange": "upcom"
+    },
+    "ATG": {
+      "full_name": "CTCP An Trường An",
+      "exchange": "upcom"
+    },
+    "AVC": {
+      "full_name": "CTCP Thủy Điện A Vương",
+      "exchange": "upcom"
+    },
+    "BAL": {
+      "full_name": "CTCP Bao bì Bia - Rượu - Nước giải khát",
+      "exchange": "upcom"
+    },
+    "BBH": {
+      "full_name": "CTCP Bao bì Hoàng Thạch",
+      "exchange": "upcom"
+    },
+    "BBM": {
+      "full_name": "CTCP Bia Hà Nội - Nam Định",
+      "exchange": "upcom"
+    },
+    "BCA": {
+      "full_name": "CTCP B.C.H",
+      "exchange": "upcom"
+    },
+    "BCB": {
+      "full_name": "CTCP 397",
+      "exchange": "upcom"
+    },
+    "BCV": {
+      "full_name": "CTCP Du lịch và Thương mại Bằng Giang Cao Bằng - Vimico",
+      "exchange": "upcom"
+    },
+    "BDG": {
+      "full_name": "CTCP May mặc Bình Dương",
+      "exchange": "upcom"
+    },
+    "BDT": {
+      "full_name": "CTCP Xây lắp và Vật liệu xây dựng Đồng Tháp",
+      "exchange": "upcom"
+    },
+    "BEL": {
+      "full_name": "CTCP Điện tử Biên Hòa",
+      "exchange": "upcom"
+    },
+    "BGW": {
+      "full_name": "CTCP Nước sạch Bắc Giang",
+      "exchange": "upcom"
+    },
+    "BHA": {
+      "full_name": "CTCP Thủy điện Bắc Hà",
+      "exchange": "upcom"
+    },
+    "BHG": {
+      "full_name": "CTCP Chè Biển Hồ",
+      "exchange": "upcom"
+    },
+    "BHI": {
+      "full_name": "Tổng CTCP Bảo hiểm Sài Gòn - Hà Nội",
+      "exchange": "upcom"
+    },
+    "BHK": {
+      "full_name": "CTCP Bia Hà Nội - Kim Bài",
+      "exchange": "upcom"
+    },
+    "BIG": {
+      "full_name": "CTCP BIG Invest Group",
+      "exchange": "upcom"
+    },
+    "BIO": {
+      "full_name": "CTCP Vắc xin và Sinh phẩm Nha Trang",
+      "exchange": "upcom"
+    },
+    "BKH": {
+      "full_name": "CTCP Bánh Mứt Kẹo Hà Nội",
+      "exchange": "upcom"
+    },
+    "BLI": {
+      "full_name": "Tổng CTCP Bảo hiểm Bảo Long",
+      "exchange": "upcom"
+    },
+    "BLN": {
+      "full_name": "CTCP Vận tải và dịch vụ Liên Ninh",
+      "exchange": "upcom"
+    },
+    "BLT": {
+      "full_name": "CTCP Lương thực Bình Định",
+      "exchange": "upcom"
+    },
+    "BLW": {
+      "full_name": "CTCP Cấp nước Bạc Liêu",
+      "exchange": "upcom"
+    },
+    "BMD": {
+      "full_name": "CTCP Môi trường và Dịch vụ Đô thị Bình Thuận",
+      "exchange": "upcom"
+    },
+    "BMF": {
+      "full_name": "CTCP Vật liệu Xây dựng và Chất đốt Đồng Nai",
+      "exchange": "upcom"
+    },
+    "BMG": {
+      "full_name": "CTCP May Bình Minh",
+      "exchange": "upcom"
+    },
+    "BMN": {
+      "full_name": "CTCP 715",
+      "exchange": "upcom"
+    },
+    "BMS": {
+      "full_name": "CTCP Chứng khoán Bảo Minh",
+      "exchange": "upcom"
+    },
+    "BMV": {
+      "full_name": "CTCP Bột mỳ Vinafood 1",
+      "exchange": "upcom"
+    },
+    "BNW": {
+      "full_name": "CTCP Nước sạch Bắc Ninh",
+      "exchange": "upcom"
+    },
+    "BOT": {
+      "full_name": "CTCP BOT Cầu Thái Hà",
+      "exchange": "upcom"
+    },
+    "BQB": {
+      "full_name": "CTCP Bia Hà Nội - Quảng Bình",
+      "exchange": "upcom"
+    },
+    "BRR": {
+      "full_name": "CTCP Cao su Bà Rịa",
+      "exchange": "upcom"
+    },
+    "BSA": {
+      "full_name": "CTCP Thủy điện Buôn Đôn",
+      "exchange": "upcom"
+    },
+    "BSD": {
+      "full_name": "CTCP Bia, Rượu Sài Gòn - Đồng Xuân",
+      "exchange": "upcom"
+    },
+    "BSG": {
+      "full_name": "CTCP Xe khách Sài Gòn",
+      "exchange": "upcom"
+    },
+    "BSH": {
+      "full_name": "CTCP Bia Sài Gòn - Hà Nội",
+      "exchange": "upcom"
+    },
+    "BSL": {
+      "full_name": "CTCP Bia Sài Gòn - Sông Lam",
+      "exchange": "upcom"
+    },
+    "BSP": {
+      "full_name": "CTCP Bia Sài Gòn - Phú Thọ",
+      "exchange": "upcom"
+    },
+    "BSQ": {
+      "full_name": "CTCP Bia Sài Gòn - Quảng Ngãi",
+      "exchange": "upcom"
+    },
+    "BSR": {
+      "full_name": "CTCP Lọc - Hóa dầu Bình Sơn",
+      "exchange": "upcom"
+    },
+    "BT1": {
+      "full_name": "CTCP Bảo vệ Thực vật 1 Trung ương",
+      "exchange": "upcom"
+    },
+    "BTB": {
+      "full_name": "CTCP Bia Hà Nội - Thái Bình",
+      "exchange": "upcom"
+    },
+    "BTD": {
+      "full_name": "CTCP Bê tông Ly tâm Thủ Đức",
+      "exchange": "upcom"
+    },
+    "BTN": {
+      "full_name": "CTCP Đầu Tư Bitco Bình Định",
+      "exchange": "upcom"
+    },
+    "BTU": {
+      "full_name": "CTCP Công trình Đô thị Bến Tre",
+      "exchange": "upcom"
+    },
+    "BTV": {
+      "full_name": "CTCP Dịch vụ Du lịch Bến Thành",
+      "exchange": "upcom"
+    },
+    "BVL": {
+      "full_name": "CTCP BV Land",
+      "exchange": "upcom"
+    },
+    "BWS": {
+      "full_name": "CTCP Cấp nước Bà Rịa - Vũng Tàu",
+      "exchange": "upcom"
+    },
+    "C12": {
+      "full_name": "CTCP Cầu 12",
+      "exchange": "upcom"
+    },
+    "C22": {
+      "full_name": "CTCP 22",
+      "exchange": "upcom"
+    },
+    "C4G": {
+      "full_name": "CTCP Tập đoàn CIENCO4",
+      "exchange": "upcom"
+    },
+    "CAB": {
+      "full_name": "CTCP Tổng công ty Truyền hình Cáp Việt Nam",
+      "exchange": "upcom"
+    },
+    "CAR": {
+      "full_name": "CTCP Tập đoàn Giáo dục Trí Việt",
+      "exchange": "upcom"
+    },
+    "CAT": {
+      "full_name": "CTCP Thủy sản Cà Mau",
+      "exchange": "upcom"
+    },
+    "CBI": {
+      "full_name": "CTCP Gang thép Cao Bằng",
+      "exchange": "upcom"
+    },
+    "CBS": {
+      "full_name": "CTCP Mía đường Cao Bằng",
+      "exchange": "upcom"
+    },
+    "CC1": {
+      "full_name": "Tổng Công ty Xây dựng Số 1 - CTCP",
+      "exchange": "upcom"
+    },
+    "CC4": {
+      "full_name": "CTCP Đầu tư và Xây dựng số 4",
+      "exchange": "upcom"
+    },
+    "CCA": {
+      "full_name": "CTCP Xuất nhập khẩu Thủy sản Cần Thơ",
+      "exchange": "upcom"
+    },
+    "CCP": {
+      "full_name": "CTCP Cảng Cửa Cấm Hải Phòng",
+      "exchange": "upcom"
+    },
+    "CCT": {
+      "full_name": "CTCP Cảng Cần Thơ",
+      "exchange": "upcom"
+    },
+    "CCV": {
+      "full_name": "CTCP Tư vấn Xây dựng Công nghiệp và Đô thị Việt Nam",
+      "exchange": "upcom"
+    },
+    "CDG": {
+      "full_name": "CTCP Cầu Đuống",
+      "exchange": "upcom"
+    },
+    "CDH": {
+      "full_name": "CTCP Công trình công cộng và Dịch vụ Du lịch Hải Phòng",
+      "exchange": "upcom"
+    },
+    "CDP": {
+      "full_name": "CTCP Dược phẩm Trung ương Codupha",
+      "exchange": "upcom"
+    },
+    "CDR": {
+      "full_name": "CTCP Xây dựng Cao Su Đồng Nai",
+      "exchange": "upcom"
+    },
+    "CE1": {
+      "full_name": "CTCP Xây dựng và Thiết bị Công nghiệp CIE1",
+      "exchange": "upcom"
+    },
+    "CEG": {
+      "full_name": "CTCP Tập đoàn Xây dựng và Thiết bị Công nghiệp",
+      "exchange": "upcom"
+    },
+    "CEN": {
+      "full_name": "CTCP CENCON Việt Nam",
+      "exchange": "upcom"
+    },
+    "CFM": {
+      "full_name": "CTCP Đầu tư CFM",
+      "exchange": "upcom"
+    },
+    "CFV": {
+      "full_name": "CTCP Cà phê Thắng Lợi",
+      "exchange": "upcom"
+    },
+    "CGV": {
+      "full_name": "CTCP Vinaceglass",
+      "exchange": "upcom"
+    },
+    "CHC": {
+      "full_name": "CTCP Cẩm Hà",
+      "exchange": "upcom"
+    },
+    "CHS": {
+      "full_name": "CTCP Chiếu sáng Công cộng thành phố Hồ Chí Minh",
+      "exchange": "upcom"
+    },
+    "CIP": {
+      "full_name": "CTCP Xây lắp và Sản xuất Công nghiệp",
+      "exchange": "upcom"
+    },
+    "CK8": {
+      "full_name": "CTCP Cơ khí 120",
+      "exchange": "upcom"
+    },
+    "CKA": {
+      "full_name": "CTCP Cơ Khí An Giang",
+      "exchange": "upcom"
+    },
+    "CLX": {
+      "full_name": "CTCP Xuất nhập khẩu và đầu tư Chợ Lớn (Cholimex)",
+      "exchange": "upcom"
+    },
+    "CMD": {
+      "full_name": "CTCP Vật liệu Xây dựng và Trang trí nội thất Thành phố Hồ Chí Minh",
+      "exchange": "upcom"
+    },
+    "CMF": {
+      "full_name": "CTCP Thực phẩm Cholimex",
+      "exchange": "upcom"
+    },
+    "CMK": {
+      "full_name": "CTCP Cơ khí Mạo khê - Vinacomin",
+      "exchange": "upcom"
+    },
+    "CMM": {
+      "full_name": "CTCP Camimex",
+      "exchange": "upcom"
+    },
+    "CMN": {
+      "full_name": "CTCP Lương thực Thực phẩm Colusa - Miliket",
+      "exchange": "upcom"
+    },
+    "CMP": {
+      "full_name": "CTCP Cảng Chân Mây",
+      "exchange": "upcom"
+    },
+    "CMW": {
+      "full_name": "CTCP Cấp nước Cà Mau",
+      "exchange": "upcom"
+    },
+    "CNA": {
+      "full_name": "CTCP Tổng Công ty Chè Nghệ An",
+      "exchange": "upcom"
+    },
+    "CNN": {
+      "full_name": "CTCP Tư vấn công nghệ, thiết bị và kiểm định xây dựng - CONINCO",
+      "exchange": "upcom"
+    },
+    "CPA": {
+      "full_name": "CTCP Cà phê Phước An",
+      "exchange": "upcom"
+    },
+    "CPH": {
+      "full_name": "CTCP Phục vụ mai táng Hải Phòng",
+      "exchange": "upcom"
+    },
+    "CQN": {
+      "full_name": "CTCP Cảng Quảng Ninh",
+      "exchange": "upcom"
+    },
+    "CQT": {
+      "full_name": "CTCP Xi măng Quán Triều - VVMI",
+      "exchange": "upcom"
+    },
+    "CSI": {
+      "full_name": "CTCP Chứng khoán Kiến Thiết Việt Nam",
+      "exchange": "upcom"
+    },
+    "CST": {
+      "full_name": "CTCP Than Cao Sơn - TKV",
+      "exchange": "upcom"
+    },
+    "CTW": {
+      "full_name": "CTCP Cấp thoát nước Cần Thơ",
+      "exchange": "upcom"
+    },
+    "DAN": {
+      "full_name": "CTCP Dược Danapha",
+      "exchange": "upcom"
+    },
+    "DC1": {
+      "full_name": "CTCP Đầu tư Phát triển xây dựng số 1",
+      "exchange": "upcom"
+    },
+    "DCF": {
+      "full_name": "CTCP Xây dựng và Thiết kế số 1",
+      "exchange": "upcom"
+    },
+    "DCG": {
+      "full_name": "CTCP Tổng công ty May Đáp Cầu",
+      "exchange": "upcom"
+    },
+    "DCH": {
+      "full_name": "CTCP Địa chính Hà Nội",
+      "exchange": "upcom"
+    },
+    "DCR": {
+      "full_name": "CTCP Gạch Men Cosevco",
+      "exchange": "upcom"
+    },
+    "DDH": {
+      "full_name": "CTCP Đảm bảo giao thông đường thủy Hải Phòng",
+      "exchange": "upcom"
+    },
+    "DFC": {
+      "full_name": "CTCP Xích Líp Đông Anh",
+      "exchange": "upcom"
+    },
+    "DFF": {
+      "full_name": "CTCP Tập đoàn Đua Fat",
+      "exchange": "upcom"
+    },
+    "DHB": {
+      "full_name": "CTCP Phân đạm và Hóa chất Hà Bắc",
+      "exchange": "upcom"
+    },
+    "DHD": {
+      "full_name": "CTCP Dược Vật tư Y tế Hải Dương",
+      "exchange": "upcom"
+    },
+    "DHN": {
+      "full_name": "CTCP Dược phẩm Hà Nội",
+      "exchange": "upcom"
+    },
+    "DKC": {
+      "full_name": "CTCP Chợ Lạng Sơn",
+      "exchange": "upcom"
+    },
+    "DLM": {
+      "full_name": "CTCP Chiếu sáng công cộng Đà Nẵng",
+      "exchange": "upcom"
+    },
+    "DLT": {
+      "full_name": "CTCP Du lịch và Thương mại - Vinacomin",
+      "exchange": "upcom"
+    },
+    "DM7": {
+      "full_name": "CTCP Dệt May 7",
+      "exchange": "upcom"
+    },
+    "DMN": {
+      "full_name": "CTCP Domenal",
+      "exchange": "upcom"
+    },
+    "DMS": {
+      "full_name": "CTCP Hóa phẩm dầu khí DMC - Miền Nam",
+      "exchange": "upcom"
+    },
+    "DNA": {
+      "full_name": "CTCP Điện nước An Giang",
+      "exchange": "upcom"
+    },
+    "DND": {
+      "full_name": "CTCP Đầu tư Xây dựng và Vật liệu Đồng Nai",
+      "exchange": "upcom"
+    },
+    "DNE": {
+      "full_name": "CTCP Môi trường Đô Thị Đà Nẵng",
+      "exchange": "upcom"
+    },
+    "DNH": {
+      "full_name": "CTCP Thủy điện Đa Nhim - Hàm Thuận - Đa Mi",
+      "exchange": "upcom"
+    },
+    "DNN": {
+      "full_name": "CTCP Cấp nước Đà Nẵng",
+      "exchange": "upcom"
+    },
+    "DNW": {
+      "full_name": "CTCP Cấp nước Đồng Nai",
+      "exchange": "upcom"
+    },
+    "DOC": {
+      "full_name": "CTCP Vật tư nông nghiệp Đồng Nai",
+      "exchange": "upcom"
+    },
+    "DOP": {
+      "full_name": "CTCP Vận tải Xăng dầu Đồng Tháp",
+      "exchange": "upcom"
+    },
+    "DP1": {
+      "full_name": "CTCP Dược phẩm Trung ương CPC1",
+      "exchange": "upcom"
+    },
+    "DP2": {
+      "full_name": "CTCP Dược phẩm Trung ương 2",
+      "exchange": "upcom"
+    },
+    "DPH": {
+      "full_name": "CTCP Dược phẩm Hải Phòng",
+      "exchange": "upcom"
+    },
+    "DRG": {
+      "full_name": "CTCP Cao su Đắk Lắk",
+      "exchange": "upcom"
+    },
+    "DRI": {
+      "full_name": "CTCP Đầu tư Cao su Đắk Lắk",
+      "exchange": "upcom"
+    },
+    "DSC": {
+      "full_name": "CTCP Chứng khoán DSC",
+      "exchange": "upcom"
+    },
+    "DSD": {
+      "full_name": "CTCP DHC Suối Đôi",
+      "exchange": "upcom"
+    },
+    "DSG": {
+      "full_name": "CTCP Kính Đáp Cầu",
+      "exchange": "upcom"
+    },
+    "DSP": {
+      "full_name": "CTCP Dịch vụ Du lịch Phú Thọ",
+      "exchange": "upcom"
+    },
+    "DSV": {
+      "full_name": "CTCP Đường sắt Vĩnh Phú",
+      "exchange": "upcom"
+    },
+    "DTB": {
+      "full_name": "CTCP Công trình Đô thị Bảo Lộc",
+      "exchange": "upcom"
+    },
+    "DTE": {
+      "full_name": "CTCP Đầu tư Năng lượng Đại Trường Thành Holdings",
+      "exchange": "upcom"
+    },
+    "DTH": {
+      "full_name": "CTCP Dược - Vật tư Y tế Thanh Hóa",
+      "exchange": "upcom"
+    },
+    "DTI": {
+      "full_name": "CTCP Đầu tư Đức Trung",
+      "exchange": "upcom"
+    },
+    "DTP": {
+      "full_name": "CTCP Dược phẩm CPC1 Hà Nội",
+      "exchange": "upcom"
+    },
+    "DUS": {
+      "full_name": "CTCP Dịch vụ Đô thị Đà Lạt",
+      "exchange": "upcom"
+    },
+    "DVN": {
+      "full_name": "Tổng Công ty Dược Việt Nam - CTCP",
+      "exchange": "upcom"
+    },
+    "DVW": {
+      "full_name": "CTCP Dịch vụ và Xây dựng Cấp nước Đồng Nai",
+      "exchange": "upcom"
+    },
+    "DWC": {
+      "full_name": "CTCP Cấp nước Đắk Lắk",
+      "exchange": "upcom"
+    },
+    "DWS": {
+      "full_name": "CTCP Cấp nước và Môi trường đô thị Đồng Tháp",
+      "exchange": "upcom"
+    },
+    "E12": {
+      "full_name": "CTCP Xây dựng điện Vneco 12",
+      "exchange": "upcom"
+    },
+    "E29": {
+      "full_name": "CTCP Đầu tư xây dựng và kỹ thuật 29",
+      "exchange": "upcom"
+    },
+    "EIC": {
+      "full_name": "CTCP EVN quốc tế",
+      "exchange": "upcom"
+    },
+    "EIN": {
+      "full_name": "CTCP Đầu tư - Thương mại - Dịch vụ Điện lực",
+      "exchange": "upcom"
+    },
+    "EME": {
+      "full_name": "CTCP Điện Cơ",
+      "exchange": "upcom"
+    },
+    "EMG": {
+      "full_name": "CTCP Thiết bị Phụ tùng Cơ điện",
+      "exchange": "upcom"
+    },
+    "EMS": {
+      "full_name": "Tổng Công ty Chuyển phát nhanh Bưu điện - CTCP",
+      "exchange": "upcom"
+    },
+    "EPC": {
+      "full_name": "CTCP Cà Phê Ea Pốk",
+      "exchange": "upcom"
+    },
+    "EPH": {
+      "full_name": "CTCP Dịch vụ Xuất bản Giáo dục Hà Nội",
+      "exchange": "upcom"
+    },
+    "FBC": {
+      "full_name": "CTCP Cơ khí Phổ Yên",
+      "exchange": "upcom"
+    },
+    "FCC": {
+      "full_name": "CTCP Liên hợp thực phẩm",
+      "exchange": "upcom"
+    },
+    "FCS": {
+      "full_name": "CTCP Lương thực thành phố Hồ Chí Minh",
+      "exchange": "upcom"
+    },
+    "FGL": {
+      "full_name": "CTCP Cà phê Gia Lai",
+      "exchange": "upcom"
+    },
+    "FHN": {
+      "full_name": "CTCP Xuất nhập khẩu Lương thực - Thực phẩm Hà Nội",
+      "exchange": "upcom"
+    },
+    "FHS": {
+      "full_name": "CTCP Phát hành sách thành phố Hồ Chí Minh - FAHASA",
+      "exchange": "upcom"
+    },
+    "FIC": {
+      "full_name": "Tổng Công ty Vật liệu Xây dựng Số 1 - CTCP",
+      "exchange": "upcom"
+    },
+    "FOC": {
+      "full_name": "CTCP Dịch vụ Trực tuyến FPT",
+      "exchange": "upcom"
+    },
+    "FOX": {
+      "full_name": "CTCP Viễn thông FPT",
+      "exchange": "upcom"
+    },
+    "FRM": {
+      "full_name": "CTCP Lâm nghiệp Sài Gòn",
+      "exchange": "upcom"
+    },
+    "FSO": {
+      "full_name": "CTCP Cơ khí đóng tàu thủy sản Việt Nam",
+      "exchange": "upcom"
+    },
+    "FT1": {
+      "full_name": "CTCP Phụ tùng máy số 1",
+      "exchange": "upcom"
+    },
+    "FTI": {
+      "full_name": "CTCP Công nghiệp - Thương mại Hữu Nghị",
+      "exchange": "upcom"
+    },
+    "FTM": {
+      "full_name": "CTCP Đầu tư và Phát triển Đức Quân",
+      "exchange": "upcom"
+    },
+    "G36": {
+      "full_name": "Tổng Công ty 36 - CTCP",
+      "exchange": "upcom"
+    },
+    "GAB": {
+      "full_name": "CTCP Đầu tư khai khoáng & Quản lý tài sản FLC",
+      "exchange": "upcom"
+    },
+    "GCB": {
+      "full_name": "CTCP Petec Bình Định",
+      "exchange": "upcom"
+    },
+    "GCF": {
+      "full_name": "CTCP Thực phẩm G.C",
+      "exchange": "upcom"
+    },
+    "GEE": {
+      "full_name": "CTCP Điện lực Gelex",
+      "exchange": "upcom"
+    },
+    "GH3": {
+      "full_name": "CTCP Công trình Giao thông Hà Nội",
+      "exchange": "upcom"
+    },
+    "GLC": {
+      "full_name": "CTCP Vàng Lào Cai",
+      "exchange": "upcom"
+    },
+    "GLW": {
+      "full_name": "CTCP Cấp nước Gia Lai",
+      "exchange": "upcom"
+    },
+    "GND": {
+      "full_name": "CTCP Gạch ngói Đồng Nai",
+      "exchange": "upcom"
+    },
+    "GPC": {
+      "full_name": "CTCP Tập đoàn Green+",
+      "exchange": "upcom"
+    },
+    "GTD": {
+      "full_name": "CTCP Giầy Thượng Đình",
+      "exchange": "upcom"
+    },
+    "GTS": {
+      "full_name": "CTCP Công trình Giao thông Sài Gòn",
+      "exchange": "upcom"
+    },
+    "GVT": {
+      "full_name": "CTCP Giấy Việt Trì",
+      "exchange": "upcom"
+    },
+    "HAC": {
+      "full_name": "CTCP Chứng khoán Hải Phòng",
+      "exchange": "upcom"
+    },
+    "HAF": {
+      "full_name": "CTCP Thực phẩm Hà Nội",
+      "exchange": "upcom"
+    },
+    "HAM": {
+      "full_name": "CTCP Vật tư Hậu Giang",
+      "exchange": "upcom"
+    },
+    "HAN": {
+      "full_name": "Tổng Công ty Xây dựng Hà Nội - CTCP",
+      "exchange": "upcom"
+    },
+    "HAV": {
+      "full_name": "CTCP Rượu Hapro",
+      "exchange": "upcom"
+    },
+    "HBH": {
+      "full_name": "CTCP Habeco - Hải Phòng",
+      "exchange": "upcom"
+    },
+    "HC1": {
+      "full_name": "CTCP Xây dựng số 1 Hà Nội",
+      "exchange": "upcom"
+    },
+    "HC3": {
+      "full_name": "CTCP Xây dựng số 3 Hải Phòng",
+      "exchange": "upcom"
+    },
+    "HCB": {
+      "full_name": "CTCP Dệt may 29/3",
+      "exchange": "upcom"
+    },
+    "HD2": {
+      "full_name": "CTCP Đầu tư phát triển nhà HUD2",
+      "exchange": "upcom"
+    },
+    "HD6": {
+      "full_name": "CTCP Đầu tư và Phát triển Nhà số 6 Hà Nội",
+      "exchange": "upcom"
+    },
+    "HD8": {
+      "full_name": "CTCP Đầu tư phát triển nhà và đô thị HUD8",
+      "exchange": "upcom"
+    },
+    "HDP": {
+      "full_name": "CTCP Dược Hà Tĩnh",
+      "exchange": "upcom"
+    },
+    "HDW": {
+      "full_name": "CTCP Kinh doanh nước sạch Hải Dương",
+      "exchange": "upcom"
+    },
+    "HEC": {
+      "full_name": "CTCP Tư vấn Xây dựng Thủy Lợi II",
+      "exchange": "upcom"
+    },
+    "HEJ": {
+      "full_name": "Tổng Công ty Tư vấn Xây dựng Thủy Lợi Việt Nam - CTCP",
+      "exchange": "upcom"
+    },
+    "HEM": {
+      "full_name": "CTCP Chế tạo Điện cơ Hà Nội",
+      "exchange": "upcom"
+    },
+    "HEP": {
+      "full_name": "CTCP Môi trường và Công trình đô thị Huế",
+      "exchange": "upcom"
+    },
+    "HES": {
+      "full_name": "CTCP Dịch vụ Giải trí Hà Nội",
+      "exchange": "upcom"
+    },
+    "HFB": {
+      "full_name": "CTCP Công trình Cầu phà Thành phố Hồ Chí Minh",
+      "exchange": "upcom"
+    },
+    "HGT": {
+      "full_name": "CTCP Du lịch Hương Giang",
+      "exchange": "upcom"
+    },
+    "HGW": {
+      "full_name": "CTCP Cấp thoát nước - Công trình đô thị Hậu Giang",
+      "exchange": "upcom"
+    },
+    "HHN": {
+      "full_name": "CTCP Vận tải và Dịch vụ Hàng hóa Hà Nội",
+      "exchange": "upcom"
+    },
+    "HHR": {
+      "full_name": "CTCP Đường sắt Hà Hải",
+      "exchange": "upcom"
+    },
+    "HLB": {
+      "full_name": "CTCP Bia và Nước giải Khát Hạ Long",
+      "exchange": "upcom"
+    },
+    "HLR": {
+      "full_name": "CTCP Đường sắt Hà Lạng",
+      "exchange": "upcom"
+    },
+    "HLS": {
+      "full_name": "CTCP Sứ kỹ thuật Hoàng Liên Sơn",
+      "exchange": "upcom"
+    },
+    "HLT": {
+      "full_name": "CTCP Dệt may Hoàng Thị Loan",
+      "exchange": "upcom"
+    },
+    "HMS": {
+      "full_name": "CTCP Xây dựng bảo tàng Hồ Chí Minh",
+      "exchange": "upcom"
+    },
+    "HNA": {
+      "full_name": "CTCP Thủy điện Hủa Na",
+      "exchange": "upcom"
+    },
+    "HNB": {
+      "full_name": "CTCP Bến xe Hà Nội",
+      "exchange": "upcom"
+    },
+    "HND": {
+      "full_name": "CTCP Nhiệt điện Hải Phòng",
+      "exchange": "upcom"
+    },
+    "HNF": {
+      "full_name": "CTCP Thực phẩm Hữu Nghị",
+      "exchange": "upcom"
+    },
+    "HNI": {
+      "full_name": "CTCP May Hữu Nghị",
+      "exchange": "upcom"
+    },
+    "HNP": {
+      "full_name": "CTCP Hanel Xốp nhựa",
+      "exchange": "upcom"
+    },
+    "HNR": {
+      "full_name": "CTCP Rượu và Nước Giải Khát Hà Nội",
+      "exchange": "upcom"
+    },
+    "HPH": {
+      "full_name": "CTCP Hóa chất Hưng Phát Hà Bắc",
+      "exchange": "upcom"
+    },
+    "HPI": {
+      "full_name": "CTCP Khu công nghiệp Hiệp Phước",
+      "exchange": "upcom"
+    },
+    "HPM": {
+      "full_name": "CTCP Xây dựng Thương mại và Khoáng sản Hoàng Phúc",
+      "exchange": "upcom"
+    },
+    "HPW": {
+      "full_name": "CTCP Cấp nước Hải Phòng",
+      "exchange": "upcom"
+    },
+    "HRB": {
+      "full_name": "CTCP Harec Đầu tư và Thương mại",
+      "exchange": "upcom"
+    },
+    "HRT": {
+      "full_name": "CTCP Vận tải đường sắt Hà Nội",
+      "exchange": "upcom"
+    },
+    "HSA": {
+      "full_name": "CTCP HESTIA",
+      "exchange": "upcom"
+    },
+    "HSM": {
+      "full_name": "Tổng CTCP Dệt May Hà Nội",
+      "exchange": "upcom"
+    },
+    "HSP": {
+      "full_name": "CTCP Sơn Tổng hợp Hà Nội",
+      "exchange": "upcom"
+    },
+    "HSV": {
+      "full_name": "CTCP Tập đoàn HSV Việt Nam",
+      "exchange": "upcom"
+    },
+    "HTE": {
+      "full_name": "CTCP Đầu tư Kinh doanh Điện lực Thành phố Hồ Chí Minh",
+      "exchange": "upcom"
+    },
+    "HTM": {
+      "full_name": "Tổng Công ty Thương mại Hà Nội - CTCP",
+      "exchange": "upcom"
+    },
+    "HTT": {
+      "full_name": "CTCP Thương mại Hà Tây",
+      "exchange": "upcom"
+    },
+    "HU6": {
+      "full_name": "CTCP Đầu tư Phát triển Nhà và Đô thị HUD6",
+      "exchange": "upcom"
+    },
+    "HUG": {
+      "full_name": "Tổng Công ty May Hưng Yên - CTCP",
+      "exchange": "upcom"
+    },
+    "HWS": {
+      "full_name": "CTCP Cấp nước Thừa Thiên Huế",
+      "exchange": "upcom"
+    },
+    "IBD": {
+      "full_name": "CTCP In Tổng hợp Bình Dương",
+      "exchange": "upcom"
+    },
+    "ICC": {
+      "full_name": "CTCP Xây dựng công nghiệp - ICC",
+      "exchange": "upcom"
+    },
+    "ICN": {
+      "full_name": "CTCP Đầu tư Xây dựng Dầu khí IDICO",
+      "exchange": "upcom"
+    },
+    "IDP": {
+      "full_name": "CTCP Sữa Quốc Tế",
+      "exchange": "upcom"
+    },
+    "ILA": {
+      "full_name": "CTCP ILA",
+      "exchange": "upcom"
+    },
+    "ILS": {
+      "full_name": "CTCP Đầu tư Thương mại và Dịch vụ Quốc tế",
+      "exchange": "upcom"
+    },
+    "IRC": {
+      "full_name": "CTCP Cao su Công nghiệp",
+      "exchange": "upcom"
+    },
+    "IST": {
+      "full_name": "CTCP ICD Tân Cảng Sóng Thần",
+      "exchange": "upcom"
+    },
+    "ITS": {
+      "full_name": "CTCP Đầu tư, Thương mại và Dịch vụ - Vinacomin",
+      "exchange": "upcom"
+    },
+    "JOS": {
+      "full_name": "CTCP Chế biến Thủy sản Xuất khẩu Minh Hải",
+      "exchange": "upcom"
+    },
+    "KCB": {
+      "full_name": "CTCP Khoáng sản và Luyện kim Cao Bằng",
+      "exchange": "upcom"
+    },
+    "KGM": {
+      "full_name": "CTCP Xuất nhập khẩu Kiên Giang",
+      "exchange": "upcom"
+    },
+    "KHD": {
+      "full_name": "CTCP Khai thác, Chế biến Khoáng sản Hải Dương",
+      "exchange": "upcom"
+    },
+    "KHW": {
+      "full_name": "CTCP Cấp thoát nước Khánh Hòa",
+      "exchange": "upcom"
+    },
+    "KIP": {
+      "full_name": "CTCP K.I.P Việt Nam",
+      "exchange": "upcom"
+    },
+    "KLM": {
+      "full_name": "CTCP Kim loại màu Nghệ Tĩnh",
+      "exchange": "upcom"
+    },
+    "KTC": {
+      "full_name": "CTCP Thương mại Kiên Giang",
+      "exchange": "upcom"
+    },
+    "L12": {
+      "full_name": "CTCP Licogi 12",
+      "exchange": "upcom"
+    },
+    "L45": {
+      "full_name": "CTCP Lilama 45.1",
+      "exchange": "upcom"
+    },
+    "L63": {
+      "full_name": "CTCP Lilama 69-3",
+      "exchange": "upcom"
+    },
+    "LAW": {
+      "full_name": "CTCP Cấp thoát nước Long An",
+      "exchange": "upcom"
+    },
+    "LBC": {
+      "full_name": "CTCP Thương mại - Đầu tư Long Biên",
+      "exchange": "upcom"
+    },
+    "LDW": {
+      "full_name": "CTCP Cấp thoát nước Lâm Đồng",
+      "exchange": "upcom"
+    },
+    "LG9": {
+      "full_name": "CTCP Cơ giới và Xây lắp số 9",
+      "exchange": "upcom"
+    },
+    "LGM": {
+      "full_name": "CTCP Giầy da và May mặc Xuất khẩu (LEGAMEX)",
+      "exchange": "upcom"
+    },
+    "LIC": {
+      "full_name": "Tổng Công ty Licogi - CTCP",
+      "exchange": "upcom"
+    },
+    "LLM": {
+      "full_name": "Tổng Công ty lắp máy Việt Nam - CTCP",
+      "exchange": "upcom"
+    },
+    "LMC": {
+      "full_name": "CTCP Long Beach LMC",
+      "exchange": "upcom"
+    },
+    "LMH": {
+      "full_name": "CTCP Quốc tế Holding",
+      "exchange": "upcom"
+    },
+    "LMI": {
+      "full_name": "CTCP Đầu tư xây dựng lắp máy IDICO",
+      "exchange": "upcom"
+    },
+    "LNC": {
+      "full_name": "CTCP Lệ Ninh",
+      "exchange": "upcom"
+    },
+    "LPT": {
+      "full_name": "CTCP Thương mại và Sản xuất Lập Phương Thành",
+      "exchange": "upcom"
+    },
+    "LQN": {
+      "full_name": "CTCP Licogi Quảng Ngãi",
+      "exchange": "upcom"
+    },
+    "LSG": {
+      "full_name": "CTCP Bất động sản Sài Gòn Vi Na",
+      "exchange": "upcom"
+    },
+    "LTG": {
+      "full_name": "CTCP Tập đoàn Lộc Trời",
+      "exchange": "upcom"
+    },
+    "M10": {
+      "full_name": "Tổng công ty May 10 - CTCP",
+      "exchange": "upcom"
+    },
+    "MA1": {
+      "full_name": "CTCP Thiết bị",
+      "exchange": "upcom"
+    },
+    "MBN": {
+      "full_name": "CTCP Môi trường và Công trình đô thị Bắc Ninh",
+      "exchange": "upcom"
+    },
+    "MCD": {
+      "full_name": "CTCP Môi trường và Công trình Đô thị Đông Hà",
+      "exchange": "upcom"
+    },
+    "MCH": {
+      "full_name": "CTCP Hàng tiêu dùng MASAN",
+      "exchange": "upcom"
+    },
+    "MCM": {
+      "full_name": "CTCP Giống Bò sữa Mộc Châu",
+      "exchange": "upcom"
+    },
+    "MDA": {
+      "full_name": "CTCP Môi trường Đô thị Đông Anh",
+      "exchange": "upcom"
+    },
+    "MES": {
+      "full_name": "CTCP Cơ điện Công trình",
+      "exchange": "upcom"
+    },
+    "MGC": {
+      "full_name": "CTCP Địa chất mỏ - TKV",
+      "exchange": "upcom"
+    },
+    "MGG": {
+      "full_name": "Tổng Công ty Đức Giang - CTCP",
+      "exchange": "upcom"
+    },
+    "MGR": {
+      "full_name": "CTCP Tập đoàn MGROUP",
+      "exchange": "upcom"
+    },
+    "MH3": {
+      "full_name": "CTCP Khu Công nghiệp Cao su Bình Long",
+      "exchange": "upcom"
+    },
+    "MIE": {
+      "full_name": "Tổng Công ty Máy và Thiết bị Công nghiệp - CTCP",
+      "exchange": "upcom"
+    },
+    "MLC": {
+      "full_name": "CTCP Môi trường đô thị tỉnh Lào Cai",
+      "exchange": "upcom"
+    },
+    "MLS": {
+      "full_name": "CTCP Chăn nuôi - Mitraco",
+      "exchange": "upcom"
+    },
+    "MML": {
+      "full_name": "CTCP Masan MeatLife",
+      "exchange": "upcom"
+    },
+    "MNB": {
+      "full_name": "Tổng công ty May Nhà Bè - CTCP",
+      "exchange": "upcom"
+    },
+    "MND": {
+      "full_name": "CTCP Môi trường Nam Định",
+      "exchange": "upcom"
+    },
+    "MPT": {
+      "full_name": "CTCP Tập đoàn MPT",
+      "exchange": "upcom"
+    },
+    "MPY": {
+      "full_name": "CTCP Môi trường đô thị Phú Yên",
+      "exchange": "upcom"
+    },
+    "MQB": {
+      "full_name": "CTCP Môi trường và Phát triển đô thị Quảng Bình",
+      "exchange": "upcom"
+    },
+    "MQN": {
+      "full_name": "CTCP Môi trường Đô thị Quảng Ngãi",
+      "exchange": "upcom"
+    },
+    "MRF": {
+      "full_name": "CTCP Merufa",
+      "exchange": "upcom"
+    },
+    "MTA": {
+      "full_name": "Tổng Công ty Khoáng sản và Thương mại Hà Tĩnh - CTCP",
+      "exchange": "upcom"
+    },
+    "MTB": {
+      "full_name": "CTCP Môi trường và Công trình đô thị tỉnh Thái Bình",
+      "exchange": "upcom"
+    },
+    "MTL": {
+      "full_name": "CTCP Dịch vụ Môi trường Đô thị Từ Liêm",
+      "exchange": "upcom"
+    },
+    "MTS": {
+      "full_name": "CTCP Vật tư - TKV",
+      "exchange": "upcom"
+    },
+    "MTV": {
+      "full_name": "CTCP Dịch vụ môi trường và Công trình đô thị Vũng Tàu",
+      "exchange": "upcom"
+    },
+    "MVC": {
+      "full_name": "CTCP Vật liệu và Xây dựng Bình Dương",
+      "exchange": "upcom"
+    },
+    "MVN": {
+      "full_name": "Tổng Công ty Hàng hải Việt Nam - CTCP",
+      "exchange": "upcom"
+    },
+    "NAC": {
+      "full_name": "CTCP Tư vấn Xây dựng Tổng hợp",
+      "exchange": "upcom"
+    },
+    "NAS": {
+      "full_name": "CTCP Dịch vụ Hàng không Sân bay Nội Bài",
+      "exchange": "upcom"
+    },
+    "NAU": {
+      "full_name": "CTCP Môi trường và Công trình đô thị Nghệ An",
+      "exchange": "upcom"
+    },
+    "NAW": {
+      "full_name": "CTCP Cấp nước Nghệ An",
+      "exchange": "upcom"
+    },
+    "NBE": {
+      "full_name": "CTCP Sách và Thiết bị Giáo dục Miền Bắc",
+      "exchange": "upcom"
+    },
+    "NBT": {
+      "full_name": "CTCP Cấp thoát nước Bến Tre",
+      "exchange": "upcom"
+    },
+    "NDP": {
+      "full_name": "CTCP Dược phẩm 2/9",
+      "exchange": "upcom"
+    },
+    "NDT": {
+      "full_name": "Tổng CTCP Dệt may Nam Định",
+      "exchange": "upcom"
+    },
+    "NDW": {
+      "full_name": "CTCP Cấp nước Nam Định",
+      "exchange": "upcom"
+    },
+    "NED": {
+      "full_name": "CTCP Đầu tư và Phát triển Điện Tây Bắc",
+      "exchange": "upcom"
+    },
+    "NHV": {
+      "full_name": "CTCP Sức khỏe hồi sinh Việt Nam",
+      "exchange": "upcom"
+    },
+    "NJC": {
+      "full_name": "CTCP May Nam Định",
+      "exchange": "upcom"
+    },
+    "NLS": {
+      "full_name": "CTCP Cấp thoát nước Lạng Sơn",
+      "exchange": "upcom"
+    },
+    "NQN": {
+      "full_name": "CTCP Nước sạch Quảng Ninh",
+      "exchange": "upcom"
+    },
+    "NQT": {
+      "full_name": "CTCP Nước sạch Quảng Trị",
+      "exchange": "upcom"
+    },
+    "NS2": {
+      "full_name": "CTCP Nước sạch số 2 Hà Nội",
+      "exchange": "upcom"
+    },
+    "NSG": {
+      "full_name": "CTCP Nhựa Sài Gòn",
+      "exchange": "upcom"
+    },
+    "NSL": {
+      "full_name": "CTCP Cấp nước Sơn La",
+      "exchange": "upcom"
+    },
+    "NSS": {
+      "full_name": "CTCP Nông Súc Sản Đồng Nai",
+      "exchange": "upcom"
+    },
+    "NTF": {
+      "full_name": "CTCP Dược - Vật tư Y tế Nghệ An",
+      "exchange": "upcom"
+    },
+    "NTT": {
+      "full_name": "CTCP Dệt - May Nha Trang",
+      "exchange": "upcom"
+    },
+    "NUE": {
+      "full_name": "CTCP Môi trường Đô thị Nha Trang",
+      "exchange": "upcom"
+    },
+    "NVP": {
+      "full_name": "CTCP Nước sạch Vĩnh Phúc",
+      "exchange": "upcom"
+    },
+    "NWT": {
+      "full_name": "CTCP Vận tải Newway",
+      "exchange": "upcom"
+    },
+    "NXT": {
+      "full_name": "CTCP Sản xuất và Cung ứng Vật liệu xây dựng KonTum",
+      "exchange": "upcom"
+    },
+    "ODE": {
+      "full_name": "CTCP Tập đoàn Truyền thông và Giải trí ODE",
+      "exchange": "upcom"
+    },
+    "OIL": {
+      "full_name": "Tổng Công ty Dầu Việt Nam - CTCP",
+      "exchange": "upcom"
+    },
+    "ONW": {
+      "full_name": "CTCP Dịch vụ Một thế giới",
+      "exchange": "upcom"
+    },
+    "PAI": {
+      "full_name": "CTCP Công nghệ thông tin, Viễn thông và Tự động hóa Dầu Khí",
+      "exchange": "upcom"
+    },
+    "PAP": {
+      "full_name": "CTCP Dầu khí Đầu tư khai thác cảng Phước An",
+      "exchange": "upcom"
+    },
+    "PAS": {
+      "full_name": "CTCP Quốc tế Phương Anh",
+      "exchange": "upcom"
+    },
+    "PAT": {
+      "full_name": "CTCP Phốt Pho Apatit Việt Nam",
+      "exchange": "upcom"
+    },
+    "PBC": {
+      "full_name": "CTCP Dược phẩm Trung ương I - Pharbaco",
+      "exchange": "upcom"
+    },
+    "PBT": {
+      "full_name": "CTCP Nhà và Thương mại Dầu khí",
+      "exchange": "upcom"
+    },
+    "PCC": {
+      "full_name": "CTCP Tập đoàn Xây lắp 1 - Petrolimex",
+      "exchange": "upcom"
+    },
+    "PCF": {
+      "full_name": "CTCP Cà phê Petec",
+      "exchange": "upcom"
+    },
+    "PCM": {
+      "full_name": "CTCP Vật liệu xây dựng Bưu điện",
+      "exchange": "upcom"
+    },
+    "PCN": {
+      "full_name": "CTCP Hóa phẩm dầu khí DMC - Miền Bắc",
+      "exchange": "upcom"
+    },
+    "PDV": {
+      "full_name": "CTCP Vận tải và Tiếp vận Phương Đông Việt",
+      "exchange": "upcom"
+    },
+    "PEG": {
+      "full_name": "Tổng Công ty Thương mại Kỹ thuật và Đầu tư - CTCP",
+      "exchange": "upcom"
+    },
+    "PEQ": {
+      "full_name": "CTCP Thiết bị Xăng dầu Petrolimex",
+      "exchange": "upcom"
+    },
+    "PIS": {
+      "full_name": "Tổng Công ty PISICO Bình Định - CTCP",
+      "exchange": "upcom"
+    },
+    "PLA": {
+      "full_name": "CTCP Đầu tư và Dịch vụ Hạ tầng Xăng dầu",
+      "exchange": "upcom"
+    },
+    "PLE": {
+      "full_name": "CTCP Tư vấn Xây dựng Petrolimex",
+      "exchange": "upcom"
+    },
+    "PLO": {
+      "full_name": "CTCP Kho vận Petec",
+      "exchange": "upcom"
+    },
+    "PMW": {
+      "full_name": "CTCP Cấp nước Phú Mỹ",
+      "exchange": "upcom"
+    },
+    "PND": {
+      "full_name": "CTCP Xăng dầu Dầu khí Nam Định",
+      "exchange": "upcom"
+    },
+    "PNG": {
+      "full_name": "CTCP Thương mại Phú Nhuận",
+      "exchange": "upcom"
+    },
+    "PNP": {
+      "full_name": "CTCP Tân Cảng - Phú Hữu",
+      "exchange": "upcom"
+    },
+    "PNT": {
+      "full_name": "CTCP Kỹ thuật Xây dựng Phú Nhuận",
+      "exchange": "upcom"
+    },
+    "POB": {
+      "full_name": "CTCP Xăng dầu Dầu khí Thái Bình",
+      "exchange": "upcom"
+    },
+    "POS": {
+      "full_name": "CTCP Dịch vụ Lắp đặt - Vận hành và Bảo dưỡng Công trình Dầu khí biển PTSC",
+      "exchange": "upcom"
+    },
+    "PPH": {
+      "full_name": "Tổng CTCP Phong Phú",
+      "exchange": "upcom"
+    },
+    "PQN": {
+      "full_name": "CTCP Dịch vụ dầu khí Quảng Ngãi PTSC",
+      "exchange": "upcom"
+    },
+    "PRT": {
+      "full_name": "Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP",
+      "exchange": "upcom"
+    },
+    "PSN": {
+      "full_name": "CTCP Dịch vụ kỹ thuật PTSC Thanh Hóa",
+      "exchange": "upcom"
+    },
+    "PTN": {
+      "full_name": "CTCP Phát triển Nhà Khánh Hòa",
+      "exchange": "upcom"
+    },
+    "PTO": {
+      "full_name": "CTCP Dịch vụ - Xây dựng công trình Bưu điện",
+      "exchange": "upcom"
+    },
+    "PTV": {
+      "full_name": "CTCP Thương mại Dầu khí",
+      "exchange": "upcom"
+    },
+    "PTX": {
+      "full_name": "CTCP Vận tải và Dịch vụ Petrolimex Nghệ Tĩnh",
+      "exchange": "upcom"
+    },
+    "PVH": {
+      "full_name": "CTCP Xây lắp Dầu khí Thanh Hóa",
+      "exchange": "upcom"
+    },
+    "PVM": {
+      "full_name": "CTCP Máy - Thiết bị Dầu Khí",
+      "exchange": "upcom"
+    },
+    "PVO": {
+      "full_name": "CTCP Dầu nhờn PV OIL",
+      "exchange": "upcom"
+    },
+    "PVY": {
+      "full_name": "CTCP Chế tạo Giàn khoan Dầu khí",
+      "exchange": "upcom"
+    },
+    "PWA": {
+      "full_name": "CTCP Bất động sản Dầu khí",
+      "exchange": "upcom"
+    },
+    "PWS": {
+      "full_name": "CTCP Cấp thoát nước Phú Yên",
+      "exchange": "upcom"
+    },
+    "PXC": {
+      "full_name": "CTCP Phát triển Đô thị Dầu khí",
+      "exchange": "upcom"
+    },
+    "QHW": {
+      "full_name": "CTCP Nước khoáng Quảng Ninh",
+      "exchange": "upcom"
+    },
+    "QNS": {
+      "full_name": "CTCP Đường Quảng Ngãi",
+      "exchange": "upcom"
+    },
+    "QNT": {
+      "full_name": "CTCP Tư vấn và Đầu tư phát triển Quảng Nam",
+      "exchange": "upcom"
+    },
+    "QNU": {
+      "full_name": "CTCP Môi trường Đô thị Quảng Nam",
+      "exchange": "upcom"
+    },
+    "QNW": {
+      "full_name": "CTCP Cấp thoát nước và xây dựng Quảng Ngãi",
+      "exchange": "upcom"
+    },
+    "QSP": {
+      "full_name": "CTCP Tân Cảng Quy Nhơn",
+      "exchange": "upcom"
+    },
+    "QTP": {
+      "full_name": "CTCP Nhiệt điện Quảng Ninh",
+      "exchange": "upcom"
+    },
+    "RAT": {
+      "full_name": "CTCP Vận tải và Thương mại Đường sắt",
+      "exchange": "upcom"
+    },
+    "RBC": {
+      "full_name": "CTCP Công nghiệp và Xuất nhập khẩu Cao su",
+      "exchange": "upcom"
+    },
+    "RGC": {
+      "full_name": "CTCP Đầu tư PV - Inconess",
+      "exchange": "upcom"
+    },
+    "RTB": {
+      "full_name": "CTCP Cao su Tân Biên",
+      "exchange": "upcom"
+    },
+    "S72": {
+      "full_name": "CTCP Sông Đà 7.02",
+      "exchange": "upcom"
+    },
+    "SAC": {
+      "full_name": "CTCP Xếp dỡ và Dịch vụ Cảng Sài Gòn",
+      "exchange": "upcom"
+    },
+    "SAL": {
+      "full_name": "CTCP Trục vớt Cứu hộ Việt Nam",
+      "exchange": "upcom"
+    },
+    "SB1": {
+      "full_name": "CTCP Bia Sài Gòn - Nghệ Tĩnh",
+      "exchange": "upcom"
+    },
+    "SBD": {
+      "full_name": "CTCP Công nghệ Sao Bắc Đẩu",
+      "exchange": "upcom"
+    },
+    "SBH": {
+      "full_name": "CTCP Thủy điện Sông Ba Hạ",
+      "exchange": "upcom"
+    },
+    "SBL": {
+      "full_name": "CTCP Bia Sài Gòn - Bạc Liêu",
+      "exchange": "upcom"
+    },
+    "SBM": {
+      "full_name": "CTCP Đầu tư Phát triển Bắc Minh",
+      "exchange": "upcom"
+    },
+    "SBR": {
+      "full_name": "CTCP Cao su Sông Bé",
+      "exchange": "upcom"
+    },
+    "SCY": {
+      "full_name": "CTCP Đóng tàu Sông Cấm",
+      "exchange": "upcom"
+    },
+    "SEA": {
+      "full_name": "Tổng Công ty Thủy sản Việt Nam - CTCP",
+      "exchange": "upcom"
+    },
+    "SEP": {
+      "full_name": "CTCP Tổng Công ty Thương mại Quảng Trị",
+      "exchange": "upcom"
+    },
+    "SGI": {
+      "full_name": "CTCP Đầu tư phát triển Sài Gòn 3 Group",
+      "exchange": "upcom"
+    },
+    "SGO": {
+      "full_name": "CTCP Dầu thực vật Sài Gòn",
+      "exchange": "upcom"
+    },
+    "SGP": {
+      "full_name": "CTCP Cảng Sài Gòn",
+      "exchange": "upcom"
+    },
+    "SHX": {
+      "full_name": "CTCP Sài Gòn Hỏa xa",
+      "exchange": "upcom"
+    },
+    "SID": {
+      "full_name": "CTCP Đầu tư Phát triển Sài Gòn Co.op",
+      "exchange": "upcom"
+    },
+    "SIG": {
+      "full_name": "CTCP Đầu tư và Thương mại Sông Đà",
+      "exchange": "upcom"
+    },
+    "SIV": {
+      "full_name": "CTCP SIVICO",
+      "exchange": "upcom"
+    },
+    "SJG": {
+      "full_name": "Tổng Công ty Sông Đà - CTCP",
+      "exchange": "upcom"
+    },
+    "SKH": {
+      "full_name": "CTCP Nước giải khát Sanest Khánh Hòa",
+      "exchange": "upcom"
+    },
+    "SKN": {
+      "full_name": "CTCP Nước giải khát Sanna Khánh Hòa",
+      "exchange": "upcom"
+    },
+    "SKV": {
+      "full_name": "CTCP Nước giải khát Yến sào Khánh Hòa",
+      "exchange": "upcom"
+    },
+    "SNZ": {
+      "full_name": "Tổng CTCP Phát triển khu công nghiệp",
+      "exchange": "upcom"
+    },
+    "SP2": {
+      "full_name": "CTCP Thủy điện Sử Pán 2",
+      "exchange": "upcom"
+    },
+    "SPB": {
+      "full_name": "CTCP Sợi Phú Bài",
+      "exchange": "upcom"
+    },
+    "SPV": {
+      "full_name": "CTCP Thủy Đặc Sản",
+      "exchange": "upcom"
+    },
+    "SRT": {
+      "full_name": "CTCP Vận tải Đường sắt Sài Gòn",
+      "exchange": "upcom"
+    },
+    "SSH": {
+      "full_name": "CTCP Phát triển Sunshine Homes",
+      "exchange": "upcom"
+    },
+    "STH": {
+      "full_name": "CTCP Phát hành sách Thái Nguyên",
+      "exchange": "upcom"
+    },
+    "STW": {
+      "full_name": "CTCP Cấp nước Sóc Trăng",
+      "exchange": "upcom"
+    },
+    "SVG": {
+      "full_name": "CTCP Hơi Kỹ nghệ Que Hàn",
+      "exchange": "upcom"
+    },
+    "SVH": {
+      "full_name": "CTCP Thủy điện Sông Vàng",
+      "exchange": "upcom"
+    },
+    "SZE": {
+      "full_name": "CTCP Môi trường Sonadezi",
+      "exchange": "upcom"
+    },
+    "SZG": {
+      "full_name": "CTCP Sonadezi Giang Điền",
+      "exchange": "upcom"
+    },
+    "TA3": {
+      "full_name": "CTCP Đầu tư và Xây lắp Thành An 386",
+      "exchange": "upcom"
+    },
+    "TA6": {
+      "full_name": "CTCP Đầu tư và Xây lắp Thành An 665",
+      "exchange": "upcom"
+    },
+    "TAN": {
+      "full_name": "CTCP Cà phê Thuận An",
+      "exchange": "upcom"
+    },
+    "TAW": {
+      "full_name": "CTCP Cấp nước Trung An",
+      "exchange": "upcom"
+    },
+    "TB8": {
+      "full_name": "CTCP Sản xuất và kinh doanh Vật tư Thiết bị - VVMI",
+      "exchange": "upcom"
+    },
+    "TBH": {
+      "full_name": "CTCP Tổng Bách Hóa",
+      "exchange": "upcom"
+    },
+    "TBR": {
+      "full_name": "CTCP Địa ốc Tân Bình",
+      "exchange": "upcom"
+    },
+    "TCI": {
+      "full_name": "CTCP Chứng Khoán Thành Công",
+      "exchange": "upcom"
+    },
+    "TCJ": {
+      "full_name": "CTCP Tô Châu",
+      "exchange": "upcom"
+    },
+    "TCK": {
+      "full_name": "Tổng Công ty cơ khí xây dựng - CTCP",
+      "exchange": "upcom"
+    },
+    "TCW": {
+      "full_name": "CTCP Kho vận Tân Cảng",
+      "exchange": "upcom"
+    },
+    "TDB": {
+      "full_name": "CTCP Thủy điện Định Bình",
+      "exchange": "upcom"
+    },
+    "TDF": {
+      "full_name": "CTCP Trung Đô",
+      "exchange": "upcom"
+    },
+    "TED": {
+      "full_name": "Tổng Công ty Tư vấn thiết kế Giao thông vận tải - CTCP",
+      "exchange": "upcom"
+    },
+    "TEL": {
+      "full_name": "CTCP Phát triển công trình Viễn thông",
+      "exchange": "upcom"
+    },
+    "THN": {
+      "full_name": "CTCP Cấp nước Thanh Hóa",
+      "exchange": "upcom"
+    },
+    "THP": {
+      "full_name": "CTCP Thủy sản và Thương mại Thuận Phước",
+      "exchange": "upcom"
+    },
+    "THU": {
+      "full_name": "CTCP Môi trường và Công trình đô thị Thanh Hóa",
+      "exchange": "upcom"
+    },
+    "THW": {
+      "full_name": "CTCP Cấp nước Tân Hòa",
+      "exchange": "upcom"
+    },
+    "TID": {
+      "full_name": "CTCP Tổng Công ty Tín Nghĩa",
+      "exchange": "upcom"
+    },
+    "TIN": {
+      "full_name": "Công ty Tài chính Cổ phần Tín Việt",
+      "exchange": "upcom"
+    },
+    "TKA": {
+      "full_name": "CTCP Bao bì Tân Khánh An",
+      "exchange": "upcom"
+    },
+    "TLI": {
+      "full_name": "CTCP May Quốc Tế Thắng Lợi",
+      "exchange": "upcom"
+    },
+    "TLP": {
+      "full_name": "Tổng Công ty Thương mại Xuất nhập khẩu Thanh Lễ - CTCP",
+      "exchange": "upcom"
+    },
+    "TMG": {
+      "full_name": "CTCP Kim loại màu Thái Nguyên - Vimico",
+      "exchange": "upcom"
+    },
+    "TNP": {
+      "full_name": "CTCP Cảng Thị Nại",
+      "exchange": "upcom"
+    },
+    "TNS": {
+      "full_name": "CTCP Thép tấm lá Thống Nhất",
+      "exchange": "upcom"
+    },
+    "TNW": {
+      "full_name": "CTCP Nước sạch Thái Nguyên",
+      "exchange": "upcom"
+    },
+    "TOS": {
+      "full_name": "CTCP Dịch vụ biển Tân Cảng",
+      "exchange": "upcom"
+    },
+    "TOW": {
+      "full_name": "CTCP Cấp nước Trà Nóc - Ô Môn",
+      "exchange": "upcom"
+    },
+    "TPS": {
+      "full_name": "CTCP Bến bãi Vận tải Sài Gòn",
+      "exchange": "upcom"
+    },
+    "TQN": {
+      "full_name": "CTCP Thông Quảng Ninh",
+      "exchange": "upcom"
+    },
+    "TQW": {
+      "full_name": "CTCP Cấp thoát nước Tuyên Quang",
+      "exchange": "upcom"
+    },
+    "TR1": {
+      "full_name": "CTCP Vận tải 1 Traco",
+      "exchange": "upcom"
+    },
+    "TRT": {
+      "full_name": "CTCP Redstarcera",
+      "exchange": "upcom"
+    },
+    "TS3": {
+      "full_name": "CTCP Trường Sơn 532",
+      "exchange": "upcom"
+    },
+    "TSD": {
+      "full_name": "CTCP Du lịch Trường Sơn COECCO",
+      "exchange": "upcom"
+    },
+    "TSG": {
+      "full_name": "CTCP Thông tin tín hiệu đường sắt Sài Gòn",
+      "exchange": "upcom"
+    },
+    "TSJ": {
+      "full_name": "CTCP Du lịch Dịch vụ Hà Nội",
+      "exchange": "upcom"
+    },
+    "TTD": {
+      "full_name": "CTCP Bệnh viện tim Tâm Đức",
+      "exchange": "upcom"
+    },
+    "TTN": {
+      "full_name": "CTCP Công nghệ và Truyền thông Việt Nam",
+      "exchange": "upcom"
+    },
+    "TTS": {
+      "full_name": "CTCP Cán thép Thái Trung",
+      "exchange": "upcom"
+    },
+    "TUG": {
+      "full_name": "CTCP Lai dắt và Vận tải Cảng Hải Phòng",
+      "exchange": "upcom"
+    },
+    "TV6": {
+      "full_name": "CTCP Thương mại Đầu tư Xây lắp điện Thịnh Vượng",
+      "exchange": "upcom"
+    },
+    "TVA": {
+      "full_name": "CTCP Sứ Viglacera Thanh Trì",
+      "exchange": "upcom"
+    },
+    "TVH": {
+      "full_name": "CTCP Tư vấn xây dựng công trình hàng hải",
+      "exchange": "upcom"
+    },
+    "TVM": {
+      "full_name": "CTCP Tư vấn đầu tư Mỏ và Công nghiệp - Vinacomin",
+      "exchange": "upcom"
+    },
+    "TVN": {
+      "full_name": "Tổng Công ty Thép Việt Nam - CTCP",
+      "exchange": "upcom"
+    },
+    "TVP": {
+      "full_name": "CTCP Dược phẩm TV.Pharm",
+      "exchange": "upcom"
+    },
+    "TVW": {
+      "full_name": "CTCP Cấp thoát nước Trà Vinh",
+      "exchange": "upcom"
+    },
+    "TW3": {
+      "full_name": "CTCP Dược Trung ương 3",
+      "exchange": "upcom"
+    },
+    "UCT": {
+      "full_name": "CTCP Đô thị Cần Thơ",
+      "exchange": "upcom"
+    },
+    "UDL": {
+      "full_name": "CTCP Đô thị và Môi trường Đắk Lắk",
+      "exchange": "upcom"
+    },
+    "UMC": {
+      "full_name": "CTCP Công trình đô thị Nam Định",
+      "exchange": "upcom"
+    },
+    "UPH": {
+      "full_name": "CTCP Dược phẩm TW 25",
+      "exchange": "upcom"
+    },
+    "USC": {
+      "full_name": "CTCP Khảo sát và Xây dựng - USCO",
+      "exchange": "upcom"
+    },
+    "USD": {
+      "full_name": "CTCP Công trình Đô thị Sóc Trăng",
+      "exchange": "upcom"
+    },
+    "VAV": {
+      "full_name": "CTCP VIWACO",
+      "exchange": "upcom"
+    },
+    "VBB": {
+      "full_name": "Ngân hàng TMCP Việt Nam Thương Tín",
+      "exchange": "upcom"
+    },
+    "VBG": {
+      "full_name": "CTCP Địa chất Việt Bắc - TKV",
+      "exchange": "upcom"
+    },
+    "VCE": {
+      "full_name": "CTCP Xây lắp Môi trường",
+      "exchange": "upcom"
+    },
+    "VCP": {
+      "full_name": "CTCP Xây dựng và Năng lượng VCP",
+      "exchange": "upcom"
+    },
+    "VCW": {
+      "full_name": "CTCP Đầu tư nước sạch Sông Đà",
+      "exchange": "upcom"
+    },
+    "VDB": {
+      "full_name": "CTCP Vận tải và Chế biến Than Đông Bắc",
+      "exchange": "upcom"
+    },
+    "VEA": {
+      "full_name": "Tổng Công ty Máy động lực và Máy nông nghiệp Việt Nam - CTCP",
+      "exchange": "upcom"
+    },
+    "VEC": {
+      "full_name": "Tổng CTCP Điện tử và Tin học Việt Nam",
+      "exchange": "upcom"
+    },
+    "VEF": {
+      "full_name": "CTCP Trung tâm Hội chợ Triển lãm Việt Nam",
+      "exchange": "upcom"
+    },
+    "VET": {
+      "full_name": "CTCP Thuốc Thú y Trung ương NAVETCO",
+      "exchange": "upcom"
+    },
+    "VGI": {
+      "full_name": "Tổng CTCP Đầu tư Quốc tế Viettel",
+      "exchange": "upcom"
+    },
+    "VGL": {
+      "full_name": "CTCP Mạ kẽm công nghiệp Vingal-Vnsteel",
+      "exchange": "upcom"
+    },
+    "VGR": {
+      "full_name": "CTCP Cảng Xanh VIP",
+      "exchange": "upcom"
+    },
+    "VGT": {
+      "full_name": "Tập đoàn Dệt may Việt Nam",
+      "exchange": "upcom"
+    },
+    "VGV": {
+      "full_name": "Tổng công ty tư vấn xây dựng Việt Nam - CTCP",
+      "exchange": "upcom"
+    },
+    "VHD": {
+      "full_name": "CTCP Đầu tư Phát triển nhà và Đô thị Vinahud",
+      "exchange": "upcom"
+    },
+    "VIH": {
+      "full_name": "CTCP Viglacera Hà Nội",
+      "exchange": "upcom"
+    },
+    "VIM": {
+      "full_name": "CTCP Khoáng sản Viglacera",
+      "exchange": "upcom"
+    },
+    "VIW": {
+      "full_name": "Tổng công ty Đầu tư Nước và Môi trường Việt Nam - CTCP",
+      "exchange": "upcom"
+    },
+    "VLB": {
+      "full_name": "CTCP Xây dựng và sản xuất vật liệu xây dựng Biên Hòa",
+      "exchange": "upcom"
+    },
+    "VLP": {
+      "full_name": "CTCP Công trình Công cộng Vĩnh Long",
+      "exchange": "upcom"
+    },
+    "VLW": {
+      "full_name": "CTCP Cấp nước Vĩnh Long",
+      "exchange": "upcom"
+    },
+    "VMT": {
+      "full_name": "CTCP Giao nhận vận tải Miền Trung",
+      "exchange": "upcom"
+    },
+    "VNB": {
+      "full_name": "CTCP Sách Việt Nam",
+      "exchange": "upcom"
+    },
+    "VNY": {
+      "full_name": "CTCP Thuốc thú y Trung ương I",
+      "exchange": "upcom"
+    },
+    "VNZ": {
+      "full_name": "CTCP VNG",
+      "exchange": "upcom"
+    },
+    "VOC": {
+      "full_name": "Tổng Công ty Công nghiệp dầu thực vật Việt Nam - CTCP",
+      "exchange": "upcom"
+    },
+    "VPA": {
+      "full_name": "CTCP Vận tải hóa dầu VP",
+      "exchange": "upcom"
+    },
+    "VPR": {
+      "full_name": "CTCP Vinaprint",
+      "exchange": "upcom"
+    },
+    "VPW": {
+      "full_name": "CTCP Cấp thoát nước số 1 Vĩnh Phúc",
+      "exchange": "upcom"
+    },
+    "VSE": {
+      "full_name": "CTCP Dịch vụ Đường cao tốc Việt Nam",
+      "exchange": "upcom"
+    },
+    "VSF": {
+      "full_name": "Tổng Công ty Lương Thực Miền Nam - CTCP",
+      "exchange": "upcom"
+    },
+    "VSN": {
+      "full_name": "CTCP Việt Nam Kỹ nghệ Súc sản",
+      "exchange": "upcom"
+    },
+    "VTD": {
+      "full_name": "CTCP Vietourist Holdings",
+      "exchange": "upcom"
+    },
+    "VTG": {
+      "full_name": "CTCP Du lịch tỉnh Bà Rịa - Vũng Tàu",
+      "exchange": "upcom"
+    },
+    "VTP": {
+      "full_name": "Tổng CTCP Bưu chính Viettel",
+      "exchange": "upcom"
+    },
+    "VTQ": {
+      "full_name": "CTCP Việt Trung Quảng Bình",
+      "exchange": "upcom"
+    },
+    "VTR": {
+      "full_name": "CTCP Du lịch và Tiếp thị Giao thông vận tải Việt Nam - Vietravel",
+      "exchange": "upcom"
+    },
+    "VUA": {
+      "full_name": "CTCP Chứng khoán Stanley Brothers",
+      "exchange": "upcom"
+    },
+    "VVN": {
+      "full_name": "Tổng CTCP Xây dựng Công nghiệp Việt Nam",
+      "exchange": "upcom"
+    },
+    "VVS": {
+      "full_name": "CTCP Đầu tư phát triển máy Việt Nam",
+      "exchange": "upcom"
+    },
+    "VW3": {
+      "full_name": "CTCP Viwaseen3",
+      "exchange": "upcom"
+    },
+    "VWS": {
+      "full_name": "CTCP Nước và Môi trường Việt Nam",
+      "exchange": "upcom"
+    },
+    "VXP": {
+      "full_name": "CTCP Thuốc Thú y Trung ương VETVACO",
+      "exchange": "upcom"
+    },
+    "VXT": {
+      "full_name": "CTCP Kho vận và Dịch vụ Thương mại",
+      "exchange": "upcom"
+    },
+    "X26": {
+      "full_name": "CTCP 26",
+      "exchange": "upcom"
+    },
+    "X77": {
+      "full_name": "CTCP Thành An 77",
+      "exchange": "upcom"
+    },
+    "XDC": {
+      "full_name": "CTCP Xây dựng Công trình Tân Cảng",
+      "exchange": "upcom"
+    },
+    "XDH": {
+      "full_name": "CTCP Đầu tư Xây dựng Dân dụng Hà Nội",
+      "exchange": "upcom"
+    },
+    "XHC": {
+      "full_name": "CTCP Xuân Hòa Việt Nam",
+      "exchange": "upcom"
+    },
+    "XLV": {
+      "full_name": "CTCP Xây lắp và Dịch vụ Sông Đà",
+      "exchange": "upcom"
+    },
+    "XMP": {
+      "full_name": "CTCP Thủy điện Xuân Minh",
+      "exchange": "upcom"
+    },
+    "YTC": {
+      "full_name": "CTCP Xuất nhập khẩu Y tế Thành phố Hồ Chí Minh",
+      "exchange": "upcom"
+    }
+  },
+  "vn100": [
+    "AAA",
+    "ACB",
+    "AGG",
+    "ANV",
+    "ASM",
+    "BCG",
+    "BCM",
+    "BID",
+    "BMP",
+    "BVH",
+    "BWE",
+    "CII",
+    "CMG",
+    "CRE",
+    "CTD",
+    "CTG",
+    "CTR",
+    "DBC",
+    "DCM",
+    "DGC",
+    "DGW",
+    "DHC",
+    "DIG",
+    "DPM",
+    "DXG",
+    "DXS",
+    "EIB",
+    "FPT",
+    "FRT",
+    "FTS",
+    "GAS",
+    "GEG",
+    "GEX",
+    "GMD",
+    "GVR",
+    "HAG",
+    "HCM",
+    "HDB",
+    "HDC",
+    "HDG",
+    "HHV",
+    "HPG",
+    "HSG",
+    "HT1",
+    "IMP",
+    "KBC",
+    "KDC",
+    "KDH",
+    "KOS",
+    "LPB",
+    "MBB",
+    "MSB",
+    "MSN",
+    "MWG",
+    "NKG",
+    "NLG",
+    "NT2",
+    "OCB",
+    "PAN",
+    "PC1",
+    "PDR",
+    "PHR",
+    "PLX",
+    "PNJ",
+    "POW",
+    "PPC",
+    "PTB",
+    "PVD",
+    "PVT",
+    "REE",
+    "SAB",
+    "SAM",
+    "SBT",
+    "SCS",
+    "SHB",
+    "SJS",
+    "SSB",
+    "SSI",
+    "STB",
+    "SZC",
+    "TCB",
+    "TCH",
+    "TMS",
+    "TPB",
+    "VCB",
+    "VCG",
+    "VCI",
+    "VGC",
+    "VHC",
+    "VHM",
+    "VIB",
+    "VIC",
+    "VIX",
+    "VJC",
+    "VND",
+    "VNM",
+    "VPB",
+    "VPI",
+    "VRE",
+    "VSH"
+  ],
+  "vn30": [
+    "ACB",
+    "BCM",
+    "BID",
+    "BVH",
+    "CTG",
+    "FPT",
+    "GAS",
+    "GVR",
+    "HDB",
+    "HPG",
+    "MBB",
+    "MSN",
+    "MWG",
+    "PLX",
+    "POW",
+    "SAB",
+    "SHB",
+    "SSB",
+    "SSI",
+    "STB",
+    "TCB",
+    "TPB",
+    "VCB",
+    "VHM",
+    "VIB",
+    "VIC",
+    "VJC",
+    "VNM",
+    "VPB",
+    "VRE"
+  ]
+}
